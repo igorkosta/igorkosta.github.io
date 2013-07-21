@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Igor Kostyuchenok</title>
+		<meta content="Igor Kosta's Buckethome" name="description">
+		<meta content="Igor Kostyuchenok" name="author">
+		<meta content="igor, kostyuchenok, kosta, product managemer, product owner, scrum, agile, kanban, leadership" name="keywords">
+
+    <!-- Le styles -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!--script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script-->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/detectmobilebrowser.js"></script>
+
+    <!--script type="text/javascript" src="http://github.com/janl/mustache.js/raw/master/mustache.js">
+</script-->
+    <script type="text/javascript" src="js/mustache.js"></script>
+
+	<script type="text/javascript" src="docs/config.js"></script>
+
+    <script type="text/javascript">
+	    var jq200 = jQuery.noConflict();
+
+	      jq200(document).ready(function(){
+					jq200('#footer').load('footer.html');
+	    });
+    </script>
+
+		<script type="text/javascript">
+		var networks_section = "{{#networks}}<div class='col-md-3 net'>{{{network_link}}}</div>{{/networks}}"
+
+		var experience_section = "{{#experiences}}<div class='row experience' style='margin-bottom: 30px;'><div class='col-md-3 title description'><h5>{{{title}}}</h5></div><div class='col-md-6 description'><ul class='experience'>{{#details}}<li>{{{.}}}</li>{{/details}}</ul></div><div class='col-md-3 tools'>{{#tools}}<span class='label label-primary'>{{.}}</span>{{/tools}}</div></div><div class='row text-center' style='margin-bottom: 30px;'><i class='fa fa-arrow-up fa-3x'></i><h5>{{from}}</h5></div></div>{{/experiences}}"
+
+		var contacts_section = "{{#contacts}}<div class='row header' style='margin-bottom: 50px;'><div class='col-md-3 picture'><img class='img-circle' src='img/me.jpg'/></div><div class='col-md-6 title'><h2>{{title}}</h2>{{{url}}}</div><div id='contact' class='col-md-3 hidden-phone'><dl class='dl-horizontal'><dt><i class='fa fa-home'></i></dt><dd><a target='_blank' href='https://maps.google.com/?q={{street}} {{zip}} {{city}} {{country}}'><address>{{street}}<br/>{{zip}} {{city}}<br/>{{country}}</address></a></dd><dt><i class='fa fa-mobile-phone'></i></dt><dd>{{{phone}}}</dd><dt><i class='fa fa-envelope-o'></i></dt><dd>{{{email}}}</dd></dl></div></div>{{/contacts}}"
+
+		jq200(document).ready(function() {
+			jq200("#networks").html(Mustache.to_html(networks_section, networks));
+			jq200("#cv").html(Mustache.to_html(experience_section, experiences));
+			jq200("#contacts").html(Mustache.to_html(contacts_section, contacts));
+		});
+		</script>
+
+  </head>
+
+  <body>
+    <!--Login Modal -->
+    <div id="immodal" class="modal hide fade" tabindex="-1" role="dialog">
+    </div>
+
+    <div class="container main">
+
+			<div class="networks">
+		    <div id="networks" class="row">
+				</div>
+			</div>
+
+			<div id="contacts">
+			</div>
+
+      <div id="cv">
+				<!--div class="row">
+				  <div class="col-md-12 text-center">
+						<div class="visible-phone">
+							<a id="resume" href="cv.html" class="lnk"><h1>Show Resumé</h1></a>
+						</div>
+					</div>
+				</div-->
+      </div><!-- /arena -->
+
+		<div id="footer">
+		</div>
+
+
+  </div><!-- /container -->
+
+<script type="text/javascript">
+jq200(window).bind("load", function() {
+  jq200('.fa-square-o').hide();
+	jq200('.fa-stack').mouseover(function() {
+	           jq200(this).children('.fa-square-o').show();
+	       }).mouseout(function() {
+	           jq200('.fa-square-o').hide();
+	       });
+
+});
+</script>
+
+
+<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-42619461-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  </body>
+</html>

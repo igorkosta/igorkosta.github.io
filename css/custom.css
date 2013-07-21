@@ -1,0 +1,87 @@
+html, body {
+	/*background: url('../img/backgrounds/cream_dust.png') repeat top center;*/
+	color: #b3b3b1;
+}
+body {
+  padding-top: 10px;
+}
+a:hover{
+	text-decoration: none;
+	color: #b3b3b1;	
+}
+.networks a:visited, .networks a:link, .networks a:active {
+  text-decoration: none;
+	color: #b3b3b1;	
+}
+.networks a:hover {
+	color: #0088cc;
+}
+#networks {
+	text-align:center; 
+	padding: 30px 0px;
+}
+.stretch {
+    background-size: contain;
+    height: 100%;
+}
+.net {
+	padding-bottom: 30px;
+}
+#loader {
+  position:absolute; 
+  width:100%;
+  height:100%;"
+}
+footer {
+	text-align: center;
+	padding-top: 20px;
+	color: #b3b3b1;
+}
+
+/* resume section */
+.title h2 {
+	margin: 0 0;
+}
+.contact ul {
+    list-style-type: none;
+		padding:0; 
+		margin:0;
+}
+.contact a {
+	color: #b3b3b1;
+	text-decoration: none;	
+}
+.contact li {
+	display: block;
+	padding-bottom: 10px;
+}
+.contact i {
+	padding-right: 20px;
+}
+.experience ul>li {
+	margin-bottom: 5px;
+}
+.experience ul {
+	list-style-type: circle;
+}
+
+.description h5, .description h4, .description h3, .description h2, .description h1 {
+	margin-top: 0;
+}
+.dl-horizontal dt {
+	width: 30px;
+}
+.dl-horizontal dd {
+	margin-left: 40px;
+}
+.label {
+	display: inline-block;
+	margin: 1px;
+	font-weight: normal;
+}
+
+.input-nano,input.nano,textarea.nano,select.nano{width:40px;}
+
+.spacer {
+  margin-top: 40px; /* define margin as you see fit */
+}
