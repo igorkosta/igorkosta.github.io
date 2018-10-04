@@ -20,7 +20,7 @@
       <div class="header">
       </div>
       <div class="avatar">
-        <img alt="That's me" src="https://www.gravatar.com/avatar/b92db07ed37688ab0e31d1f6f7bd4ae1?s=200" />
+        <!--img alt="That's me" src="https://www.gravatar.com/avatar/b92db07ed37688ab0e31d1f6f7bd4ae1?s=200" /-->
       </div>
       <div class="main">
       </div>
@@ -51,5 +51,9 @@
       <div class="footer">
       </div>
     </div>
+    <script type="module">
+      import { renderGravatar } from './js/avatar.mjs'
+      renderGravatar('igor.kostyuchenok@gmail.com')
+    </script>
   </body>
 </html>
