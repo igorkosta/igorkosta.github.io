@@ -16,10 +16,10 @@
 .main {
   grid-area: main;
 }
-.current {
+.positions {
   place-self: center;
   text-align: center;
-  color: #365f9b;
+  color: black;
   grid-column: 2 / span 2;
   grid-row: 2 / 3;
 }
@@ -39,13 +39,13 @@
   display: inline-block;
 }
 a:link, a:visited {
-  color: #365f9b;
+  color: black;
   text-align: center;
   text-decoration: none;
   display: inline-block;
 }
 a:hover, a:active {
-  color: #e38e87;
+  color: #365f9b;
 }
 
 .footer {
