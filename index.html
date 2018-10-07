@@ -31,8 +31,18 @@
       </div>
       <div class="main">
       </div>
+      <div class="arrow-left">
+        <a href="#" onClick="positions('next')" alt="Next">
+          <i class="fas fa-3x fa-chevron-circle-left"></i>
+        </a>
+      </div>
       <div class="positions">
         <h4>Currently <br/>Product Lead and Software Engineer <br/>@ Mbanq Cloud</h4>
+      </div>
+      <div class="arrow-right">
+        <a href="#" onClick="positions('previous')" alt="Previous">
+          <i class="fas fa-3x fa-chevron-circle-right"></i>
+        </a>
       </div>
       <div class="links">
         <ul>
@@ -69,6 +79,11 @@
     <script type="module">
       import { renderGravatar } from './js/avatar.mjs'
       renderGravatar('igor.kostyuchenok@gmail.com')
+    </script>
+    <script type="text/javascript">
+      function positions (which) {
+        alert(`${which} position`)
+      }
     </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42619461-1"></script>
