@@ -16,33 +16,24 @@
 		<title>Igor Kostyuchenok</title>
 		<meta content="Igor Kosta" name="description">
 		<meta content="Igor Kostyuchenok" name="author">
-		<meta content="igor, kostyuchenok, kosta, product managemer, product owner, scrum, agile, kanban, leadership" name="keywords">
+		<meta content="startup builder, startups, accelerator, creator" name="keywords">
 
     <!-- Le styles -->
     <link href="css/grid.css" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="icon" href="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/emojidex/112/sign-of-the-horns_1f918.png">
   </head>
 
   <body>
-    <div class="container">
+    <div id="app" class="container">
       <div class="header">
       </div>
       <div class="avatar">
       </div>
       <div class="main">
       </div>
-      <div class="arrow-left">
-        <a href="#" onClick="positions('next')" alt="Next">
-          <i class="fas fa-3x fa-chevron-circle-left"></i>
-        </a>
-      </div>
       <div class="positions">
         <h4>Currently <br/>Product Lead and Software Engineer <br/>@ Mbanq Cloud</h4>
-      </div>
-      <div class="arrow-right">
-        <a href="#" onClick="positions('previous')" alt="Previous">
-          <i class="fas fa-3x fa-chevron-circle-right"></i>
-        </a>
       </div>
       <div class="links">
         <ul>
@@ -76,13 +67,14 @@
       <div class="footer">
       </div>
     </div>
+    <script type="module" src="./js/positions.mjs"></script>
     <script type="module">
       import { renderGravatar } from './js/avatar.mjs'
       renderGravatar('igor.kostyuchenok@gmail.com')
     </script>
     <script type="text/javascript">
-      function positions (which) {
-        alert(`${which} position`)
+      function updatePosition (which) {
+        console.log(`${which} position`)
       }
     </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
