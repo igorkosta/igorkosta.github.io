@@ -46,7 +46,8 @@ export default !function() {
 
   leftArrow.className = 'left-arrow fas fa-3x fa-chevron-circle-left'
   rightArrow.className = 'right-arrow fas fa-3x fa-chevron-circle-right'
-  const section = document.querySelector('.positions')
+  position.className = 'position'
+  const section = document.querySelector('#app')
   section.appendChild(leftArrow)
   section.appendChild(position)
   section.appendChild(rightArrow)

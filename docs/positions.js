@@ -1,18 +1,22 @@
 export default [
   {
-    brief: 'First ever open banking API and Marketplace',
+    position: 'Product Lead',
+    brief: 'Open banking API and Marketplace',
     company: 'Fidor Bank'
   },
   {
-    brief: 'Currently Product Lead and Software Engineer',
-    company: 'Mbanq Cloud'
+    position: 'Product Lead/Team Lead',
+    brief: 'Building the serverless backend and the JS frontends for Mbanq Cloud',
+    company: 'Mbanq'
   },
   {
-    brief: 'Head of the Accelerator',
+    position: 'Head of the Accelerator',
+    brief: 'Running worldwide first Banking-as-a-Service accelerator',
     company: 'Mbanq LABS'
   },
   {
-    brief: 'CEO',
+    position: 'CEO',
+    brief: '',
     company: 'Quantum Brew'
   }
 ]
