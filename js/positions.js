@@ -24,29 +24,38 @@ function updatePosition(positions, current = 0, direction){
 
 // I have to provide a current position from the start and work with it
 export default !function() {
+  function renderPosition(position) {
+    return `
+      <h1>${position.role}</h1>
+      <p>${position.brief}</p>
+      <h3>${position.company}</h3>
+    `
+  };
+
   let currentIndex = positions.length - 1
   let currentPosition = positions[currentIndex]
   const leftArrow = document.createElement('i'),
         rightArrow = document.createElement('i'),
         position = document.createElement('div')
 
-  position.appendChild(document.createTextNode(JSON.stringify(currentPosition)))
+  leftArrow.className = 'left-arrow fas fa-3x fa-chevron-circle-left'
+  rightArrow.className = 'right-arrow fas fa-3x fa-chevron-circle-right'
+  position.className = 'position'
+
+  position.innerHTML = renderPosition(currentPosition)
 
   leftArrow.onclick = () => {
     currentIndex = previous(positions, currentIndex)
     currentPosition = positions[currentIndex]
-    position.innerHTML = JSON.stringify(currentPosition)
+    position.innerHTML = renderPosition(currentPosition)
   }
 
   rightArrow.onclick = () => {
     currentIndex = next(positions, currentIndex)
     currentPosition = positions[currentIndex]
-    position.innerHTML = JSON.stringify(currentPosition)
+    position.innerHTML = renderPosition(currentPosition)
   }
 
-  leftArrow.className = 'left-arrow fas fa-3x fa-chevron-circle-left'
-  rightArrow.className = 'right-arrow fas fa-3x fa-chevron-circle-right'
-  position.className = 'position'
   const section = document.querySelector('#app')
   section.appendChild(leftArrow)
   section.appendChild(position)
