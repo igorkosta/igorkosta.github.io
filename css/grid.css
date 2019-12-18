@@ -7,6 +7,7 @@
   grid-column: 2;
   grid-row: 1;
 }
+
 .avatar img {
   display: block;
   margin: auto auto;
@@ -16,20 +17,23 @@
 .main {
   grid-area: main;
 }
-.positions {
+
+.position {
   place-self: center;
   text-align: center;
   color: black;
   grid-column: 2;
   grid-row: 2;
 }
-.arrow-left {
+
+.left-arrow {
   cursor: pointer;
   place-self: center;
   grid-column: 1;
   grid-row: 2;
 }
-.arrow-right {
+
+.right-arrow {
   cursor: pointer;
   place-self: center;
   grid-column: 3;
@@ -41,22 +45,26 @@
   grid-column: 2;
   grid-row: 3;
 }
+
 .links ul {
   list-style: none; /* Remove list bullets */
   white-space:nowrap;
   padding: 0;
   margin: 0;
 }
+
 .links ul li {
   padding: 0 10px;
   display: inline-block;
 }
+
 a:link, a:visited {
   color: black;
   text-align: center;
   text-decoration: none;
   display: inline-block;
 }
+
 a:hover, a:active {
   color: #335c98;
 }
