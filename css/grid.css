@@ -26,6 +26,10 @@
   grid-row: 2;
 }
 
+.position a {
+  color: #CB8692 !important;
+}
+
 .left-arrow {
   cursor: pointer;
   place-self: center;
