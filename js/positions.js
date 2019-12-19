@@ -25,10 +25,15 @@ function updatePosition(positions, current = 0, direction){
 // I have to provide a current position from the start and work with it
 export default !function() {
   function renderPosition(position) {
+    const { role, brief, company } = position
     return `
-      <h1>${position.role}</h1>
-      <p>${position.brief}</p>
-      <h3>${position.company}</h3>
+      <h1>${role}</h1>
+      <p>${brief}</p>
+      <h3>
+        <a href="${company.url}" target="_blank">
+          ${company.name}
+        </a>
+      </h3>
     `
   };
 
