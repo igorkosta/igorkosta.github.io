@@ -10,7 +10,7 @@ export default [
   },
   {
     role: 'Product Lead/Team Lead',
-    brief: 'Building the serverless backend and the JS frontends for Mbanq Cloud',
+    brief: 'Building the team and the product',
     company: {
       name: 'Mbanq',
       url: 'https://mbanq.com/cloud',
