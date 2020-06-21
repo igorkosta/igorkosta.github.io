@@ -28,7 +28,7 @@ export default !function() {
     const { role, brief, company, logo } = position
     return `
       <h1>${role}</h1>
-      <p>${brief}</p>
+      <h3>${brief}</h3>
       <h3 style="margin-top: 20px">
         <a href="${company.url}" target="_blank">
           <img src="${company.logo}" alt="${company.name}" width="200" />
