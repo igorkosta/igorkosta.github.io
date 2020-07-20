@@ -84,7 +84,7 @@ a:hover, a:active {
 .container {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
-  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 2fr 1fr;
   grid-template-areas:
     "header header header"
