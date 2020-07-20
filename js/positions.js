@@ -43,8 +43,8 @@ export default !function() {
         rightArrow = document.createElement('i'),
         position = document.createElement('div')
 
-  leftArrow.className = 'left-arrow fas fa-3x fa-chevron-circle-left'
-  rightArrow.className = 'right-arrow fas fa-3x fa-chevron-circle-right'
+  leftArrow.className = 'left-arrow fas fa-2x fa-chevron-left'
+  rightArrow.className = 'right-arrow fas fa-2x fa-chevron-right'
   position.className = 'position'
 
   position.innerHTML = renderPosition(currentPosition)

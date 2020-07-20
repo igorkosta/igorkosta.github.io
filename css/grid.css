@@ -83,6 +83,7 @@ a:hover, a:active {
 
 .container {
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   grid-template-columns: 1fr 2fr 1fr;
   grid-template-rows: 1fr 2fr 1fr;
   grid-template-areas:
@@ -90,5 +91,7 @@ a:hover, a:active {
     "main main main"
     "footer footer footer";
   grid-column-gap: 10px;
-  grid-row-gap: 10px;
+  grid-row-gap: 30px;
+  width: 100vw;
+  height: 100vh;
 }
