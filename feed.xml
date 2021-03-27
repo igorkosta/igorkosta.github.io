@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<channel>
+<link></link>
+<language>en-us</language>
+<copyright>&#xA9;2018</copyright>
+<webMaster>saltybreezeradio@gmail.com (Igor Kosta)</webMaster>
+<managingEditor>saltybreezeradio@gmail.com (Igor Kosta)</managingEditor>
+<image>
+   <url></url>
+   <title>Salty Breeze Radio</title>
+   <link></link>
+</image>
+<itunes:owner>
+   <itunes:name>Igor Kosta</itunes:name>
+   <itunes:email>saltybreezeradio@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:category text="Music">
+   <itunes:category text="Music Commentary" />
+</itunes:category>
+<itunes:keywords>music, chill-out, lounge, bossa nova, mpb, jazz, house</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="" />
+<atom:link href="" rel="self" type="application/rss+xml" />
+<pubDate>Fri, 05 Oct 2018 09:00:00 GMT</pubDate>
+<title>Salty Breeze Radio</title>
+<itunes:author>Salty Breeze Radio</itunes:author>
+<description>Weekly podcast inspired by the sun and the ocean</description>
+<itunes:summary>Weekly podcast inspired by the sun and the ocean</itunes:summary>
+<itunes:subtitle>The sun and ocean for your ears</itunes:subtitle>
+<lastBuildDate></lastBuildDate>
+
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+<item>
+   <title>Episode 1</title>
+   <description>Let's get to know each other</description>
+   <itunes:summary>Let's get to know each other</itunes:summary>
+   <itunes:subtitle>Subtitle</itunes:subtitle>
+   <itunesu:category itunesu:code="112" />
+   <enclosure url="" type="audio/mpeg" length="1" />
+   <guid></guid>
+   <itunes:duration></itunes:duration>
+   <pubDate></pubDate>
+</item><item>
+   <title>Episode 2</title>
+   <description>Laid back</description>
+   <itunes:summary>Laid back</itunes:summary>
+   <itunes:subtitle>Subtitle</itunes:subtitle>
+   <itunesu:category itunesu:code="112" />
+   <enclosure url="" type="audio/mpeg" length="1" />
+   <guid></guid>
+   <itunes:duration></itunes:duration>
+   <pubDate></pubDate>
+</item>
+<!--END REPEAT-->
+
+</channel>
+</rss>
