@@ -23,11 +23,13 @@ export async function getAllPosts(): Promise<Array<Post>> {
     const posts = []
     for (const key of context.keys()) {
       const post = key.slice(2)
-      const content = await import(`../_posts/${post}`)
-      const meta = matter(content.default)
+      const fileContent = await import(`../_posts/${post}`)
+      const meta = matter(fileContent.default)
+      const content = marked(meta.content)
       posts.push({
         slug: post.replace('.md', ''),
         title: meta.data.title,
+        content,
       })
     }
     return posts
@@ -43,7 +45,7 @@ export async function getPostBySlug(slug: string): Promise<Post> {
     const content = marked(meta.content)
     return {
       title: meta.data.title,
-      content: content,
+      content,
     }
   } catch (error) {
     console.error(`Couldn't load post: ${slug}`, error)
