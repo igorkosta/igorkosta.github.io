@@ -2,9 +2,15 @@ import matter from 'gray-matter'
 import marked from 'marked'
 import config from '../config'
 
+interface MenuItem {
+  title: string
+  link: string
+}
+
 interface Config {
   title: string
   description: string
+  menu: Array<MenuItem>
 }
 
 interface Post {
@@ -13,7 +19,7 @@ interface Post {
   content?: string
 }
 
-export function getConfig(): Promise<Config> {
+export async function getConfig(): Promise<Config> {
   return config
 }
 

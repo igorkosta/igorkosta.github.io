@@ -17,15 +17,18 @@ interface Post {
 }
 
 export default function Blog({
+  title,
   description,
   posts,
-}: {
+  }: {
   title: string
   description: string
   posts: Array<Post>
 }) {
   return (
-    <DefaultLayout title={'Blog'} description={description}>
+    <DefaultLayout
+      title={title}
+      description={description}>
       <h1>List of posts:</h1>
       {posts.map((post: Post, idx: number) => {
         return (
@@ -45,9 +48,9 @@ export default function Blog({
     </DefaultLayout>
   )
 }
-export async function getStaticProps(): BlogProps {
+export async function getStaticProps(): Promise<BlogProps> {
   try {
-    const { title, description } = await getConfig()
+    const { menu, title, description } = await getConfig()
     const posts = await getAllPosts()
     return {
       props: {
