@@ -1,4 +1,4 @@
-const config = {
+export default {
   title: 'Next.js blog',
   description: 'This blog is powered by Next.js',
   menu: [
@@ -16,5 +16,3 @@ const config = {
     }
   ],
 }
-
-export default config
