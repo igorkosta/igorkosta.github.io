@@ -10,26 +10,19 @@ interface MenuItem {
 export default function Header() {
   return (
     <Page.Header>
-      <Tabs initialValue="1">
+      <Tabs>
         {config.menu.map((item: MenuItem, idx: number) => {
-          return (
-            <Tabs.Item label={item.title} value={menuLink(item)}>
+        return (
+          <Link key={idx} href={item.link}>
+            <Tabs.Item label={item.title} value={item.title}>
+              {item.title}
             </Tabs.Item>
+          </Link>
           )
         })}
       </Tabs>
     </Page.Header>
   )
-}
-
-const menuLink = (item: MenuItem): string => {
-  return `
-    <Link
-      color
-      href={${item.link}}>
-      {${item.title}}
-    </Link>
-  `
 }
 
 export async function getStaticProps() {

@@ -29,11 +29,10 @@ export default function Blog({
     <DefaultLayout
       title={title}
       description={description}>
-      <h1>List of posts:</h1>
       {posts.map((post: Post, idx: number) => {
         return (
           <Link key={idx} href={'/blog/' + post.slug}>
-            <Card width="400px">
+            <Card>
               <Card.Content>
                 <Text b>{post.title}</Text>
               </Card.Content>
