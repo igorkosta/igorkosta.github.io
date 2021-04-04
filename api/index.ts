@@ -1,4 +1,4 @@
-import matter from 'gray-matter'
+import matter from 'gray-matter';
 import marked from 'marked'
 import config from '../config'
 

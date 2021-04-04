@@ -1,6 +1,5 @@
 import DefaultLayout from '../_layouts/default'
-import Link from 'next/link'
-import { Card, Divider, Text } from '@geist-ui/react'
+import { Card, Divider, Link, Text } from '@geist-ui/react'
 import { getConfig, getAllPosts } from '../api'
 
 interface BlogProps {
