@@ -16,6 +16,7 @@ interface Config {
 interface Post {
   slug?: string
   title?: string
+  preview?: string
   content?: string
 }
 
@@ -32,9 +33,11 @@ export async function getAllPosts(): Promise<Array<Post>> {
       const fileContent = await import(`../_posts/${post}`)
       const meta = matter(fileContent.default)
       const content = marked(meta.content)
+      const preview = marked(meta.content.substring(0, 20))
       posts.push({
         slug: post.replace('.md', ''),
         title: meta.data.title,
+        preview,
         content,
       })
     }

@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { useRouter } from 'next/router'
-import { useTheme, Button, Tabs, Page, Link } from '@geist-ui/react'
-import * as Icons from 'react-feather';
+import { useTheme, Button, Tabs, Link, GeistUIThemes } from '@geist-ui/react'
+import { Sun, Moon } from '@geist-ui/react-icons'
 import config from '../config'
 import { getConfig } from '../api'
 import makeStyles from '../makeStyles'
@@ -115,7 +115,7 @@ const Header = ({ toggleDarkMode }: any) => {
               type="abort"
               onClick={toggleDarkMode}
             >
-              {isDark ? <Icons.Sun size={16} /> : <Icons.Moon size={16} />}
+              {isDark ? <Sun size={16} /> : <Moon size={16} />}
             </Button>
           </div>
         </div>
@@ -125,7 +125,7 @@ const Header = ({ toggleDarkMode }: any) => {
           <Tabs onChange={val => setTabValue(val)}>
             {config.menu
               ? config.menu.map((item: MenuItem, idx: number) => (
-                  <Tabs.Item label={item.title} value={item.link}>
+                  <Tabs.Item key={idx} label={item.title} value={item.link}>
                   </Tabs.Item>
                 ))
               : null}

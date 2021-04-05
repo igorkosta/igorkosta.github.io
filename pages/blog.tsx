@@ -12,6 +12,7 @@ interface BlogProps {
 interface Post {
   title: string
   slug: string
+  preview: string
   content: string
 }
 
@@ -37,7 +38,7 @@ export default function Blog({
               </Card.Content>
               <Divider y={0} />
               <Card.Content>
-                <div dangerouslySetInnerHTML={{ __html: post.content }} />
+                <div dangerouslySetInnerHTML={{ __html: post.preview }} />
               </Card.Content>
             </Card>
           </Link>
