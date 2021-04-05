@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { useRouter } from 'next/router'
 import { useTheme, Button, Tabs, Page, Link } from '@geist-ui/react'
 import * as Icons from 'react-feather';
 import config from '../config'
@@ -93,6 +94,10 @@ const Header = ({ toggleDarkMode }: any) => {
   const theme = useTheme();
   const [fixed, setFixed] = useState(false);
   const isDark = theme.type === 'dark';
+  const router = useRouter()
+  const setTabValue = (val) => {
+    router.push(val)
+  }
   return (
     <>
       <div className={classes.header}>
@@ -117,15 +122,13 @@ const Header = ({ toggleDarkMode }: any) => {
       </div>
       <nav className={classes.nav + ' ' + (fixed ? classes.navFixed : '')}>
         <div className={classes.navContent}>
-          <Tabs>
-            {config.menu.map((item: MenuItem, idx: number) => {
-            return (
-              <Link key={idx} href={item.link}>
-                <Tabs.Item label={item.title} value={item.title}>
-                </Tabs.Item>
-              </Link>
-              )
-            })}
+          <Tabs onChange={val => setTabValue(val)}>
+            {config.menu
+              ? config.menu.map((item: MenuItem, idx: number) => (
+                  <Tabs.Item label={item.title} value={item.link}>
+                  </Tabs.Item>
+                ))
+              : null}
           </Tabs>
         </div>
       </nav>

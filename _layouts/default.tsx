@@ -16,7 +16,7 @@ export default function DefaultLayout(props: Props) {
         <title>{props.title}</title>
         <meta name='description' content={props.description}/>
       </Head>
-      <Page size="medium">
+      <Page size="medium" dotBackdrop>
         {props.children}
         <Footer />
       </Page>
