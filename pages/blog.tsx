@@ -1,5 +1,5 @@
 import DefaultLayout from '../_layouts/default'
-import { Card, Divider, Link, Text } from '@geist-ui/react'
+import { Card, Divider, Link, Text, Spacer } from '@geist-ui/react'
 import { getConfig, getAllPosts } from '../api'
 
 interface BlogProps {
@@ -30,23 +30,24 @@ export default function Blog({
       title={title}
       description={description}
     >
-      {posts.map((post: Post, idx: number) => {
-        return (
-          <Link key={idx} href={'/blog/' + post.slug}>
-            <Card>
+      {posts.map((post: Post, idx: number) => (
+        <>
+          <Card key={idx}>
+            <Link href={'/blog/' + post.slug} underline>
               <Text h4>{post.title}</Text>
+            </Link>
               <Divider y={0} />
               <p dangerouslySetInnerHTML={{ __html: post.preview }} />
             </Card>
-          </Link>
-        )
-      })}
+          <Spacer y={5} />
+        </>
+      ))}
     </DefaultLayout>
   )
 }
 export async function getStaticProps(): Promise<BlogProps> {
   try {
-    const { menu, title, description } = await getConfig()
+    const { title, description } = await getConfig()
     const posts = await getAllPosts()
     return {
       props: {

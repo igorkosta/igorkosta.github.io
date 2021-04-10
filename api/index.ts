@@ -49,11 +49,10 @@ export async function getAllPosts(): Promise<Array<Post>> {
 
 export async function getPostBySlug(slug: string): Promise<Post> {
   try {
-    const fileContent = await import(`../_posts/${slug}.md`)
-    const meta = matter(fileContent.default)
-    const content = marked(meta.content)
+    const { default: fileContent } = await import(`../_posts/${slug}.md`)
+    const { data: { title }, content } = matter(fileContent)
     return {
-      title: meta.data.title,
+      title,
       content,
     }
   } catch (error) {
