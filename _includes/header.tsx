@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { useRouter } from 'next/router'
 import { useTheme, Button, Tabs, Link, GeistUIThemes } from '@geist-ui/react'
-import { Sun, Moon } from '@geist-ui/react-icons'
+import { Coffee, Sun, Moon } from '@geist-ui/react-icons'
 import config from '../config'
 import { getConfig } from '../api'
 import makeStyles from '../makeStyles'
@@ -38,7 +38,7 @@ const useStyles = makeStyles((ui: GeistUIThemes) => ({
     position: 'sticky',
     top: 0,
     backgroundColor: ui.palette.background,
-    borderBottom: `solid 1px ${ui.palette.accents_2}`,
+    //borderBottom: `solid 1px ${ui.palette.accents_2}`,
     zIndex: 15
   },
   navFixed: {
@@ -92,10 +92,10 @@ const useStyles = makeStyles((ui: GeistUIThemes) => ({
 const Header = ({ toggleDarkMode }: any) => {
   const classes = useStyles();
   const theme = useTheme();
-  const [fixed, setFixed] = useState(false);
+  const [fixed] = useState(false);
   const isDark = theme.type === 'dark';
   const router = useRouter()
-  const setTabValue = (val) => {
+  const setTabValue = (val: string) => {
     router.push(val)
   }
   return (
@@ -103,6 +103,7 @@ const Header = ({ toggleDarkMode }: any) => {
       <div className={classes.header}>
         <div className={classes.headerContent}>
           <Link href={'/'}>
+            <Coffee size={16} />
             <div style={{ display: 'flex' }}>
               <div className={classes.headerTitle}>Costinha</div>
             </div>
@@ -122,7 +123,10 @@ const Header = ({ toggleDarkMode }: any) => {
       </div>
       <nav className={classes.nav + ' ' + (fixed ? classes.navFixed : '')}>
         <div className={classes.navContent}>
-          <Tabs onChange={val => setTabValue(val)}>
+          <Tabs
+            initialValue={config.menu[0].link}
+            onChange={val => setTabValue(val)}
+          >
             {config.menu
               ? config.menu.map((item: MenuItem, idx: number) => (
                   <Tabs.Item key={idx} label={item.title} value={item.link}>

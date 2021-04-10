@@ -1,11 +1,11 @@
 import Head from 'next/head'
-import { Spacer, Page } from '@geist-ui/react'
-import Header from '../_includes/header'
+import { Page } from '@geist-ui/react'
 import Footer from '../_includes/footer'
 
 interface Props {
   title?: string
   description?: string
+  size?: string
   children?: React.ReactNode
 }
 
@@ -16,7 +16,7 @@ export default function DefaultLayout(props: Props) {
         <title>{props.title}</title>
         <meta name='description' content={props.description}/>
       </Head>
-      <Page size="medium" dotBackdrop>
+      <Page size={props.size} dotBackdrop>
         {props.children}
         <Footer />
       </Page>

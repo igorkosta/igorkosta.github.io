@@ -1,16 +1,32 @@
-import { Col, Container, Link, Page, Spacer } from '@geist-ui/react'
+import { Col, Row, Link, Page, Spacer, GeistUIThemes} from '@geist-ui/react'
 import {
   Instagram,
   Github,
   Linkedin,
 } from '@geist-ui/react-icons'
+import makeStyles from '../makeStyles'
+
+const useStyles = makeStyles((ui: GeistUIThemes) => ({
+  footer: {
+    width: ui.layout.pageWidthWithMargin,
+    maxWidth: '100%',
+    margin: '0 auto',
+    backgroundColor: ui.palette.background,
+    fontSize: 16,
+    height: 30,
+    zIndex: 15,
+    position: 'sticky',
+    bottom: 0,
+  },
+}));
 
 export default function Footer() {
+  const classes = useStyles();
   const date = new Date();
   const year = date.getFullYear();
   return (
     <Page.Footer>
-      <Container>
+      <Row justify="center" className={classes.footer}>
         <Col>
           <Link href={'https://www.linkedin.com/in/igorkostyuchenok/'}>
             <Linkedin />
@@ -26,7 +42,7 @@ export default function Footer() {
         <Col>
           {year} ©costinha
         </Col>
-      </Container>
+      </Row>
     </Page.Footer>
   )
 }

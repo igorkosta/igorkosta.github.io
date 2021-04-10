@@ -9,9 +9,9 @@ export default function PostLayout({ title, content }) {
         <title>{title}</title>
       </Head>
       <article>
-        <h1>{title}</h1>
+        <h3>{title}</h3>
         <div dangerouslySetInnerHTML={{ __html: content}}/>
-        <div><Link href='/blog'><a>Home</a></Link></div>
+        <div><Link href='/blog'>back to blog</Link></div>
       </article>
     </DefaultLayout>
   )

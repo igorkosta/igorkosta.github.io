@@ -3,16 +3,26 @@ export default {
   description: 'This blog is powered by Next.js',
   menu: [
     {
-      title: 'Home',
+      title: 'About',
       link: '/',
     },
     {
       title: 'Blog',
       link: '/blog',
     },
-    {
-      title: 'About',
-      link: '/about',
-    }
   ],
+  social: [
+    {
+      name: 'GitHub',
+      url: 'https://github.com/igorkosta'
+    },
+    {
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/igorkostyuchenok/'
+    },
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/aplusplayer/'
+    }
+  ]
 }

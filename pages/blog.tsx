@@ -28,18 +28,15 @@ export default function Blog({
   return (
     <DefaultLayout
       title={title}
-      description={description}>
+      description={description}
+    >
       {posts.map((post: Post, idx: number) => {
         return (
           <Link key={idx} href={'/blog/' + post.slug}>
             <Card>
-              <Card.Content>
-                <Text b>{post.title}</Text>
-              </Card.Content>
+              <Text h4>{post.title}</Text>
               <Divider y={0} />
-              <Card.Content>
-                <div dangerouslySetInnerHTML={{ __html: post.preview }} />
-              </Card.Content>
+              <p dangerouslySetInnerHTML={{ __html: post.preview }} />
             </Card>
           </Link>
         )
