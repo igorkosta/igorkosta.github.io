@@ -82,9 +82,6 @@ const useStyles = makeStyles((ui: GeistUIThemes) => ({
     marginRight: 5,
     padding: '0 !important'
   },
-  popover: {
-    width: '180px !important'
-  }
 }));
 
 const Header = ({ toggleDarkMode }: any) => {
@@ -108,6 +105,7 @@ const Header = ({ toggleDarkMode }: any) => {
     setActiveTab(val)
     router.push(val)
   }
+// console.log(classes)
   return (
     <>
       <div className={classes.header}>

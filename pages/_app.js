@@ -10,7 +10,7 @@ const App = ({ Component, pageProps }) => {
   }
 
   return (
-    <JssProvider id={{ minify: true }}>
+    <JssProvider>
       <GeistProvider themeType={themeType}>
         <CssBaseline />
         <Header toggleDarkMode={toggleDarkMode} />
