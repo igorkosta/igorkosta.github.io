@@ -91,11 +91,13 @@ const useStyles = makeStyles((ui: GeistUIThemes) => ({
 
 const Header = ({ toggleDarkMode }: any) => {
   const classes = useStyles();
+  const [activeTab, setActiveTab] = useState(config.menu[0].link)
   const theme = useTheme();
   const [fixed] = useState(false);
   const isDark = theme.type === 'dark';
   const router = useRouter()
   const setTabValue = (val: string) => {
+    setActiveTab(val)
     router.push(val)
   }
   return (
@@ -124,7 +126,8 @@ const Header = ({ toggleDarkMode }: any) => {
       <nav className={classes.nav + ' ' + (fixed ? classes.navFixed : '')}>
         <div className={classes.navContent}>
           <Tabs
-            initialValue={config.menu[0].link}
+            initialValue={activeTab}
+            value={activeTab}
             onChange={val => setTabValue(val)}
           >
             {config.menu

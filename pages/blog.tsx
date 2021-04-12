@@ -1,5 +1,6 @@
+import ReactMarkdown from 'react-markdown'
 import DefaultLayout from '../_layouts/default'
-import { Card, Divider, Link, Text, Spacer } from '@geist-ui/react'
+import { Card, Link, Text } from '@geist-ui/react'
 import { getConfig, getAllPosts } from '../api'
 
 interface BlogProps {
@@ -10,10 +11,10 @@ interface BlogProps {
   }
 }
 interface Post {
+  slug?: string
   title: string
-  slug: string
-  preview: string
-  content: string
+  excerpt?: string
+  content?: string
 }
 
 export default function Blog({
@@ -30,18 +31,17 @@ export default function Blog({
       title={title}
       description={description}
     >
-      {posts.map((post: Post, idx: number) => (
-        <>
-          <Card key={idx}>
-            <Link href={'/blog/' + post.slug} underline>
-              <Text h4>{post.title}</Text>
-            </Link>
-              <Divider y={0} />
-              <p dangerouslySetInnerHTML={{ __html: post.preview }} />
-            </Card>
-          <Spacer y={5} />
-        </>
-      ))}
+    {posts && posts.map((post: Post, idx: number) => (
+      <Card key={idx}>
+        <Link key={idx} href={'/blog/' + post.slug} underline>
+          <Text h4>{post.title}</Text>
+        </Link>
+        <ReactMarkdown
+          source={post.excerpt}
+          allowDangerousHtml
+        />
+      </Card>
+    ))}
     </DefaultLayout>
   )
 }

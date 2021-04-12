@@ -28,13 +28,22 @@ export default function Footer() {
     <Page.Footer>
       <Row justify="center" className={classes.footer}>
         <Col>
-          <Link href={'https://www.linkedin.com/in/igorkostyuchenok/'}>
+          <Link
+            href={'https://www.linkedin.com/in/igorkostyuchenok/'}
+            target="_blank"
+          >
             <Linkedin />
           </Link><Spacer x={1} inline />
-          <Link href={'https://www.instagram.com/aplusplayer/'}>
+          <Link
+            href={'https://www.instagram.com/aplusplayer/'}
+            target="_blank"
+          >
             <Instagram />
           </Link><Spacer x={1} inline />
-          <Link href={'https://github.com/igorkosta'}>
+          <Link
+            href={'https://github.com/igorkosta'}
+            target="_blank"
+          >
             <Github />
           </Link>
         </Col>

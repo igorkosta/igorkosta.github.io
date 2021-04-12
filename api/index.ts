@@ -1,5 +1,4 @@
 import matter from 'gray-matter';
-import marked from 'marked'
 import config from '../config'
 
 interface MenuItem {
@@ -15,8 +14,8 @@ interface Config {
 
 interface Post {
   slug?: string
-  title?: string
-  preview?: string
+  title: string
+  excerpt?: string
   content?: string
 }
 
@@ -24,21 +23,24 @@ export async function getConfig(): Promise<Config> {
   return config
 }
 
+const extractFirstSentence = (content: string) => {
+  // every empty line is counted as well
+  return content.split('\n').slice(0, 5).join('\n')
+}
 export async function getAllPosts(): Promise<Array<Post>> {
   try {
     const context = require.context('../_posts', false, /\.md$/)
     const posts = []
     for (const key of context.keys()) {
       const post = key.slice(2)
-      const fileContent = await import(`../_posts/${post}`)
-      const meta = matter(fileContent.default)
-      const content = marked(meta.content)
-      const preview = marked(meta.content.substring(0, 100))
+      const { default: fileContent } = await import(`../_posts/${post}`)
+      const { data: { title }, content } = matter(fileContent, { excerpt: true })
+
       posts.push({
         slug: post.replace('.md', ''),
-        title: meta.data.title,
-        preview,
+        title,
         content,
+        excerpt: extractFirstSentence(content),
       })
     }
     return posts

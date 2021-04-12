@@ -17,7 +17,7 @@ export interface Config {
 export interface Post {
   slug: string
   title: string
-  preview?: string
+  excerpt?: string
   content?: string
 }
 

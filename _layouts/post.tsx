@@ -12,7 +12,11 @@ export default function PostLayout({ title, content }) {
       </Head>
       <article>
         <h3>{title}</h3>
-        <ReactMarkdown source={content} renderers={{ code: CodeBlock }} />
+        <ReactMarkdown
+          source={content}
+          renderers={{ code: CodeBlock }}
+          allowDangerousHtml
+        />
         <div><Link href='/blog'>back to blog</Link></div>
       </article>
     </DefaultLayout>

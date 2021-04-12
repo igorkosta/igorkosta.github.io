@@ -1,12 +1,11 @@
 ---
 title: "Organize your routes with Vue Router"
 ---
-
 Everyone has its own view on how to organize the routes in a Single-Page Application-we’re not different.
 
 Since we’re using [Vue.js](https://vuejs.org/) in our current project, we’re also using the [Vue Router](https://router.vuejs.org/).
 
-Here we would like to describe the approach we took to organize our router and its routes. We will probably change/improve the current state later on but for now I will describe the [status quo](https://en.wikipedia.org/wiki/Status_quo).
+Here I would like to describe the approach we took to organize our router and its routes. We will probably change/improve the current state later on but for now I will describe the [status quo](https://en.wikipedia.org/wiki/Status_quo).
 
 ### Folder structure
 
@@ -26,7 +25,7 @@ Current folder structure we use is pretty straightforward:
 
 Let’s walk quickly through every file — you’ll see it will all make sense very quickly.
 
-### src/router/index.js
+### `src/router/index.js`
 
 `index.js` only holds one root route (you can also go without it). In our case it’s the dashboard route, the user is redirected to once authenticated.
 
@@ -85,9 +84,9 @@ There are only two cases (we’d like to keep it simple in the beginning):
 
 * `!isPublic && !authenticated` — the user is not authenticated but is trying to access the private route — he/she’ll be redirected to the `/login` page and will be redirected to the page he was trying to access upon successful authentication
 
-* `authenticated && onlyLoggedOut` -the user is authenticated but is trying to access the public page — he’ll be redirected back to the dashboard
+* `authenticated && onlyLoggedOut` - the user is authenticated but is trying to access the public page — he’ll be redirected back to the dashboard
 
-### src/router/routes/public.js
+### `src/router/routes/public.js`
 
 We were thinking about breaking down the routes and put every one of them into its own file, but, mmm-maybe later :).
 
@@ -134,20 +133,49 @@ export default routes.map(route => {
 
 In order to not pollute every route, we’re adding the meta field to all the routes in the file in the export section. This way we don’t have to think about adding the meta field to every new added route.
 
-### src/router/routes/private.js
+### `src/router/routes/private.js`
 
 You know the drill by now. All the private routes reside in one file and the meta field is added to each and one of them in the export section.
 
-<iframe src="https://medium.com/media/03d8fc8d44d160c4d6fb20f3a69e6532" frameborder=0></iframe>
+```js
+import Accounts from '@/views/Accounts/Index.vue'
+import Dashboard from '@/views/Dashboard/Index.vue'
+import Settings from '@/views/Settings/Index.vue'
 
-### src/router/routes/index.js
+const routes = [
+    {
+    path: '/accounts',
+    name: 'accounts',
+    component: Accounts
+  },
+  {
+    path: '/dashboard',
+    name: 'dashboard',
+    component: Dashboard
+  },
+  {
+    path: '/settings',
+    name: 'settings',
+    component: Settings
+  }
+]
 
-What’s inside of the routes/index.js you may ask. It’s just the utility file that imports the routes from both public.js and private.js and exports them as one.
+export default routes.map(route => {
+  return { ...route, meta: { public: false } }
+})
+```
 
-<iframe src="https://medium.com/media/bb8064cf497b284138fcc7f79b7ddf23" frameborder=0></iframe>
+### `src/router/routes/index.js`
 
-This file is not necessary, you could just import public and private routes directly into the src/router/index.js
+What’s inside of the `routes/index.js` you may ask. It’s just the utility file that imports the routes from both `public.js` and `private.js` and exports them as one.
 
-### What’s next
+```js
+import publicRoutes from '@/router/routes/public.js'
+import privateRoutes from '@/router/routes/private.js'
 
-We will probably change and hopefully improve our router setup in the next months and I’ll try to share how we changed our setup and why. For now this simple example can help you to get started.
+export default publicRoutes.concat(privateRoutes)
+```
+
+This file is not necessary, you could just import public and private routes directly into the `src/router/index.js`
+
+That's all folks!
