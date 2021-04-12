@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { GeistProvider, CssBaseline } from '@geist-ui/react'
-import { JssProvider } from 'react-jss'
+import { JssProvider, SheetsRegistry } from 'react-jss'
 import Header from '../_includes/header'
 
 const App = ({ Component, pageProps }) => {
@@ -8,9 +8,10 @@ const App = ({ Component, pageProps }) => {
   const toggleDarkMode = () => {
     setThemeType(last => (last === 'dark' ? 'light' : 'dark'))
   }
+  const sheets = new SheetsRegistry()
 
   return (
-    <JssProvider id={{ minify: true }}>
+    <JssProvider id={{ minify: true }} registry={sheets}>
       <GeistProvider themeType={themeType}>
         <CssBaseline />
         <Header toggleDarkMode={toggleDarkMode} />
