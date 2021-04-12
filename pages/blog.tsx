@@ -1,13 +1,11 @@
 import ReactMarkdown from 'react-markdown'
 import DefaultLayout from '../_layouts/default'
 import { Card, Link, Text } from '@geist-ui/react'
-import { getConfig, getAllPosts } from '../api'
+import { getAllPosts } from '../api'
 
 interface BlogProps {
   props: {
     posts: Array<Post>
-    title: string
-    description: string
   }
 }
 interface Post {
@@ -47,13 +45,10 @@ export default function Blog({
 }
 export async function getStaticProps(): Promise<BlogProps> {
   try {
-    const { title, description } = await getConfig()
     const posts = await getAllPosts()
     return {
       props: {
-        posts,
-        title,
-        description,
+        posts
       },
     }
   } catch (error) {

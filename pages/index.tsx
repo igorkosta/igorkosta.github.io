@@ -1,8 +1,9 @@
 import DefaultLayout from '../_layouts/default'
 import { Dot, Row, Avatar, Text, Link } from '@geist-ui/react'
+import { getConfig } from '../api'
 import config from '../config'
 
-export default function Home() {
+export default function Home({ social, about }) {
   return (
     <DefaultLayout
       title={'About'}
@@ -17,8 +18,8 @@ export default function Home() {
       </Row>
       <Row gap={0.8} justify="center" style={{ marginBottom: '15px' }}>
         <Dot style={{ marginLeft: '5px' }} type="success" />
-        {config.social &&
-        config.social.map((network: { url: string, name: string }, idx: number) => (
+        {social &&
+        social.map((network: { url: string, name: string }, idx: number) => (
           <div key={idx}>
             <Link href={network.url} target="_blank" underline>
               <Text small>{network.name}</Text>
@@ -28,8 +29,24 @@ export default function Home() {
         ))}
       </Row>
       <Row gap={0.8} justify="center" style={{ marginBottom: '15px' }}>
-        <div dangerouslySetInnerHTML={{ __html: config.about }} />
+        <div dangerouslySetInnerHTML={{ __html: about }} />
       </Row>
     </DefaultLayout>
   )
 }
+
+export async function getStaticProps(): Promise<any> {
+  try {
+    const { social, about } = await getConfig()
+    return {
+      props: {
+        social,
+        about
+      },
+    }
+  } catch (error) {
+    console.error('Ooops')
+  }
+}
+
+

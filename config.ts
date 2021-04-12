@@ -1,6 +1,6 @@
 export default {
-  title: 'Next.js blog',
-  description: 'This blog is powered by Next.js',
+  title: 'Costinha',
+  description: 'my personal page',
   about: `
     <p>
       I'm a Product and Tech Lead living in Munich.

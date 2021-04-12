@@ -1,15 +1,22 @@
 import matter from 'gray-matter';
-import config from '../config'
+// import config from '../config'
 
 interface MenuItem {
   title: string
   link: string
 }
 
+interface SocialLink {
+  name: string
+  url: string
+}
+
 interface Config {
   title: string
   description: string
+  social: Array<SocialLink>
   menu: Array<MenuItem>
+  about: string
 }
 
 interface Post {
@@ -17,10 +24,6 @@ interface Post {
   title: string
   excerpt?: string
   content?: string
-}
-
-export async function getConfig(): Promise<Config> {
-  return config
 }
 
 const extractFirstSentence = (content: string) => {
@@ -46,6 +49,22 @@ export async function getAllPosts(): Promise<Array<Post>> {
     return posts
   } catch (error) {
     console.error(`Couldn't load posts:`, error)
+  }
+}
+
+export async function getConfig(): Promise<Config> {
+  try {
+    const { default: config } = await import('../config')
+    const { title, description, menu, about, social } = config
+    return {
+      title,
+      description,
+      menu,
+      about,
+      social
+    }
+  } catch (error) {
+    console.error(`Couldn't load config:`,  error)
   }
 }
 

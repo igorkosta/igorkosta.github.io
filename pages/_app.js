@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { GeistProvider, CssBaseline } from '@geist-ui/react'
-import Header from '../_includes/header'
 import { JssProvider } from 'react-jss'
+import Header from '../_includes/header'
 
 const App = ({ Component, pageProps }) => {
   const [themeType, setThemeType] = useState('light')

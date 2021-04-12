@@ -2,8 +2,6 @@ import { useState } from 'react'
 import { useRouter } from 'next/router'
 import { useTheme, Button, Tabs, Link, GeistUIThemes } from '@geist-ui/react'
 import { Coffee, Sun, Moon } from '@geist-ui/react-icons'
-import config from '../config'
-import { getConfig } from '../api'
 import makeStyles from '../makeStyles'
 
 interface MenuItem {
@@ -91,7 +89,17 @@ const useStyles = makeStyles((ui: GeistUIThemes) => ({
 
 const Header = ({ toggleDarkMode }: any) => {
   const classes = useStyles();
-  const [activeTab, setActiveTab] = useState(config.menu[0].link)
+  const menu = [
+    {
+      title: 'About',
+      link: '/',
+    },
+    {
+      title: 'Blog',
+      link: '/blog',
+    },
+  ]
+  const [activeTab, setActiveTab] = useState(menu[0].link)
   const theme = useTheme();
   const [fixed] = useState(false);
   const isDark = theme.type === 'dark';
@@ -130,8 +138,8 @@ const Header = ({ toggleDarkMode }: any) => {
             value={activeTab}
             onChange={val => setTabValue(val)}
           >
-            {config.menu
-              ? config.menu.map((item: MenuItem, idx: number) => (
+            {menu
+              ? menu.map((item: MenuItem, idx: number) => (
                   <Tabs.Item key={idx} label={item.title} value={item.link}>
                   </Tabs.Item>
                 ))
@@ -141,15 +149,6 @@ const Header = ({ toggleDarkMode }: any) => {
       </nav>
     </>
   )
-}
-
-export async function getStaticProps() {
-  const { menu } = await getConfig()
-  return {
-    props: {
-      menu,
-    }
-  }
 }
 
 export default Header;
