@@ -1,7 +1,7 @@
+import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
 import DefaultLayout from './default'
 import CodeBlock from '../components/codeblock'
-import { Link } from '@geist-ui/react'
  
 export default function PostLayout({ title, content }) {
   return (
