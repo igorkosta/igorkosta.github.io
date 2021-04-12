@@ -52,6 +52,19 @@ export async function getAllPosts(): Promise<Array<Post>> {
   }
 }
 
+export async function getPostBySlug(slug: string): Promise<Post> {
+  try {
+    const { default: fileContent } = await import(`../_posts/${slug}.md`)
+    const { data: { title }, content } = matter(fileContent)
+    return {
+      title,
+      content,
+    }
+  } catch (error) {
+    console.error(`Couldn't load post: ${slug}`, error)
+  }
+}
+
 export async function getConfig(): Promise<Config> {
   try {
     const { default: config } = await import('../config')
@@ -68,15 +81,3 @@ export async function getConfig(): Promise<Config> {
   }
 }
 
-export async function getPostBySlug(slug: string): Promise<Post> {
-  try {
-    const { default: fileContent } = await import(`../_posts/${slug}.md`)
-    const { data: { title }, content } = matter(fileContent)
-    return {
-      title,
-      content,
-    }
-  } catch (error) {
-    console.error(`Couldn't load post: ${slug}`, error)
-  }
-}

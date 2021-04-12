@@ -105,7 +105,6 @@ const Header = ({ toggleDarkMode }: any) => {
     setActiveTab(val)
     router.push(val)
   }
-// console.log(classes)
   return (
     <>
       <div className={classes.header}>
