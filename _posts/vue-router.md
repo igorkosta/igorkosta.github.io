@@ -11,7 +11,9 @@ Here I would like to describe the approach we took to organize our router and it
 
 We made a couple of iterations on how we want to organize our routes and we will definitely run through a couple of more iterations until we’re fully satisfied.
 
-![](https://cdn-images-1.medium.com/max/2704/1*Pj1ezbBzQnG4NHlD0seaWg.png)
+<div style="text-align: center;">
+  <img src="https://cdn-images-1.medium.com/max/2704/1*Pj1ezbBzQnG4NHlD0seaWg.png" width="400px" />
+</div>
 
 Current folder structure we use is pretty straightforward:
 

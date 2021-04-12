@@ -4,7 +4,7 @@ import {
   Github,
   Linkedin,
 } from '@geist-ui/react-icons'
-import makeStyles from '../makeStyles'
+import makeStyles from '../../makeStyles'
 
 const useStyles = makeStyles((ui: GeistUIThemes) => ({
   footer: {

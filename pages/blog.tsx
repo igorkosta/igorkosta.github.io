@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
 import { Card, Text } from '@geist-ui/react'
-import DefaultLayout from '../_layouts/default'
+import DefaultLayout from '../components/layouts/default'
 import { getAllPosts } from '../api'
 
 interface BlogProps {

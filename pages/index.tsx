@@ -1,7 +1,6 @@
-import DefaultLayout from '../_layouts/default'
+import DefaultLayout from '../components/layouts/default'
 import { Dot, Row, Avatar, Text, Link } from '@geist-ui/react'
 import { getConfig } from '../api'
-import config from '../config'
 
 export default function Home({ social, about }) {
   return (

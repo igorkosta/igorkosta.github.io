@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { useRouter } from 'next/router'
 import { useTheme, Button, Tabs, Link, GeistUIThemes } from '@geist-ui/react'
 import { Coffee, Sun, Moon } from '@geist-ui/react-icons'
-import makeStyles from '../makeStyles'
+import makeStyles from '../../makeStyles'
 
 interface MenuItem {
   title: string

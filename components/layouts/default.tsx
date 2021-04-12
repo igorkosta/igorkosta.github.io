@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import { Page } from '@geist-ui/react'
-import Footer from '../_includes/footer'
+import Footer from './footer'
 
 interface Props {
   title?: string
