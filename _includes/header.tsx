@@ -1,6 +1,7 @@
+import Link from 'next/link'
 import { useState } from 'react'
 import { useRouter } from 'next/router'
-import { useTheme, Button, Tabs, Link, GeistUIThemes } from '@geist-ui/react'
+import { useTheme, Button, Tabs, GeistUIThemes } from '@geist-ui/react'
 import { Coffee, Sun, Moon } from '@geist-ui/react-icons'
 import makeStyles from '../makeStyles'
 
@@ -109,10 +110,12 @@ const Header = ({ toggleDarkMode }: any) => {
     <>
       <div className={classes.header}>
         <div className={classes.headerContent}>
-          <Link href={'/'}>
-            <Coffee size={16} />
-            <div style={{ display: 'flex' }}>
-              <div className={classes.headerTitle}>Costinha</div>
+          <Link href="/">
+            <div>
+              <Coffee size={16} />
+              <div style={{ display: 'flex' }}>
+                <div className={classes.headerTitle}>Costinha</div>
+              </div>
             </div>
           </Link>
           <div className={classes.sidebar}>
