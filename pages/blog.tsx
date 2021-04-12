@@ -31,8 +31,8 @@ export default function Blog({
       description={description}
     >
     {posts && posts.map((post: Post, idx: number) => (
-      <div>
-        <Card key={idx}>
+      <div key={idx}>
+        <Card>
           <Link href={`/blog/${encodeURIComponent(post.slug)}`}>
             <Text h4 style={{cursor: 'pointer', textDecoration: 'underline'}}>{post.title}</Text>
           </Link>
