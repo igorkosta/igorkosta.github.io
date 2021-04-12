@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
-import { Card, Text } from '@geist-ui/react'
+import { Card, Spacer, Text } from '@geist-ui/react'
 import DefaultLayout from '../components/layouts/default'
 import { getAllPosts } from '../api'
 
@@ -31,15 +31,18 @@ export default function Blog({
       description={description}
     >
     {posts && posts.map((post: Post, idx: number) => (
-      <Card key={idx}>
-        <Link href={`/blog/${encodeURIComponent(post.slug)}`}>
-          <Text h4 style={{cursor: 'pointer', textDecoration: 'underline'}}>{post.title}</Text>
-        </Link>
-        <ReactMarkdown
-          source={post.excerpt}
-          allowDangerousHtml
-        />
-      </Card>
+      <div>
+        <Card key={idx}>
+          <Link href={`/blog/${encodeURIComponent(post.slug)}`}>
+            <Text h4 style={{cursor: 'pointer', textDecoration: 'underline'}}>{post.title}</Text>
+          </Link>
+          <ReactMarkdown
+            source={post.excerpt}
+            allowDangerousHtml
+          />
+        </Card>
+        <Spacer y={1}/>
+      </div>
     ))}
     </DefaultLayout>
   )
