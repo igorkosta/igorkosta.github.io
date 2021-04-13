@@ -57,7 +57,6 @@ export async function getPostBySlug(slug: string): Promise<Post> {
   try {
     const { default: fileContent } = await import(`../_posts/${slug}.md`)
     const { data: { title, tags }, content } = matter(fileContent)
-    console.log('TAGS:', tags)
     return {
       title,
       content,
