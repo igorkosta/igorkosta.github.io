@@ -1,5 +1,8 @@
 ---
-title: 'Mock promisified AWS service operation calls with Jest'
+title: Mock promisified AWS service operation calls with Jest
+tags:
+ - foo
+ - bar
 ---
 
 At [Mbanq Cloud](https://mbanq.com/cloud) we run most of our services on AWS and try to use AWS Lambda as much as possible.

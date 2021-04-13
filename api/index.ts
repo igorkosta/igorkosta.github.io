@@ -24,6 +24,7 @@ interface Post {
   title: string
   excerpt?: string
   content?: string
+  tags?: Array<string>
 }
 
 const extractFirstSentence = (content: string) => {
@@ -55,7 +56,8 @@ export async function getAllPosts(): Promise<Array<Post>> {
 export async function getPostBySlug(slug: string): Promise<Post> {
   try {
     const { default: fileContent } = await import(`../_posts/${slug}.md`)
-    const { data: { title }, content } = matter(fileContent)
+    const { data: { title, tags }, content } = matter(fileContent)
+    console.log('TAGS:', tags)
     return {
       title,
       content,
