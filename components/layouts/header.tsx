@@ -96,6 +96,10 @@ const Header = ({ toggleDarkMode }: any) => {
       link: '/blog',
     },
     {
+      title: 'Open Source',
+      link: '/open-source',
+    },
+    {
       title: 'Podcast',
       link: 'https://shows.acast.com/salty-breeze-radio/episodes',
     },

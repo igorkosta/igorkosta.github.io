@@ -11,12 +11,22 @@ interface SocialLink {
   url: string
 }
 
+interface OSProject {
+  name: string
+  url: string
+  description: string
+}
+
 interface Config {
   title: string
   description: string
   social: Array<SocialLink>
   menu: Array<MenuItem>
   about: string
+  openSource: {
+    intro: string
+    projects: Array<OSProject>
+  }
 }
 
 interface Post {
@@ -69,12 +79,21 @@ export async function getPostBySlug(slug: string): Promise<Post> {
 export async function getConfig(): Promise<Config> {
   try {
     const { default: config } = await import('../config')
-    const { title, description, menu, about, social } = config
+    const {
+      title,
+      description,
+      menu,
+      about,
+      openSource,
+      social
+    } = config
+    console.log('OS', openSource)
     return {
       title,
       description,
       menu,
       about,
+      openSource,
       social
     }
   } catch (error) {

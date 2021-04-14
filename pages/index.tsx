@@ -47,5 +47,3 @@ export async function getStaticProps(): Promise<any> {
     console.error('Ooops')
   }
 }
-
-
