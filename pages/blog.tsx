@@ -17,18 +17,14 @@ interface Post {
 }
 
 export default function Blog({
-  title,
-  description,
   posts,
   }: {
-  title: string
-  description: string
   posts: Array<Post>
 }) {
   return (
     <DefaultLayout
-      title={title}
-      description={description}
+      title={'Blog'}
+      description={'Blog posts about this and that'}
     >
     {posts && posts.map((post: Post, idx: number) => (
       <div key={idx}>

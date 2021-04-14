@@ -6,7 +6,6 @@ export default function Home({ social, about }) {
   return (
     <DefaultLayout
       title={'About'}
-      size={'small'}
       description={'Short writeup about my experience'}
     >
       <Row gap={0.8} justify="center" style={{ marginBottom: '15px' }}>

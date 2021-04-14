@@ -22,6 +22,18 @@ export default {
     </p>
   `,
   openSource: {
+    links: [
+      {
+        name: 'NPM',
+        image: 'https://cdn.worldvectorlogo.com/logos/npm-2.svg',
+        url: 'https://www.npmjs.com/~igorkosta'
+      },
+      {
+        name: 'GitHub',
+        image: 'https://cdn.worldvectorlogo.com/logos/github-icon.svg',
+        url: 'https://github.com/igorkosta'
+      }
+    ],
     intro: `<p>
         Most of the stuff you build nowadays is only possible because of the people from the open source community. I try to give back as well.
       </p>
@@ -73,10 +85,6 @@ export default {
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/aplusplayer/'
-    },
-    {
-      name: 'Email',
-      url: 'mailto:igor.kostyucheok@gmail.com'
     }
   ]
 }

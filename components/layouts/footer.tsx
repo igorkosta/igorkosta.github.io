@@ -3,6 +3,7 @@ import {
   Instagram,
   Github,
   Linkedin,
+  Mail,
 } from '@geist-ui/react-icons'
 import makeStyles from '../../makeStyles'
 
@@ -22,8 +23,6 @@ const useStyles = makeStyles((ui: GeistUIThemes) => ({
 
 export default function Footer() {
   const classes = useStyles();
-  const date = new Date();
-  const year = date.getFullYear();
   return (
     <Page.Footer>
       <Row justify="center" className={classes.footer}>
@@ -45,11 +44,13 @@ export default function Footer() {
             target="_blank"
           >
             <Github />
+          </Link><Spacer x={1} inline />
+          <Link
+            href={'mailto:igor.kostyuchenok@gmail.com'}
+            target="_blank"
+          >
+            <Mail />
           </Link>
-        </Col>
-        <Spacer x={1}/>
-        <Col>
-          {year} ©costinha
         </Col>
       </Row>
     </Page.Footer>

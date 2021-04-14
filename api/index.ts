@@ -87,7 +87,6 @@ export async function getConfig(): Promise<Config> {
       openSource,
       social
     } = config
-    console.log('OS', openSource)
     return {
       title,
       description,
