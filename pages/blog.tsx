@@ -1,6 +1,7 @@
-import Link from 'next/link'
+import NextLink from 'next/link'
 import ReactMarkdown from 'react-markdown'
 import { Card, Spacer, Text } from '@geist-ui/react'
+import SharePost from '../components/sharePost'
 import DefaultLayout from '../components/layouts/default'
 import { getAllPosts } from '../api'
 
@@ -29,13 +30,14 @@ export default function Blog({
     {posts && posts.map((post: Post, idx: number) => (
       <div key={idx}>
         <Card>
-          <Link href={`/blog/${encodeURIComponent(post.slug)}`}>
+          <NextLink href={`/blog/${encodeURIComponent(post.slug)}`}>
             <Text h4 style={{cursor: 'pointer', textDecoration: 'underline'}}>{post.title}</Text>
-          </Link>
+          </NextLink>
           <ReactMarkdown
             source={post.excerpt}
             allowDangerousHtml
           />
+          <SharePost slug={post.slug} />
         </Card>
         <Spacer y={1}/>
       </div>
