@@ -4,7 +4,7 @@ import CodeBlock from '../codeblock'
  
 export default function PostLayout({ title, content }) {
   return (
-    <DefaultLayout>
+    <DefaultLayout title={title}>
       <article>
         <h3>{title}</h3>
         <ReactMarkdown

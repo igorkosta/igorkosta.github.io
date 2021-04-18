@@ -29,6 +29,25 @@ section to your `manifest.json` file:
   "name": "BANG",
   "short_name": "BANG",
   "description": "Neo Bang",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1B252C",
+  "theme_color": "#1B252C",
+  "icons": [
+    {
+      "src": "/icons/bang-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/bang-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
   "shortcuts": [
     {
       "name": "Transfer",

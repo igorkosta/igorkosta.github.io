@@ -4,7 +4,7 @@ import { CssBaseline } from '@geist-ui/react'
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
     const initialProps = await Document.getInitialProps(ctx)
-    const styles = CssBaseline.flush()
+    const styles = CssBaseline.flush() || null
 
     return {
       ...initialProps,
