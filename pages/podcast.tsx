@@ -9,7 +9,7 @@ export default function Podcast() {
     >
       <Iframe
         url="https://embed.acast.com/5f81c67a64c318148ddf099a?cover=true&ga=false&feed=true"
-        frameBorder="0"
+        frameBorder={0}
         allow="autoplay"
         position="relative"
         width="100%"

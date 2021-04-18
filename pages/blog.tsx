@@ -13,7 +13,7 @@ interface BlogProps {
 interface Post {
   slug?: string
   title: string
-  published: string
+  published?: string
   excerpt?: string
   content?: string
 }
