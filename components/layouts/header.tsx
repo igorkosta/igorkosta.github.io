@@ -101,7 +101,7 @@ const Header = ({ toggleDarkMode }: any) => {
     },
     {
       title: 'Podcast',
-      link: 'https://shows.acast.com/salty-breeze-radio/episodes',
+      link: '/podcast',
     },
   ]
   const [activeTab, setActiveTab] = useState(menu[0].link)

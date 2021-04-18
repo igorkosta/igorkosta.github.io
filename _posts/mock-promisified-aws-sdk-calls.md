@@ -1,5 +1,6 @@
 ---
 title: Mock promisified AWS service operation calls with Jest
+published: 2021-04-10
 tags:
  - foo
  - bar

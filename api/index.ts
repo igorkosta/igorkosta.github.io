@@ -32,6 +32,7 @@ interface Config {
 interface Post {
   slug?: string
   title: string
+  published?: string
   excerpt?: string
   content?: string
   tags?: Array<string>
@@ -48,16 +49,25 @@ export async function getAllPosts(): Promise<Array<Post>> {
     for (const key of context.keys()) {
       const post = key.slice(2)
       const { default: fileContent } = await import(`../_posts/${post}`)
-      const { data: { title }, content } = matter(fileContent, { excerpt: true })
+      const { data: { title, published }, content } = matter(fileContent, { excerpt: true })
 
       posts.push({
         slug: post.replace('.md', ''),
+        published,
         title,
         content,
         excerpt: extractFirstSentence(content),
       })
     }
-    return posts
+    const sortedPosts = posts
+      .sort((a, b) => b.published - a.published)
+      .map(post => {
+        return {
+          ...post,
+          ...{  published: post.published.toString() }
+        }
+      })
+    return sortedPosts
   } catch (error) {
     console.error(`Couldn't load posts:`, error)
   }

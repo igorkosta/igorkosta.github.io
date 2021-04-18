@@ -1,5 +1,6 @@
 ---
 title: "Organize your routes with Vue Router"
+published: 2021-04-05
 ---
 Everyone has its own view on how to organize the routes in a Single-Page Application-we’re not different.
 

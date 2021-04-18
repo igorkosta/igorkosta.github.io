@@ -1,5 +1,6 @@
 ---
 title: GraphQL Partial Update
+published: 2021-04-13
 ---
 
 Recently we decided to use [AWS Amplify](https://aws.amazon.com/amplify) for one of the products we’re currently working on.
