@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import { GeistProvider, CssBaseline, GeistUIThemes } from '@geist-ui/react'
-import { JssProvider } from 'react-jss'
 import Header from '../components/layouts/header'
 import '../styles/costinha.css'
 import makeStyles from '../makeStyles'
@@ -84,13 +83,11 @@ const App = ({ Component, pageProps }) => {
   }
 
   return (
-    <JssProvider id={{ minify: true }}>
-      <GeistProvider themeType={themeType}>
-        <CssBaseline />
-        <Header classes={classes} toggleDarkMode={toggleDarkMode} />
-        <Component {...pageProps} />
-      </GeistProvider>
-    </JssProvider>
+    <GeistProvider themeType={themeType}>
+      <CssBaseline />
+      <Header classes={classes} toggleDarkMode={toggleDarkMode} />
+      <Component {...pageProps} />
+    </GeistProvider>
   )
 }
 

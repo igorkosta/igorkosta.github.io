@@ -8,7 +8,7 @@ Although the end of PWAs has been proclaimed a while ago, the Progressive Web Ap
 Not only the processors have been improving at a rapid rate but also the
 [V8 is getting better](https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast/) with every iteration.
 
-So, if you don't want to have time to build your mobile app with React Native, Flutter or going full native with Swift or Kotlin - PWA can still be a good low entry barrier option.
+So, if you don't have time to build your mobile app with React Native, Flutter or going full native with Swift or Kotlin - PWA can still be a good low entry barrier option.
 
 The addition of [maskable icons](https://web.dev/maskable-icon/) let your app finally have a more appealing icon that will be placed on the screen of your mobile phone if you decide to `install` it.
 
@@ -83,7 +83,7 @@ Once you added the shortcuts section, the icons you would like to see in your co
   <img src="/images/blog/pwa-shortcuts.jpg" width="50%" />
 </div>
 
-If your app functionality is hidden behind the authentication don't forget to add the redirection to the shorcuts `"url": "/send-money"` after a successful authentication.
+If your app functionality is hidden behind the authentication don't forget to add the redirection to the shortcuts `"url": "/send-money"` after a successful authentication.
 
 The good design should be predictable - so, if your shortcuts represent the menu points of your app, then you should use the same icons both for your shortcuts and in your menu.
 

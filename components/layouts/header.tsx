@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { useRouter } from 'next/router'
-import { useTheme, Button, Tabs, Link } from '@geist-ui/react'
-import { Coffee, Sun, Moon } from '@geist-ui/react-icons'
+import { useTheme, Button, Tabs } from '@geist-ui/react'
+import { Sun, Moon } from '@geist-ui/react-icons'
 
 interface MenuItem {
   title: string
@@ -40,12 +40,7 @@ const Header = ({ classes, toggleDarkMode }: any) => {
     <>
       <div className={classes.header}>
         <div className={classes.headerContent}>
-          <Link href="/">
-            <Coffee size={16} />
-            <div style={{ display: 'flex' }}>
-              <div className={classes.headerTitle}>Costinha</div>
-            </div>
-          </Link>
+          <div className={classes.headerTitle}>Costinha</div>
           <div className={classes.sidebar}>
             <Button
               aria-label="Toggle Dark mode"
