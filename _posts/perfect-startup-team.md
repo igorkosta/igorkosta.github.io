@@ -25,7 +25,7 @@ Building products is hard, building valuable products is even harder - that's ex
 
 ### A Hippie
 Who's a hippie you may ask. If you are too young and don't know who [Steve
-Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) was, I pitty you and recommend you to start getting to know about him.
+Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) was, I pity you and recommend you to start getting to know about him.
 
 Up to this date, I personally consider him to be the best `product person`
 ever - you can argue, I don't care.
@@ -34,7 +34,7 @@ So, if you haven't seen [The Lost Interview](https://vimeo.com/475108226) yet - 
 
 One of the questions Steve was asked is [Are you a hippie or a nerd](https://www.youtube.com/watch?v=uf6TzOHO_dk) - so when the best `product person` of all time considered himself `a hippie`, we can assume that `a hippie` is your `CPO`.
 
-[Marty Cagan](https://svpg.com/our-team/#marty) - the founder of the [Silicon Valley Product Group](https://svpg.com/) has the best definition of a successful product - it emerges on the intersection of following three propertis:
+[Marty Cagan](https://svpg.com/our-team/#marty) - the founder of the [Silicon Valley Product Group](https://svpg.com/) has the best definition of a successful product - it emerges on the intersection of following three properties:
 - `Valuable` - Something that our customers will choose to use
 - `Usable` - Easy to figure out how to use
 - `Feasible` - Buildable using the technology stack and skills we have
@@ -46,6 +46,10 @@ This one is almost as clear as `a hacker` position. Your hustler is your `Head o
 
 This is the person who knows and believes in your product and help `a hippie` to find the best possible [Product/market fit](https://en.wikipedia.org/wiki/Product/market_fit).
 
-### On The Sidenote
+### On A Side-note
 - Ideas are worth nothing without execution
 - Your customers do not care about your tech
+- Startup is a marathon not a sprint - pace yourself
+- Timing matters but you cannot control it
+- You don't know how your product will be used
+- It will be harder than you think
