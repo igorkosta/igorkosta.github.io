@@ -39,7 +39,7 @@ One of the questions Steve was asked is [Are you a hippie or a nerd](https://www
 - `Usable` - Easy to figure out how to use
 - `Feasible` - Buildable using the technology stack and skills we have
 
-The best products exist inside of the transactions of those three
+The best products exist on the intersection of those three qualities.
 
 ### A Hustler
 This one is almost as clear as `a hacker` position. Your hustler is your `Head of Sales`. A very important person on your team. Don't be disillusioned - [build it and they will come](https://samuelmullen.com/articles/startup-fallacies-if-you-build-it-they-will-come/) is a fallacy. In the world full of similar products and never ending competition, you need `a hustler` who will sell your product to your customers and your idea to the investors.
