@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "start": "yarn dev",
     "build": "next build && next export && touch ./out/.nojekyll",
     "start": "next start",
     "type-check": "tsc --project tsconfig.json --pretty --noEmit",
