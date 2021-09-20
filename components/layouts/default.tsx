@@ -2,10 +2,10 @@ import Head from 'next/head'
 import { Page } from '@geist-ui/react'
 import Footer from './footer'
 
-interface Props {
-  title?: string
-  description?: string
-  size?: string
+type Props = {
+  title?: string,
+  description?: string,
+  size?: string,
   children?: React.ReactNode
 }
 
