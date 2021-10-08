@@ -2,11 +2,11 @@ import Head from 'next/head'
 import { Page } from '@geist-ui/react'
 import Footer from './footer'
 
-type Props = {
-  title?: string,
-  description?: string,
-  size?: string,
-  children?: React.ReactNode
+interface Props {
+  title?: string;
+  description?: string;
+  size?: string;
+  children?: React.ReactNode;
 }
 
 export default function DefaultLayout(props: Props) {
