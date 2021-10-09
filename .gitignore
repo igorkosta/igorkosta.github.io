@@ -1,6 +1,7 @@
-node_modules/
 .DS_Store
-.un~
-.swp
-.next/
-out/
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
