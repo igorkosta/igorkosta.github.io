@@ -1,0 +1,8 @@
+ul.nav.nav-list
+    each value, key in theme.menu
+        li.nav-list-item
+            - var re = /^(http|https):\/\/*/gi;
+            - var tar = re.test(value) ? "_blank" : "_self"
+            - var active = !re.test(value) && "/"+page.path.replace('index.html', '') === value
+            a.nav-list-link(class={active} href=url_for(value) target=tar)
+                != key.toUpperCase()
