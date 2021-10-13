@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://igorkosta.github.io/2021/04/13/graphql-partial-update/</loc>
-    
-    <lastmod>2021-10-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://igorkosta.github.io/2021/04/10/mock-promisified-aws-sdk-calls/</loc>
-    
-    <lastmod>2021-10-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://igorkosta.github.io/2021/02/05/organize-routes-vue-router/</loc>
-    
-    <lastmod>2021-10-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://igorkosta.github.io/2021/11/27/perfect-startup-team/</loc>
-    
-    <lastmod>2021-10-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://igorkosta.github.io/2021/10/10/pwa-shortcuts/</loc>
-    
-    <lastmod>2021-10-11</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://igorkosta.github.io/about/index.html</loc>
     
-    <lastmod>2021-10-11</lastmod>
+    <lastmod>2021-10-13</lastmod>
     
   </url>
   
   <url>
     <loc>https://igorkosta.github.io/open-source/index.html</loc>
     
-    <lastmod>2021-10-11</lastmod>
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://igorkosta.github.io/2021/04/13/graphql-partial-update/</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://igorkosta.github.io/2021/04/10/mock-promisified-aws-sdk-calls/</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://igorkosta.github.io/2021/02/05/organize-routes-vue-router/</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://igorkosta.github.io/2021/11/27/perfect-startup-team/</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://igorkosta.github.io/2021/10/10/pwa-shortcuts/</loc>
+    
+    <lastmod>2021-10-13</lastmod>
     
   </url>
   
 
   <url>
     <loc>https://igorkosta.github.io/</loc>
-    <lastmod>2021-10-11</lastmod>
+    <lastmod>2021-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
