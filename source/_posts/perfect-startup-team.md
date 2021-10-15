@@ -1,6 +1,6 @@
 ---
 title: Perfect Startup Team
-date: 2021-11-27
+date: 2021-09-27
 ---
 If you're long enough in the tech business, you should have heard a tale about 3H that every startup needs. In order for a startup to become successful it needs 3 founders:
 - a Hacker
