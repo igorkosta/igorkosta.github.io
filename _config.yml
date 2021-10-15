@@ -40,8 +40,10 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
+
 # https://hexo.io/docs/asset-folders.html#Embedding-an-image-using-markdown
 post_asset_folder: true
+
 marked:
   prependRoot: true
   postAsset: true

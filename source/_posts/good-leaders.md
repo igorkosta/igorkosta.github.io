@@ -6,10 +6,10 @@ tags:
  - dynamics
  - leaders
 ---
-Everything written below is highly influenced by the talk given at Creative Mornings Saint-Petersburg by the former Head of PR of the second biggest Russian mobile network operator - Alexander Tsypkin: [Leadership and team](https://www.youtube.com/watch?v=czb9Bjv-OQM)
-It's not a transcript though.
 
-What you will read here are my ideas and ideas I can identify myself with.
+Everything written below is highly influenced by my personal experience and talks that were given by the people I'm following.
+
+What you will read here is my take on the leadership.
 
 <!-- more -->
 
