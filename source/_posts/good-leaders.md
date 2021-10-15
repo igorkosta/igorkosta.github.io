@@ -16,6 +16,9 @@ What you will read here is my take on the leadership.
 # Protect Your Team
 A good leader always protects his team from other teams and other leaders (higher management).
 
+- A failure of your team is your failure
+- A success of your team is their success
+
 # Support Your Team
 What to do when one of your teammates decided to leave - support her, even if it's hard for you. When you see that people cannot grow further in your company or in their position, if you cannot give them the chance to grow - support them, even encourage them to leave. You'll get a loyal person in another company/team.
 # Loyalty
