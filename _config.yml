@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Home
-subtitle: ''
-description: Igor's website
-keywords:
+title: Igor Kostyuchenok
+subtitle: Igor's Blog
+description:
+keywords: 'kostyuchenok, blog, cto, startup, mentoring, software development, fintech'
 author: Igor Kostyuchenok
 language: en
 timezone: ''
