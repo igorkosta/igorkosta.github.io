@@ -36,7 +36,7 @@ You cannot inspire people. Your goal should be to hire inspired people. If you h
 Communicate honestly with them. They should know why do you think they shouldn't do certain things. But bear in mind if you already tried something and failed it doesn't necessarily mean it won't work next time with different people.
 
 # Let Them Make Mistakes
-You have to let them make their own mistakes. Mistakes are the best source of learing - that's just a nature of learing. If you make all the decisions for them they won't grow and will leave sooner rather than later. If you let them make their own mistakes they will grow faster by order of magnitude.
+You have to let them make their own mistakes. Mistakes are the best source of learning - that's just a nature of learing. If you make all the decisions for them they won't grow and will leave sooner rather than later. If you let them make their own mistakes they will grow faster by order of magnitude.
 
 # Let Them Show Off
 Let your people the chance to show their accomplishments. If you see a team where only the leader is known for the work done, it means he is afraid of growing people stronger than him. A leader has to be sure that when he quit there are two people who can take his place and work better than him.
