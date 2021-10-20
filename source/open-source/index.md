@@ -1,6 +1,3 @@
----
----
-
 Most of the stuff you build nowadays is only possible because of the people from the open source community.
 
 I am also trying to give back to the community.
