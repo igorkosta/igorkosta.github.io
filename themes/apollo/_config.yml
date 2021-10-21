@@ -3,6 +3,7 @@ menu:
     archive: /archives/
     open source: /open-source/
     about: /about/
+    Rss: /atom.xml
 
 favicon: /favicon.jpg
 logo: /favicon.jpg
