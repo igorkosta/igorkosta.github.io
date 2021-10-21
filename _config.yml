@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Kostyuchenok
+title: Igor Kostyuchenok
 subtitle: Igor's Blog
 description:
 keywords: 'kostyuchenok, blog, cto, startup, mentoring, software development, fintech'
@@ -104,7 +104,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: pandollo
+theme: apollo
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
