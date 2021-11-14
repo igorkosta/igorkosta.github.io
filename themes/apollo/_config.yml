@@ -1,9 +1,8 @@
 menu:
     blog: /
     archive: /archives/
-    open source: /open-source/
     about: /about/
-    Rss: /atom.xml
+    services: /services/
 
 favicon: /favicon.jpg
 logo: /favicon.jpg
