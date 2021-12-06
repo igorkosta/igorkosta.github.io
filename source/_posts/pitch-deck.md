@@ -2,6 +2,10 @@
 title: A Perfect Pitch-Deck
 date: 2021-12-03 15:12:22
 tags:
+  - startup
+  - pitch-deck
+  - product
+  - team
 ---
 
 Startups are all about the speed of execution and iteration. If you don't have enough financial resources to hire a team to execute on your idea 24/7 for the next 3-6 months, your best bet is to find like-minded people and start working on your pitch-deck.
@@ -21,4 +25,6 @@ a waste of time. Once you start executing, you will see how rapid your plan is c
 
 Your pitch-deck should show that you're able to plan for short- and mid-term, analyze the current situation and build your product without completely losing your product vision.
 
+Do not see your pitch-deck as `a means to an end` but rather as en exercisethat you will have to do every couple of months to review your product and its position on the market.
 
+Don't forget that there's no formula for success - there's just a formula for failure.
