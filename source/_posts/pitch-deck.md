@@ -1,6 +1,6 @@
 ---
-title: A Perfect Pitch-Deck
-date: 2021-12-03 15:12:22
+title: The Perfect Pitch-Deck
+date: 2021-12-10 15:12:22
 tags:
   - startup
   - pitch-deck
