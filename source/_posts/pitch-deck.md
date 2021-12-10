@@ -28,3 +28,54 @@ product/company for the next 12 months but rather to show a potential investor t
 - **funding amount** - you should know how much funding you need and what you will spend it on
 
 Don't forget that there's no formula for success - there's just a formula for failure.
+
+I recommend to any startup founder to register at [Signal](https://signal.nfx.com/) and create your brief. The guys at [Signal](https://signal.nfx.com/) made a good job at providing the questions any founder should have answers to. [Signal](https://signal.nfx.com/) also gives you the opportunity to create briefs targeted at certain investors.
+
+So, getting inspiration from the Signal's brief questions, let's talk about
+a perfect pitch-deck and what information it needs to provide:
+- **Business Category/Sector** - you have to know whether you're
+  planning to sell you product/service to the customers or other businesses:
+B2C, B2B, B2B2C etc. and what is the market for you product from the technical
+point of view: FinTech, CleanTech, FoodTech etc. Your product can play in
+multiple categories
+- **Current Stage of Your Company/Product** - Pre-Product, Pre-Revenue,
+  Post-Revenue
+- **Team** - Crucial topic. You'll have a lot more chances to get funding, and
+  let's be honest, to build your company if you have a team of like-minded
+people working towards a common goal. To learn more about a **perfect team**,
+head over to this article on my blog [Perfect Startup
+Team](https://kostyuchenok.com/2021/09/27/perfect-startup-team/)
+- **Your Company Brief** - description of your company in one sentence. Come up
+  with a plausible explanation of what your product does. Don't use the
+sentences like: `Airbnb for yachts` or `Uber for bicycles`
+- **Market** - how big is your market Why do you think it can get big. Ideally
+  your product will create its own market so that you can dominate it right
+from the start
+- **Business Model** - briefly explain how you're plannig to make money
+- **Timing** - many products fail due to entering the market too early or too
+  late. Please, explain, why do you think now is the right time for your
+product: technology shift, legislative shift, behavorial shift?
+- **Traction** - if your product already has some traction, add this
+  information to your pitc-deck. Include the information about the user base
+growth and the revenues. If you are working in a B2B area add the information
+about the contracts closed and current and projected revenues. Even if you just
+have an LoI signed with some prospects, mention it in your deck.
+- **Founder/VC Fit** - if you're targeting a certain VC person or a fund, you
+  should convey here why you think it's the right VC partner for your startup.
+
+What I personally find very important when I review the pitch-decks is how
+little attention founders pay the business and technology part of their decks.
+They often do not know, how is their product different to their competitors or
+how they're plannign to make money.
+
+Please also don't forget that it always makes sense to validate your idea. You
+don't have to build the complete product to do it - there're ways to validate
+it either prior to building it or during your [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) phase.
+
+Don't try to create a perfect MVP, don't spend time prematurely scaling it. You
+will be amazed how much load a regular tech stack can handle. Most of the
+startups will never achieve the scale they're optimizing their products for.
+
+If you want your pitch-deck reviewed or need an advice on starting to build the
+product - drop me a line at <a
+href="mailto:igor@kostyuchenok.com">igor@kostyuchenok.com</a>
