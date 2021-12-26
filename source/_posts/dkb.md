@@ -30,6 +30,8 @@ Having the right products customers could bear with rather antiquated digital pr
 
 So, what will happen next. I assume DKB will lose at least 10% of its current customer base without acquiring new customers. Most if its clients who were using DKB as their main banking account will probably move to [ING](https://www.ing.de/) - the largest direct bank in Germany will only get bigger. Some younger clients may move to [N26](https://n26.com).
 
+Unfortunately most of the new banks didn't learn how to make money, so the only way they are able to stay afloat is to go with the subscription model without offering a great product. Accumulating a lot of money they cannot do anything valuable with it.
+
 I would love to talk to the decision makers at DKB to understand their mid- and long term growth plans and how they're planning to overcome the future challenges without losing most of their client base.
 
 If you have worked or still work at DKB and would like to talk - drop me a line at <a href="mailto:igor.kostyuchenok@gmail.com">igor.kostyuchenok@gmail.com</a>.
