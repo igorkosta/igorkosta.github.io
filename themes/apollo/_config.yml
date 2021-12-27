@@ -1,8 +1,9 @@
 menu:
-    blog: /
-    archive: /archives/
-    about: /about/
-    services: /services/
+  blog: /
+  services: /services/
+  about: /about/
+  telegram: https://t.me/kostyuchenok
+  # archive: /archives/
 
 favicon: /favicon.jpg
 logo: /favicon.jpg
