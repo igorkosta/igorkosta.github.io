@@ -2,8 +2,8 @@
 Create new post:
 
 ```
-hexo add new <layout> <post title>
+hexo new <layout> <post title>
 e.g.
 
-hexo add new post foobar
+hexo new post foobar
 ```

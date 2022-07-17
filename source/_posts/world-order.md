@@ -52,7 +52,3 @@ Since the project [Anti-Russia](https://en.wikipedia.org/wiki/Ukraine) has been 
 
 Inspired by the success they had in Ukraine, the united west hoped to reach fast results in Russian Federation. As they saw their plan failing, the decision was made to start the war on Russian to weaken and force it to obey the current world order.
 
-<div style="text-align: center;">
-  <h1>To Be Continued</h1>
-</div>
-
