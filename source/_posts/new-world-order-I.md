@@ -1,5 +1,5 @@
 ---
-title: New World Order
+title: New World Order - Main Players
 date: 2022-07-17 13:38:04
 tags: politics, geopolitics, economy, Europ
 ---
