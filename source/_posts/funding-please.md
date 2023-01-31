@@ -10,6 +10,10 @@ What was striking to me, besides their eagerness to build their products, is how
 
 <!-- more -->
 
+<div style="text-align: center;">
+  <img src="funding-please.jpeg" width="70%" />
+</div>
+
 Startups are all about the speed of execution and iteration. If you don't have enough financial resources to hire a team to execute on your idea 24/7 for the next 3-6 months, your best bet is to find like-minded people and start working on your pitch-deck.
 
 Do not see your pitch-deck as `a means to an end` but rather as en exercise that you will have to do every couple of months to review your product and its position on the market. You're doing this work primarily for yourself and not for a potential investor. You need it more than anyone else.
