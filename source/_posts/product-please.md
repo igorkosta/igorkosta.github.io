@@ -16,6 +16,8 @@ The art of the product development is to deliver a working solution as fast as p
 
 Products are hard, good products are even harder. They are hard to build, hard to launch and even harder to continuously improve.
 
+Products solve problems. Good products solve hard problems. Hard problems are not easy to solve, so good products are hard to build.
+
 According to [Marty Cagan](https://svpg.com/our-team/#marty) - the founder of the [Silicon Valley Product Group](https://svpg.com/) has the best definition of a successful product - the best products exist on the intersection of following qualities:
 - **Valuable** – Something that our customers will choose to use
 - **Usable** – Easy to figure out how to use
