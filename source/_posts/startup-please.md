@@ -15,7 +15,7 @@ There is no product that's created in a vacuum. You will always have competition
 All product related things aside - startups are all about grit. If you decided to build your own product and to dedicate your life to it - expect a bumpy ride. It will be probably the best decision of your life but only if you will have the right attitude.
 
 <div style="text-align: center;">
-  <img src="startup-please.jpg" width="50%" />
+  <img src="startup-please.jpg" width="70%" />
 </div>
 
 I hope this book will help you to avoid some obstacles on your way to success. It doesn't represent the absolute truth, it just gives you some insights that I would love to know before embarking on a startup journey. I will keep it short, I promise - I know you won't have a lot of free time on your hands. I also won't get very deep into the startup matter. To paraphrase Leo Tolstoy:
