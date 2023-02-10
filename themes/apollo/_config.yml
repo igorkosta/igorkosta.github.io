@@ -2,7 +2,8 @@ menu:
   blog: /
   services: /services/
   about: /about/
-  FinTechNewz: https://t.me/FinTechNewz
+  # FinTechNewz: https://t.me/FinTechNewz
+  Donate: https://www.paypal.com/donate/?hosted_button_id=N8BZHR2P2SBEQ
   # archive: /archives/
 
 favicon: /favicon.png
