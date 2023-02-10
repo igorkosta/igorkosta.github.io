@@ -29,6 +29,7 @@ In order to add this shortcut to your PWA, you have to add the `shortcuts`
 section to your `manifest.json` file:
 
 ```json
+{
   "name": "BANG",
   "short_name": "BANG",
   "description": "Neo Bang",
