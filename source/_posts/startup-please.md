@@ -14,7 +14,7 @@ Startups are all about growth, explosive growth. Once your company stops growing
 
 If you hear the word startup and think [FAANG](https://www.fastcompany.com/90790394/what-are-the-faang-companies) and perks - you do not know anything about startups and you probably do not want to start one or work for one.
 
-Startups are not about perks, off-sites, IPAs or gender wars. Startups are about `blood, sand and tears`.
+Startups are not about perks, off-sites, IPAs or gender wars. Startups are about `blood, sweat and tears`.
 
 Startup is about constant grind, consistency and stamina. Startup is neither a sprint nor it is a marathon - startup is a `fartlek` - a long run consisting of short high-intensity intervals and short slower paced ones. Startup is about being able to fall and stand up over and over again.
 
