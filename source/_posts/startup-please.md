@@ -10,6 +10,18 @@ All successful startups are product oriented. All successful products are custom
 
 <!-- more -->
 
+Startups are all about growth, explosive growth. Once your company stops growing exponentially year on year, you cannot consider it being a startup anymore - you moved into the category of established companies or you went out of business, which is way more likely.
+
+If you hear the word startup and think [FAANG](https://www.fastcompany.com/90790394/what-are-the-faang-companies) and perks - you do not know anything about startups and you probably do not want to start one or work for one.
+
+Startups are not about perks, off-sites, IPAs or gender wars. Startups are about `blood, sand and tears`.
+
+Startup is about constant grind, consistency and stamina. Startup is neither a sprint nor it is a marathon - startup is a `fartlek` - a long run consisting of short high-intensity intervals and short slower paced ones. Startup is about being able to fall and stand up over and over again.
+
+If none of the above is something you can live with - do not join a startup and do not start one - you will definitely fail.
+
+Why do people start companies then? The answer is very simple - because they cannot do otherwise. You have founders, who want to change the world and founders, who ride the current hype wave and want to make money. You have people, who cannot stand the bullshit and politics of big corporations and crazy scientists, who have been working on their idea for years and got discovered by a VC. All of them have different motivations but they have at least on thing in common - they are ready to sacrifice their time, health and their relationships to bring their idea to life.
+
 There is no product that's created in a vacuum. You will always have competition. The competition will be fierceful. If you want to truly make it, you have to be at the very top. Only a monopoly doesn't compete - don't let you tell otherwise.
 
 All product related things aside - startups are all about grit. If you decided to build your own product and to dedicate your life to it - expect a bumpy ride. It will be probably the best decision of your life but only if you will have the right attitude.
