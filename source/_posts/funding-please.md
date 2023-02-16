@@ -11,7 +11,12 @@ What was striking to me, besides their eagerness to build their products, is how
 <!-- more -->
 
 <div style="text-align: center;">
-  <img src="funding-please.jpeg" width="70%" />
+  <figure>
+    <img width="100%" src="funding-please.jpeg"/>
+    <figcaption>
+      Daniel Ong giving a speech in front of startup founders
+    </figcaption>
+  </figure>
 </div>
 
 Startups are all about the speed of execution and iteration. If you don't have enough financial resources to hire a team to execute on your idea 24/7 for the next 3-6 months, your best bet is to find like-minded people and start working on your pitch-deck.

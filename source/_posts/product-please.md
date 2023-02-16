@@ -8,6 +8,15 @@ Product is at the center of your startup. Your product is what it's all about. W
 
 <!-- more -->
 
+<div style="text-align: center;">
+  <figure>
+    <img width="100%" src="product-please.jpeg"/>
+    <figcaption>
+      Gates Sign in the Airport of Bangkok
+    </figcaption>
+  </figure>
+</div>
+
 Execution is the key - that's what startups are all about. If you cannot execute your idea, you won't have a company and won't make the world, `hopefully`, a better place.
 
 Your product is not the heart but a brain of your startup. Without your product your company is brain-dead. Even if it looks shiny, it's not operational.

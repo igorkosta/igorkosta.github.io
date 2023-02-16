@@ -10,6 +10,17 @@ All successful startups are product oriented. All successful products are custom
 
 <!-- more -->
 
+<div style="text-align: center;">
+  <figure>
+    <img
+      src="startup-please.jpg"
+      width="100%"
+      title="Mbanq Team at Mbanq Labs Hackathon in Singapore"
+    />
+    <figcaption>Mbanq Team at Mbanq Labs Hackathon in Singapore</figcaption>
+  </figure>
+</div>
+
 Startups are all about growth, explosive growth. Once your company stops growing exponentially year on year, you cannot consider it being a startup anymore - you moved into the category of established companies or you went out of business, which is way more likely.
 
 If you hear the word startup and think [FAANG](https://www.fastcompany.com/90790394/what-are-the-faang-companies) and perks - you do not know anything about startups and you probably do not want to start one or work for one.
@@ -25,10 +36,6 @@ Why do people start companies then? The answer is very simple - because they can
 There is no product that's created in a vacuum. You will always have competition. The competition will be fierceful. If you want to truly make it, you have to be at the very top. Only a monopoly doesn't compete - don't let you tell otherwise.
 
 All product related things aside - startups are all about grit. If you decided to build your own product and to dedicate your life to it - expect a bumpy ride. It will be probably the best decision of your life but only if you will have the right attitude.
-
-<div style="text-align: center;">
-  <img src="startup-please.jpg" width="70%" />
-</div>
 
 I hope this book will help you to avoid some obstacles on your way to success. It doesn't represent the absolute truth, it just gives you some insights that I would love to know before embarking on a startup journey. I will keep it short, I promise - I know you won't have a lot of free time on your hands. I also won't get very deep into the startup matter. To paraphrase Leo Tolstoy:
 
