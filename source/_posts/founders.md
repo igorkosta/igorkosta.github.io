@@ -1,7 +1,7 @@
 ---
 title: Founding Team
 date: 2023-02-16 14:27:45
-tags:
+tags: startup, founders, team, founding team
 ---
 
 If you're long enough in the tech business, you should have heard a tale about 3H that every startup needs. In order for a startup to become successful it needs 3 founders:
