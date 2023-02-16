@@ -44,6 +44,20 @@
   </url>
   
   <url>
+    <loc>https://kostyuchenok.com/2021/10/10/pwa-shortcuts/</loc>
+    
+    <lastmod>2023-02-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/2023/02/05/sell-please/</loc>
+    
+    <lastmod>2023-02-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://kostyuchenok.com/2021/04/10/mock-promisified-aws-sdk-calls/</loc>
     
     <lastmod>2023-02-16</lastmod>
@@ -79,20 +93,6 @@
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/2021/10/10/pwa-shortcuts/</loc>
-    
-    <lastmod>2023-02-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/2023/02/05/sell-please/</loc>
-    
-    <lastmod>2023-02-16</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://kostyuchenok.com/2021/12/23/dkb/</loc>
     
     <lastmod>2023-02-16</lastmod>
@@ -122,6 +122,13 @@
   
   <url>
     <loc>https://kostyuchenok.com/2021/04/13/graphql-partial-update/</loc>
+    
+    <lastmod>2023-02-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/2023/02/16/hire-please/</loc>
     
     <lastmod>2023-02-16</lastmod>
     
@@ -166,6 +173,13 @@
   
   <url>
     <loc>https://kostyuchenok.com/tags/leaders/</loc>
+    <lastmod>2023-02-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/tags/hire-fire-people-management-team/</loc>
     <lastmod>2023-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
