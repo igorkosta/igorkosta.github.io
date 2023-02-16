@@ -12,7 +12,12 @@ If you want to successfully sell your product or service, you should sell a stor
 <!-- more -->
 
 <div style="text-align: center;">
-  <img src="sell-please.jpeg" width="80%" />
+  <figure>
+    <img width="100%" src="sell-please.jpeg"/>
+    <figcaption>
+      Singapore Business District
+    </figcaption>
+  </figure>
 </div>
 
 People are egocentric, social creatures who value their status in society. Every product that contributes to their value will get high attention. This way products can move from being used to solving problems to becoming status symbols: `Rolex`, `iPhone`, `Tesla`. The products that moved into the `status symbol` category will yield the highest earnings for the product provider.
