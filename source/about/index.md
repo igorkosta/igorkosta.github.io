@@ -14,4 +14,4 @@ I established and led <a href="https://labs.mbanq.io" target="_blank">Mbanq Labs
 
 <span class="important"><a href="https://www.serverless.com/" target="_blank">Serverless</a> is the stack of my choice</span> at the moment. Check out the <span class="important">Open Source</span> section for some of the goodies for the development of the serverless applications.
 
-I'm running <a href="https://shows.acast.com/salty-breeze-radio/episodes" target="_blank">Salty Breeze Radio</a> - a weekly music podcast and writing <a href="https://ryan-raiz.github.io/avanti/" target="_blank">Avanti</a> - a fictional book about real life.
+I'm the author of the <a href="https://www.amazon.com/dp/B0BWFK212S" target="_blank">Startup, Please</a> book.
