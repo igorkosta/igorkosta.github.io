@@ -3,6 +3,7 @@ title: Hire Please
 date: 2023-02-16 15:21:15
 tags: hire, fire, people, management, team
 ---
+
 Everything written below is highly influenced by my personal experience and talks that were given by the people I'm following.
 
 <!-- more -->
