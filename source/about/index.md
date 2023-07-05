@@ -14,4 +14,13 @@ I established and led <a href="https://labs.mbanq.io" target="_blank">Mbanq Labs
 
 <span class="important"><a href="https://www.serverless.com/" target="_blank">Serverless</a> is the stack of my choice</span> at the moment. Check out the <span class="important">Open Source</span> section for some of the goodies for the development of the serverless applications.
 
-I'm the author of the <a href="https://www.amazon.com/dp/B0BWFK212S" target="_blank">Startup, Please</a> book.
+# Books
+In my spare time I'm writing books:
+
+## Books in English
+<a href="https://www.amazon.com/dp/B0BWFK212S" target="_blank">Startup, Please</a>
+
+## Books in Russian
+- <a href="https://www.litres.ru/book/igor-kostuchenok/21-68646710/" target="_blank">21</a>
+- <a href="https://www.litres.ru/book/igor-kostuchenok/rab-bozhiy-vadim-69408304/" target="_blank">Раб Божий Вадим</a>
+
