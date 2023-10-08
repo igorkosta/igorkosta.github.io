@@ -24,3 +24,5 @@ In my spare time I'm writing books:
 - <a href="https://www.litres.ru/book/igor-kostuchenok/21-68646710/" target="_blank">21</a>
 - <a href="https://www.litres.ru/book/igor-kostuchenok/rab-bozhiy-vadim-69408304/" target="_blank">Раб Божий Вадим</a>
 
+## Music
+Listen to and buy my music on <a href="https://maisonkikemusic.bandcamp.com/" target="_blank">Bandcamp</a>
