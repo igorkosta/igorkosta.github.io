@@ -1,6 +1,4 @@
-Having `more than 15 years of experience` working in and with startups both as
-`founder, advisor and mentor`, I helped `more than 20 startups` to build their
-products, define their vision and raise funds.
+I'm offering services to startups and individuals.
 
 If you are just starting to build your own company or if you're trying to scale
 an established business and need any help - drop me a line.
@@ -18,4 +16,7 @@ that - <a href="mailto:igor@kostyuchenok.com?subject=Product Review" target="_bl
 - `Interim CTO` - if you need help building an MVP or if you are planning to
   find/hire a CTO - <a href="mailto:igor@kostyuchenok.com?subject=Interim CTO">I may be able to help</a>
 
-
+You can also book me to talk at your event or a conference. Topics I give talks about include:
+- How to assemble a kick-ass team
+- How to build successful products
+- How to sell useless products :)

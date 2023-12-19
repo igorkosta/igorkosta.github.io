@@ -1,6 +1,6 @@
-I'm a <span class="important">Product and Tech Lead</span> living in Munich.
+I'm a <span class="important">Serial Entrepreneur, Author and Investor</span> based in Munich.
 
-I have more than a decade of professional experience building and launching digital products.
+With more than two decades of professional experience in building successful companies, teams and products.
 
 I was responsible for launching the first version of the most used banking software on the German market: <a href="https://apps.apple.com/de/app/starmoney-financemanagement/id1237596145" target="_blank">StarMoney</a> for the Mac OS platform.
 
@@ -21,8 +21,4 @@ In my spare time I'm writing books:
 <a href="https://www.amazon.com/dp/B0BWFK212S" target="_blank">Startup, Please</a>
 
 ## Books in Russian
-- <a href="https://www.litres.ru/book/igor-kostuchenok/21-68646710/" target="_blank">21</a>
-- <a href="https://www.litres.ru/book/igor-kostuchenok/rab-bozhiy-vadim-69408304/" target="_blank">Раб Божий Вадим</a>
-
-## Music
-Listen to and buy my music on <a href="https://maisonkikemusic.bandcamp.com/" target="_blank">Bandcamp</a>
+<a href="https://www.litres.ru/author/igor-kostuchenok/" target="_blank">Books</a>
