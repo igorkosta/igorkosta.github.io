@@ -1,7 +1,9 @@
-I'm offering services to startups and individuals.
+I'm offering services to established companies, startups and individuals.
 
 If you are just starting to build your own company or if you're trying to scale
-an established business and need any help - drop me a line.
+an established business and need any help - <a href="mailto:igor@kostyuchenok.com?subject=Help%20us%20to%20build%20a%20successful%20company">drop me a line</a>.
+
+If you are having problems with assembling a kick-ass team or are not sure how to lead one - I can offer you <a href="mailto:igor@kostyuchenok.com?subject=I%20need%20some%20mentoring">my mentoring</a>.
 
 Here are some of the services I provide:
 -  `Pitch Deck Review` - whether you want to raise funds or get accepted

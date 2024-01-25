@@ -10,9 +10,7 @@ I currently <span class="important">lead the product and software development</s
 
 As an Interim CTO I helped to build the first version of <a href="https://www.cometum.com" target="_blank">Cometum</a> - the Investment Platform for the new generation.
 
-I established and led <a href="https://labs.mbanq.io" target="_blank">Mbanq Labs</a> - Singapore based FinTech accelerator.
-
-<span class="important"><a href="https://www.serverless.com/" target="_blank">Serverless</a> is the stack of my choice</span> at the moment. Check out the <span class="important">Open Source</span> section for some of the goodies for the development of the serverless applications.
+I established and led <a href="https://labs.mbanq.io" target="_blank">Mbanq Labs</a> - Singapore based `FinTech` accelerator.
 
 # Books
 In my spare time I'm writing <a href="https://www.amazon.de/-/en/Igor-Kostyuchenok-ebook/dp/B0BWFK212S" target="_blank">books</a> and <a href="/blog">blog</a> about stuff I'm interested in.
