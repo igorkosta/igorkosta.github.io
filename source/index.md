@@ -1,4 +1,4 @@
-I'm a <span class="important">Serial Entrepreneur, Author and Investor</span> based in Munich.
+I'm a <span class="important">Serial Entrepreneur, Author and Investor</span>.
 
 With more than two decades of professional experience in building successful companies, teams and products.
 
@@ -15,10 +15,8 @@ I established and led <a href="https://labs.mbanq.io" target="_blank">Mbanq Labs
 <span class="important"><a href="https://www.serverless.com/" target="_blank">Serverless</a> is the stack of my choice</span> at the moment. Check out the <span class="important">Open Source</span> section for some of the goodies for the development of the serverless applications.
 
 # Books
-In my spare time I'm writing books:
+In my spare time I'm writing <a href="https://www.amazon.de/-/en/Igor-Kostyuchenok-ebook/dp/B0BWFK212S" target="_blank">books</a> and <a href="/blog">blog</a> about stuff I'm interested in.
 
-## Books in English
-<a href="https://www.amazon.com/dp/B0BWFK212S" target="_blank">Startup, Please</a>
 
-## Books in Russian
-<a href="https://www.litres.ru/author/igor-kostuchenok/" target="_blank">Books</a>
+
+
