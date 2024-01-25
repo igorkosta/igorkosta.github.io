@@ -1,8 +1,8 @@
 menu:
-  blog: /
+  about: /
   services: /services/
-  about: /about/
-    # hire me: /hire-me/
+  blog: /blog/
+  # hire me: /hire-me/
 
 favicon: /favicon.png
 logo: /favicon.png

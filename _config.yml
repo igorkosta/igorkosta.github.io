@@ -13,8 +13,17 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+# URL
 url: https://kostyuchenok.com//
-permalink: :year/:month/:day/:title/
+# permalink: :year/:month/:day/:title/
+root: /
+permalink: blog/:year/:month/:day/:title/
+# archive_dir: blog
+
+# Extensions
+# exclude_generator:
+# - index
+
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -68,7 +77,7 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
+  path: blog
   per_page: 10
   order_by: -date
 
