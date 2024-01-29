@@ -9,7 +9,7 @@ tags: mentorship, coaching, life, vocation
 
 <!-- more -->
 
-If you had troubles searching for your vocation, it may be due to the fact that you're out of your life force. Let's see what the life force is and how you can get it back.
+If you had troubles finding your vocation, it may be due to the fact that you're out of your life force. Let's see what the life force is and how you can get it back.
 
 If you feel down and depressed. If you feel like you lost a sense of direction and you don't know what to do next. You can always work on your life force.
 
