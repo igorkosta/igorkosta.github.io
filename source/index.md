@@ -18,7 +18,7 @@ I established and led <a href="https://labs.mbanq.io" target="_blank">Mbanq Labs
 In my spare time I'm writing <a href="https://www.amazon.de/-/en/Igor-Kostyuchenok-ebook/dp/B0BWFK212S" target="_blank">books</a> and <a href="/blog">blog</a> about stuff I'm interested in.
 
 <a href="/individual-consultation">
-  <div style="text-transform: uppercase; vertical-align: middle; border-radius: 10px; padding: 20px; margin-bottom:20px; width:600px; background-color: #EB986B;">
+  <div style="text-transform: uppercase; vertical-align: middle; border-radius: 10px; padding: 20px; margin-bottom:20px; width:100%; background-color: #EB986B;">
     <span style="color: #FFFFFF; font-size: large;">Individual Consultation</span>
     <span style="float: right; color: #FFFFFF;">
       {% fa_inline arrow-right %}
@@ -27,7 +27,7 @@ In my spare time I'm writing <a href="https://www.amazon.de/-/en/Igor-Kostyuchen
 </a>
 
 <a href="https://wa.me/4917661508419">
-  <div style="text-transform: uppercase; vertical-align: middle; border-radius: 10px; padding: 20px; width: 600px; background-color: #EB986B;">
+  <div style="text-transform: uppercase; vertical-align: middle; border-radius: 10px; padding: 20px; width: 100%; background-color: #EB986B;">
     <span style="color: #FFFFFF; font-size: large;">Contact me on WHATSAPP</span>
     <span style="float: right; color: #FFFFFF;">
       {% fa_inline arrow-right %}
