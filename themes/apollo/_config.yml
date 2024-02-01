@@ -1,6 +1,6 @@
 menu:
   about: /
-  services: /services/
+  # services: /services/
   blog: /blog/
   # hire me: /hire-me/
 
