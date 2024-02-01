@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2023/01/18/startup-please/</loc>
-    
-    <lastmod>2024-02-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://kostyuchenok.com/blog/2022/08/01/vc-ing-after-2022/</loc>
     
     <lastmod>2024-02-01</lastmod>
@@ -58,56 +51,7 @@
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2023/02/27/progression/</loc>
-    
-    <lastmod>2024-02-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2021/10/10/pwa-shortcuts/</loc>
-    
-    <lastmod>2024-02-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2023/10/06/reverse-pitch/</loc>
-    
-    <lastmod>2024-02-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2023/11/30/rich-people-economy/</loc>
-    
-    <lastmod>2024-02-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2023/02/05/sell-please/</loc>
-    
-    <lastmod>2024-02-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2021/10/15/good-leaders/</loc>
-    
-    <lastmod>2024-02-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2021/04/13/graphql-partial-update/</loc>
-    
-    <lastmod>2024-02-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2023/02/16/hire-please/</loc>
+    <loc>https://kostyuchenok.com/blog/2023/01/18/startup-please/</loc>
     
     <lastmod>2024-02-01</lastmod>
     
@@ -163,7 +107,70 @@
   </url>
   
   <url>
+    <loc>https://kostyuchenok.com/blog/2023/02/27/progression/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2021/10/10/pwa-shortcuts/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2023/10/06/reverse-pitch/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2023/11/30/rich-people-economy/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2024/02/01/self-sabotage/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2023/02/05/sell-please/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://kostyuchenok.com/blog/2023/01/31/funding-please/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2021/10/15/good-leaders/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2021/04/13/graphql-partial-update/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2023/02/16/hire-please/</loc>
     
     <lastmod>2024-02-01</lastmod>
     
@@ -278,6 +285,13 @@
   
   <url>
     <loc>https://kostyuchenok.com/tags/startup-team-management/</loc>
+    <lastmod>2024-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/tags/psychology-mentoring-part-x-self-sabotage/</loc>
     <lastmod>2024-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
