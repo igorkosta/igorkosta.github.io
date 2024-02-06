@@ -13,13 +13,13 @@ The first step to overcome our brain's intention to self sabotage important deci
 
 <!-- more -->
 
-So, what is the origin of `self sabotage`. We humans have been living in a rather safe environment for the last couple of hundreds of years. Before that for thousands of year we lived in a state of constant danger, which lead to our brain developing the protection mechanism against everything that it sees as a danger.
+So, what is the origin of `Self Sabotage`. We humans have been living in a rather safe environment for the last couple of hundreds of years. Before that for thousands of year we lived in a state of constant danger, which lead to our brain developing the protection mechanism against everything that it sees as a danger.
 
-Although the intentional idea has been very good and helped us to survive all this thousands of years as a species, we need to overcome this protection whenever we have to develop a new habit. See the `self sabotage` as your `comfort zone` that actively holds you back from any changes - negative or positive ones.
+Although the intentional idea has been very good and helped us to survive all this thousands of years as a species, we need to overcome this protection whenever we have to develop a new habit. See the `Self Sabotage` as your `comfort zone` that actively holds you back from any changes - negative or positive ones.
 
-`Self sabotage` is coming from the primal part of our brains and cannot be avoided. There is no known way to switch it off, whenever there will be uncertainty there will be self-doubt. The greater the uncertainty and adversity the bigger the opportunity and the more your brain will try to sabotage it.
+`Self Sabotage` is coming from the primal part of our brains and cannot be avoided. There is no known way to switch it off, whenever there will be uncertainty there will be self-doubt. The greater the uncertainty and adversity the bigger the opportunity and the more your brain will try to sabotage it.
 
-If you can learn to overcome your fears, it will change your life. Let's examine some of the tools that can be helpful in overcoming `self sabotage`.
+If you can learn to overcome your fears, it will change your life. Let's examine some of the tools that can be helpful in overcoming `Self Sabotage`.
 
 The shame and embarrassment is the glue that holds the humanity together. We were created to make mistakes. Making mistakes is the only way to accomplishing anything in life.
 
@@ -45,7 +45,13 @@ The Shadow represents the part of yourself you're ashamed of - the time when you
 As long as you will try to avoid confronting your past, imperfect self - you won't be at peace with it and it will appear at the most inconvenient times and block you again. Recognize yourself, be at peace with yourself and the next decision you must make will fall easier.
 
 ## The Snapshot
+The world is not perfect and neither are we. Understanding all that our brain is still able to trick us into the illusion of the perfect experience. We are searching for it even knowing that it doesn't exist. The perfection only exists in our mind. It's not to be found in the real world.
+
+No matter whether you're looking for a perfect partner or a perfect movie - you are destined to fail. There will be nearly perfect moments in your life - no doubt about it but these will be just moments - the snapshots. The snapshot is a still picture. It has no depth - the depth is added by the imperfections. We are chasing the perfection that doesn't exist ignoring three aspects of reality - pain, uncertainty and constant work.
+
+Money and success won't remove three aspects of reality. Stop chasing the phantom and start living.
 
 ## The Maze
+The Maze is the by-product of `Self Sabotage` because `Self Sabotage` wants `fairness`. A classic example of the maze is when you spend lots of time talking about someone who mistreated you in the past. You're looking for fairness but at the same time the endless search for fairness blocks you from moving forward. It blocks you from taking the next step because you're afraid that you will get treated unfair again.
 
-
+> Request for fairness puts your life on hold. -- Dr. Phil Stutz
