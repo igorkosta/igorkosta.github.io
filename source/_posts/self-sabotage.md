@@ -55,3 +55,19 @@ Money and success won't remove three aspects of reality. Stop chasing the phanto
 The Maze is the by-product of `Self Sabotage` because `Self Sabotage` wants `fairness`. A classic example of the maze is when you spend lots of time talking about someone who mistreated you in the past. You're looking for fairness but at the same time the endless search for fairness blocks you from moving forward. It blocks you from taking the next step because you're afraid that you will get treated unfair again.
 
 > Request for fairness puts your life on hold. -- Dr. Phil Stutz
+
+# The Work
+Constant work is one of the three aspects of the reality. What is the `constant work` that we have to do to not dwell on the past, don't get stuck on the things we cannot change and keep being creative.
+
+## The Grateful Flow
+The sun is always out there above the clouds even if you don't see it. There's always light, love and positivity. The question is: how do you penetrate the clouds so that you can see the sun.
+
+You can penetrate the clouds with gratefulness. Gratefulness gives you the feeling that there's always something positive out there.
+
+Gratitude is the way to break through the haze of negativity. The `Grateful Flow` is the process of creating the concentrated gratitude in your own mind and use it to break through the clouds of negativity until you can see the light again.
+
+## Radical Acceptance
+
+## Active Love
+
+## Loss Processing
