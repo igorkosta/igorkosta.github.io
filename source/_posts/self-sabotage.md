@@ -67,7 +67,23 @@ You can penetrate the clouds with gratefulness. Gratefulness gives you the feeli
 Gratitude is the way to break through the haze of negativity. The `Grateful Flow` is the process of creating the concentrated gratitude in your own mind and use it to break through the clouds of negativity until you can see the light again.
 
 ## Radical Acceptance
+The concept of `Radical Acceptance` was initially introduced by [Marsha Linehan](https://en.wikipedia.org/wiki/Marsha_M._Linehan).
+She learned it first when she visited a Buddhist Monastery. The basic message is `to try to radically accept everythiing and let go of desires or what you want every single morning`. The example would be `letting go of wanting a particular job`.
+
+The recognition that you don't always have to have whatever it is you want - is very liberating.
+
+Supressing what you want is not the way to go. You have to radically accept that you don't have what you want and it's not a catastrophe.
+
+`Radical Acceptance` has to be a regular practice. Radical acceptance doesn't mean you don't try to change things because you only have to radically accept the moment you're in and the past but you can try to change the next moment. You can't change anything if you don't accept it in the first place because you will try to change something that you think is reality.
+
+`Radical Acceptance` is about accepting the reality it is what it is.
 
 ## Active Love
+`Active Love` is the love that's independent of your immediate reaction. That's the love that's bigger, better and more powerful than fairness.
 
-## Loss Processing
+Imagine that you accumulate all the love in the world and use it whenever you feel an unfair treatment.
+
+Whenever you feel that you've been treated unfairly you have the choice of either entering the state of deprivation or put the accumulated love out.
+
+`Active Love` helps you not to get stuck by constantly pursuing the state of ephemeral fairness.
+
