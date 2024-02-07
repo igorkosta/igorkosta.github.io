@@ -68,7 +68,7 @@ Gratitude is the way to break through the haze of negativity. The `Grateful Flow
 
 ## Radical Acceptance
 The concept of `Radical Acceptance` was initially introduced by [Marsha Linehan](https://en.wikipedia.org/wiki/Marsha_M._Linehan).
-She learned it first when she visited a Buddhist Monastery. The basic message is `to try to radically accept everythiing and let go of desires or what you want every single morning`. The example would be `letting go of wanting a particular job`.
+She learned it first when she visited a Buddhist Monastery. The basic message is `to try to radically accept everything and let go of desires or what you want every single morning`. The example would be `letting go of wanting a particular job`.
 
 The recognition that you don't always have to have whatever it is you want - is very liberating.
 
