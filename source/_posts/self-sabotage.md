@@ -29,7 +29,7 @@ The Tools are a set of exercises that can help you to turn an unpleasant experie
 ## String of Pearls
 Don't devalue the small steps you're taking. Even the smallest ones. Doing every small thing the best as you can, will definitely yield results.
 
-Imagine your life as a string of pearls. Every pearl is one action. Every action has the same value.It doesn't matter where an action is a failure or a success - the most important thing is to keep going and put the next pearl on the string.
+Imagine your life as a string of pearls. Every pearl is one action. Every action has the same value. It doesn't matter where an action is a failure or a success - the most important thing is to keep going and put the next pearl on the string.
 
 You got out of bed - you just put a pearl on your string. You brushed your teeth - boom - next pearl is on the string. You wrote one sentence of your new book - there is your next pearl etc. etc.
 
@@ -72,7 +72,7 @@ She learned it first when she visited a Buddhist Monastery. The basic message is
 
 The recognition that you don't always have to have whatever it is you want - is very liberating.
 
-Supressing what you want is not the way to go. You have to radically accept that you don't have what you want and it's not a catastrophe.
+Suppressing what you want is not the way to go. You have to radically accept that you don't have what you want and it's not a catastrophe.
 
 `Radical Acceptance` has to be a regular practice. Radical acceptance doesn't mean you don't try to change things because you only have to radically accept the moment you're in and the past but you can try to change the next moment. You can't change anything if you don't accept it in the first place because you will try to change something that you think is reality.
 
