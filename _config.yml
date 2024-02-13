@@ -5,10 +5,13 @@
 # Site
 title: Igor Kostyuchenok
 subtitle: Igor's Blog
-description:
+description: Igor Kostyuchenok - personal coach, mentor, entrepreneur, author
 keywords: 'kostyuchenok, blog, cto, startup, mentoring, software development, fintech'
 author: Igor Kostyuchenok
-language: en
+language:
+  - en
+  - ru
+lang: en
 timezone: ''
 
 # URL
@@ -17,7 +20,7 @@ timezone: ''
 url: https://kostyuchenok.com//
 # permalink: :year/:month/:day/:title/
 root: /
-permalink: blog/:year/:month/:day/:title/
+permalink: blog/:lang/:year/:month/:day/:title/
 # archive_dir: blog
 
 # Extensions
@@ -25,6 +28,7 @@ permalink: blog/:year/:month/:day/:title/
 # - index
 
 permalink_defaults:
+  lang: en
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
@@ -40,7 +44,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :lang/:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
@@ -52,7 +56,6 @@ render_drafts: false
 
 # https://hexo.io/docs/asset-folders.html#Embedding-an-image-using-markdown
 post_asset_folder: true
-
 marked:
   prependRoot: true
   postAsset: true

@@ -1,12 +1,11 @@
 menu:
   about: /
-  # services: /services/
   blog: /blog/
-  # hire me: /hire-me/
 
 favicon: /favicon.png
 logo: /favicon.png
 
+description: Игорь Костючёнок
 # Comment
 # e.g disqus: seansun
 disqus:
