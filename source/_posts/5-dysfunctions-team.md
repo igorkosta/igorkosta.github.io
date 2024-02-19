@@ -37,8 +37,7 @@ Once you achieve clarity and buy-in from everyone on the team, it is then that e
 
 # Inattention to Results
 
-“We are going to the top of the chart now to talk about the ultimate dysfunction: the tendency of team members to seek out individual recognition and attention at the expense of results. And I’m referring to collective results—the goals of the entire team.”
+`Inattention to Results` is the ultimate dysfunction. It plays directly into the human's biggest game of `Status and Ego`. It's much easier to seek out individual recognition and attention even if it happens at the expense of the overall result.
 
-“Well, when everyone is focused on results and using those to define success, it is difficult for ego to get out of hand. No matter how good an individual on the team might be feeling about his or her situation, if the team loses, everyone loses.”
-
+If everyone is focused on the collective goal, it is difficult for ego to get out of hand. What everyone has to understand is no matter how good an individual on the team might feel about his performance `when the team loses, everyone loses`.
 
