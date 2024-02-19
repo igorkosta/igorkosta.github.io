@@ -26,9 +26,7 @@ For the product to be successful everyone on the team should buy into the goals.
 
 So, considering previous point `Fear of Conflict` - when people don't unload their opinions and feel like they have been listened to, they won't fully get on board.
 
-`Disagree and commit` is a method of avoiding the consensus trap, in which the lack of consensus leads to inaction.
-
-`Agree and commit, disagree and commit, or get out of the way`.
+`Disagree and commit` is a method of avoiding the consensus trap, in which the lack of consensus leads to inaction. In full it sounds like following: `Agree and commit, disagree and commit, or get out of the way`.
 
 # Avoidance of Accountability
 
