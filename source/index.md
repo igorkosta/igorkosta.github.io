@@ -10,7 +10,7 @@ I <span class="important">led the development of worldwide first Open Banking AP
 
 I currently <span class="important">lead the product and software development</span> of the Cloud Banking Platform at `FinLink, Inc.` where we build an easy to customize Digital Banking Platform that can be rolled out in hours.
 
-As an Interim CTO I helped to build the first version of `Cometum` - the Investment Platform for the new generation.
+As an `Fractional CTO` I built and launched `Cometum` - the Investment Platform for the alternative assets.
 
 I established and managed the first FinTech accelerator in Singapore.
 

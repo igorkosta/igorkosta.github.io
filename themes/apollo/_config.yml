@@ -1,8 +1,7 @@
 menu:
   about: /
-  # services: /services/
   blog: /blog/
-  # hire me: /hire-me/
+  unstuck: https://t.me/unstuckme
 
 favicon: /favicon.png
 logo: /favicon.png
