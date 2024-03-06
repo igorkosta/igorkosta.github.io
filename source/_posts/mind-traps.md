@@ -4,7 +4,7 @@ date: 2024-03-04 17:53:37
 tags: growth, mind, traps, judgement
 ---
 
-We already talked about the [Self Sabotage](http://localhost:4000/blog/2024/02/01/self-sabotage/) and some ways of overcoming it. To better understand and be aware of the situations when your brain is sabotaging you, we will review some of the most common mind traps.
+We already talked about the [Self Sabotage](https://kostyuchenok.com/blog/2024/02/01/self-sabotage/) and some ways of overcoming it. To better understand and be aware of the situations when your brain is sabotaging you, we will review some of the most common mind traps.
 
 <!-- more -->
 
