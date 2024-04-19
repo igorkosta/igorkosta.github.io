@@ -41,9 +41,12 @@ In my spare time I'm writing <a href="https://www.amazon.de/-/en/Igor-Kostyuchen
 
 <div class="clients">
   <a href="https://hawk.ai/" _target="blank">
-    <img src="/assets/images/hawk-ai.png" width="200px" style="display: inline-block;" />
+    <img src="/assets/images/hawk-ai.png" />
   </a>
   <a href="https://www.sygnum.com/" _target="blank">
-    <img src="/assets/images/sygnum.svg" width="200px" style="display: inline-block;" />
+    <img src="/assets/images/sygnum.svg" />
+  </a>
+  <a href="https://cometum.com/" _target="blank">
+    <img src="/assets/images/cometum.svg" />
   </a>
 </div>
