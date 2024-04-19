@@ -1,4 +1,5 @@
 {% fa_css %}
+<link rel="stylesheet" href="/assets/styles/style.css">
 
 I'm a <span class="important">Serial Entrepreneur, Author and Investor</span>.
 
@@ -33,5 +34,16 @@ In my spare time I'm writing <a href="https://www.amazon.de/-/en/Igor-Kostyuchen
         {% fa_inline arrow-right %}
       </span>
     </div>
+  </a>
+</div>
+
+# Clients
+
+<div class="clients">
+  <a href="https://hawk.ai/" _target="blank">
+    <img src="/assets/images/hawk-ai.png" width="200px" style="display: inline-block;" />
+  </a>
+  <a href="https://www.sygnum.com/" _target="blank">
+    <img src="/assets/images/sygnum.svg" width="200px" style="display: inline-block;" />
   </a>
 </div>
