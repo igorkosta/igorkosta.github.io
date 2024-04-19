@@ -23,14 +23,14 @@
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/individual-consultation/index.html</loc>
+    <loc>https://kostyuchenok.com/about/index.html</loc>
     
     <lastmod>2024-04-19</lastmod>
     
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/about/index.html</loc>
+    <loc>https://kostyuchenok.com/individual-consultation/index.html</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -52,6 +52,27 @@
   
   <url>
     <loc>https://kostyuchenok.com/blog/2023/01/18/startup-please/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2021/02/05/organize-routes-vue-router/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2024/01/07/own-nothing/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2024/04/02/payments/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -121,69 +142,6 @@
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2024/01/29/life-force/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2024/02/13/mentoring-questions-1/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2024/03/04/mind-traps/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2021/04/10/mock-promisified-aws-sdk-calls/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2024/03/26/money-history/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2021/02/05/organize-routes-vue-router/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2024/01/07/own-nothing/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2024/04/02/payments/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2023/01/31/funding-please/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://kostyuchenok.com/blog/2021/10/15/good-leaders/</loc>
     
     <lastmod>2024-04-19</lastmod>
@@ -205,21 +163,42 @@
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2023/02/16/founders/</loc>
+    <loc>https://kostyuchenok.com/blog/2024/01/29/life-force/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2024/03/31/banks-banking/</loc>
+    <loc>https://kostyuchenok.com/blog/2024/02/13/mentoring-questions-1/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2024/04/16/correspondent-bank/</loc>
+    <loc>https://kostyuchenok.com/blog/2021/04/10/mock-promisified-aws-sdk-calls/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2024/03/04/mind-traps/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2024/03/26/money-history/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2023/01/31/funding-please/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -247,7 +226,28 @@
   </url>
   
   <url>
+    <loc>https://kostyuchenok.com/blog/2023/02/16/founders/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://kostyuchenok.com/blog/2024/02/09/5-dysfunctions-team/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2024/03/31/banks-banking/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2024/04/16/correspondent-bank/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
