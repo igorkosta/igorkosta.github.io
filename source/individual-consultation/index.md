@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../assets/styles/style.css">
 <h1 style="text-transform: uppercase;">Individual Consultation with Igor</h1>
 
 <p>The individual consultation is suitable for the people, who has a specific personal or professional request. For those who needs a push and additional motivation to start taking action.</p>
@@ -19,6 +20,19 @@
   </a>
 </div>
 
+# Clients
+
+<div class="clients">
+  <a href="https://hawk.ai/" _target="blank">
+    <img src="/assets/images/hawk-ai.png" />
+  </a>
+  <a href="https://www.sygnum.com/" _target="blank">
+    <img src="/assets/images/sygnum.svg" />
+  </a>
+  <a href="https://cometum.com/" _target="blank">
+    <img src="/assets/images/cometum.svg" />
+  </a>
+</div>
 <!--form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post">
   <input type="hidden" name="cmd" value="_s-xclick">
   <input type="hidden" name="hosted_button_id" value="6RNT8A4HBBJRE">
