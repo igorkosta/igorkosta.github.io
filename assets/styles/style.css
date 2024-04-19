@@ -4,6 +4,10 @@
   justify-content: space-evenly;
 }
 
+.clients img {
+  width: 150px;
+}
+
 .post-info {
   display: none;
 }

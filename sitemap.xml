@@ -2,28 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2022/08/01/vc-ing-after-2022/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2022/11/10/why-startup/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://kostyuchenok.com/index.html</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/about/index.html</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -51,49 +30,21 @@
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2023/01/18/startup-please/</loc>
+    <loc>https://kostyuchenok.com/blog/2022/08/01/vc-ing-after-2022/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2021/02/05/organize-routes-vue-router/</loc>
+    <loc>https://kostyuchenok.com/blog/2022/11/10/why-startup/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2024/01/07/own-nothing/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2024/04/02/payments/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2021/09/27/perfect-startup-team/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2021/12/10/pitch-deck/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2023/01/29/product-please/</loc>
+    <loc>https://kostyuchenok.com/about/index.html</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -128,6 +79,13 @@
   </url>
   
   <url>
+    <loc>https://kostyuchenok.com/blog/2023/02/05/sell-please/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://kostyuchenok.com/blog/2024/02/01/self-sabotage/</loc>
     
     <lastmod>2024-04-19</lastmod>
@@ -135,7 +93,84 @@
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2023/02/05/sell-please/</loc>
+    <loc>https://kostyuchenok.com/blog/2023/01/18/startup-please/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2024/02/13/mentoring-questions-1/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2024/03/04/mind-traps/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2021/04/10/mock-promisified-aws-sdk-calls/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2024/03/26/money-history/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2024/01/07/own-nothing/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2021/02/05/organize-routes-vue-router/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2024/04/02/payments/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2021/09/27/perfect-startup-team/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2021/12/10/pitch-deck/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2023/01/29/product-please/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kostyuchenok.com/blog/2023/01/31/funding-please/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -170,35 +205,14 @@
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2024/02/13/mentoring-questions-1/</loc>
+    <loc>https://kostyuchenok.com/blog/2023/02/16/founders/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2021/04/10/mock-promisified-aws-sdk-calls/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2024/03/04/mind-traps/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2024/03/26/money-history/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2023/01/31/funding-please/</loc>
+    <loc>https://kostyuchenok.com/blog/2024/04/16/correspondent-bank/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -226,13 +240,6 @@
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/blog/2023/02/16/founders/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://kostyuchenok.com/blog/2024/02/09/5-dysfunctions-team/</loc>
     
     <lastmod>2024-04-19</lastmod>
@@ -241,13 +248,6 @@
   
   <url>
     <loc>https://kostyuchenok.com/blog/2024/03/31/banks-banking/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kostyuchenok.com/blog/2024/04/16/correspondent-bank/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -389,14 +389,14 @@
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/tags/psychology-mentoring-part-x-self-sabotage/</loc>
+    <loc>https://kostyuchenok.com/tags/marketing-sales-sell-selling-product/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://kostyuchenok.com/tags/marketing-sales-sell-selling-product/</loc>
+    <loc>https://kostyuchenok.com/tags/psychology-mentoring-part-x-self-sabotage/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
