@@ -9,10 +9,10 @@
 
 <strong>Communication channel:</strong> in-person meeting or a video call
 <strong>Duration:</strong> 1 hour
-<strong>Price:</strong> 1000 Euros
+<strong>Price:</strong> 750 Euros
 
 <div style="display: flex; justify-content: center;">
-  <a href="mailto:mentoring@kostyuchenok.com?subject=Mentoring inquiry&body=I would like to book a 1 hour mentoring session for the price of 1000 Euros. Please, contact me.">
+  <a href="mailto:mentoring@kostyuchenok.com?subject=Mentoring inquiry&body=I would like to book a 1 hour mentoring session for the price of 750 Euros. Please, contact me.">
     <div style="width: 300px; text-align: center; border-radius: 10px; padding: 20px; background-color: #4B687C;">
       <span style="color: #FFFFFF; text-transform: uppercase; font-size: large;">Pay</span>
     </div>
