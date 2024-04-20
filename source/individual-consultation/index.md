@@ -20,16 +20,16 @@
   </a>
 </div>
 
-# Clients
-
+<hr/>
+<h1 class="clients-section-title">Clients</h1>
 <div class="clients">
-  <a href="https://hawk.ai/" _target="blank">
+  <a href="https://hawk.ai/" target="_blank">
     <img src="/assets/images/hawk-ai.png" />
   </a>
-  <a href="https://www.sygnum.com/" _target="blank">
+  <a href="https://www.sygnum.com/" target="_blank">
     <img src="/assets/images/sygnum.svg" />
   </a>
-  <a href="https://cometum.com/" _target="blank">
+  <a href="https://cometum.com/" target="_blank">
     <img src="/assets/images/cometum.svg" />
   </a>
 </div>
