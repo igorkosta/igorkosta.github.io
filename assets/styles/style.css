@@ -8,6 +8,11 @@
   width: 150px;
 }
 
+.clients-section-title {
+  margin-top: 40px;
+  text-align: center;
+}
+
 .post-info {
   display: none;
 }
