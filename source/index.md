@@ -21,7 +21,16 @@ If you feel stuck or would like to get to the next stage in your career, book a 
 <div style="margin-top: 30px;">
   <a href="/individual-consultation">
     <div style="text-transform: uppercase; vertical-align: middle; border-radius: 10px; padding: 20px; margin-bottom:20px; background-color: #EB986B;">
-      <span style="color: #FFFFFF; font-size: large;">Book a Session</span>
+      <span style="color: #FFFFFF; font-size: large;">Individual Consultation</span>
+      <span style="float: right; color: #FFFFFF;">
+        {% fa_inline arrow-right %}
+      </span>
+    </div>
+  </a>
+
+  <a href="/startup-consultation">
+    <div style="text-transform: uppercase; vertical-align: middle; border-radius: 10px; padding: 20px; margin-bottom:20px; background-color: #74A088;">
+      <span style="color: #FFFFFF; font-size: large;">Startup Consultation</span>
       <span style="float: right; color: #FFFFFF;">
         {% fa_inline arrow-right %}
       </span>
@@ -29,7 +38,7 @@ If you feel stuck or would like to get to the next stage in your career, book a 
   </a>
 
   <a href="https://wa.me/4917661508419">
-    <div style="text-transform: uppercase; vertical-align: middle; border-radius: 10px; padding: 20px; background-color: #EB986B;">
+    <div style="text-transform: uppercase; vertical-align: middle; border-radius: 10px; padding: 20px; background-color: #D4103F;">
       <span style="color: #FFFFFF; font-size: large;">Contact me on WHATSAPP</span>
       <span style="float: right; color: #FFFFFF;">
         {% fa_inline arrow-right %}
