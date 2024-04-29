@@ -1,7 +1,7 @@
 {% fa_css %}
 <link rel="stylesheet" href="/assets/styles/style.css">
 
-I'm a `Serial Entrepreneur, Author and Investor` with more than two decades of professional experience in building successful companies, teams and products.
+I'm a `Founder and Mentor` with more than two decades of professional experience in building successful companies, teams and products.
 
 I was responsible for launching the first version of the most used banking software on the German market for the Mac OS platform.
 
@@ -38,7 +38,7 @@ If you feel stuck or would like to get to the next stage in your career, book a 
   </a>
 
   <a href="https://wa.me/4917661508419">
-    <div style="text-transform: uppercase; vertical-align: middle; border-radius: 10px; padding: 20px; background-color: #D4103F;">
+    <div style="text-transform: uppercase; vertical-align: middle; border-radius: 10px; padding: 20px; background-color: #6A879B;">
       <span style="color: #FFFFFF; font-size: large;">Contact me on WHATSAPP</span>
       <span style="float: right; color: #FFFFFF;">
         {% fa_inline arrow-right %}
