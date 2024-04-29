@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../assets/styles/style.css">
-<h1 style="text-transform: uppercase;">Startup Consultation with Igor</h1>
+<h1 style="text-transform: uppercase;">Startup Consultation</h1>
 
-<p>Starup consultation is suitable for startups at any stage starting from the pitch deck review through funding and growth phase until the startup acquisition or IPO.</p>
+<p>Startup consultation is suitable for startups at any stage starting from the pitch deck review through funding and growth phase until the startup acquisition or IPO.</p>
 
 **During the consultation I will:**
 - review your challenges
@@ -16,8 +16,8 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="mailto:mentoring@kostyuchenok.com?subject=Mentoring inquiry&body=I would like to book a 1 hour mentoring session for the price of 750 Euros. Please, contact me.">
-    <div style="width: 300px; text-align: center; border-radius: 10px; padding: 20px; background-color: #EB986B;">
-      <span style="color: #FFFFFF; text-transform: uppercase; font-size: large;">Order</span>
+    <div style="width: 300px; text-align: center; border-radius: 10px; padding: 20px; background-color: #74A088;">
+      <span style="color: #FFFFFF; text-transform: uppercase; font-size: large;">Book Consultation</span>
     </div>
   </a>
 </div>

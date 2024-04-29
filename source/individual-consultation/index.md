@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="../assets/styles/style.css">
-<h1 style="text-transform: uppercase;">Consultation Session with Igor</h1>
+<h1 style="text-transform: uppercase;">Individual Consultation</h1>
 
 <p>The individual consultation is suitable for the people, who has a specific personal or professional request. For those who needs a push and additional motivation to start taking action.</p>
 
@@ -12,10 +12,12 @@
 <strong>Duration:</strong> 1 hour
 <strong>Price:</strong> 750 €
 
+`I won't charge your anything if after our first call, I won't be able to offer you any advice.`
+
 <div style="display: flex; justify-content: center;">
   <a href="mailto:mentoring@kostyuchenok.com?subject=Mentoring inquiry&body=I would like to book a 1 hour mentoring session for the price of 750 Euros. Please, contact me.">
     <div style="width: 300px; text-align: center; border-radius: 10px; padding: 20px; background-color: #EB986B;">
-      <span style="color: #FFFFFF; text-transform: uppercase; font-size: large;">Order</span>
+      <span style="color: #FFFFFF; text-transform: uppercase; font-size: large;">Book Consultation</span>
     </div>
   </a>
 </div>
