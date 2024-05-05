@@ -1,5 +1,5 @@
 ---
-title: Correspondent Bank
+title: FinTech 101 - Correspondent Bank
 date: 2024-04-16 13:26:20
 tags: fintech, money, history, course, udemy, teaching, banks, banking, payments, suptech, regtech, insurtech
 ---

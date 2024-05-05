@@ -1,5 +1,5 @@
 ---
-title: FinTech Categories
+title: FinTech 101 - FinTech Categories
 date: 2024-04-04 11:04:47
 tags: fintech, money, history, course, udemy, teaching, banks, banking, payments, suptech, regtech, insurtech
 ---

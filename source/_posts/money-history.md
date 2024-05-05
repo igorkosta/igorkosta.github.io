@@ -1,5 +1,5 @@
 ---
-title: History of Money
+title: FinTech 101 - History of Money
 date: 2024-03-26 20:35:24
 tags: fintech, money, history, course, udemy, teaching
 ---
