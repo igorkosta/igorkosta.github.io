@@ -13,7 +13,7 @@ As an `Fractional CTO` I built and launched `Cometum` - the Investment Platform 
 
 I established and managed the first `FinTech Accelerator` in Singapore.
 
-In my spare time I'm writing <a href="https://www.amazon.de/-/en/Igor-Kostyuchenok-ebook/dp/B0BWFK212S" target="_blank">books</a> and <a href="/blog">blog</a> about stuff I'm interested in.
+In my spare time I'm writing <a href="https://www.amazon.com/s?rh=p_27%3AIgor+Kostyuchenok" target="_blank">books</a> and <a href="/blog">blog</a> about stuff I'm interested in.
 
 If you feel stuck or would like to get to the next stage in your career, book a session with me now.
 
