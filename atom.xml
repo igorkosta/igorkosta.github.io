@@ -6,7 +6,7 @@
   <link href="https://kostyuchenok.com/atom.xml" rel="self"/>
   
   <link href="https://kostyuchenok.com/"/>
-  <updated>2024-05-07T14:48:48.754Z</updated>
+  <updated>2024-05-13T07:43:09.731Z</updated>
   <id>https://kostyuchenok.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://kostyuchenok.com/blog/2024/05/05/startup-wisdom/"/>
     <id>https://kostyuchenok.com/blog/2024/05/05/startup-wisdom/</id>
     <published>2024-05-05T12:33:43.000Z</published>
-    <updated>2024-05-07T14:48:48.754Z</updated>
+    <updated>2024-05-13T07:43:09.731Z</updated>
     
     <content type="html"><![CDATA[<p>Every year millions of startups are created all around the world building completely different products for completely different people and markets, though 99% of them are failing.</p><p>What are the main reasons for all these failures?</p><span id="more"></span><h1 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h1><p>99% of all founded startups go out of business.</p><p>The reasons are different. Let’s explore some of them and see how they can be fixed.</p><h1 id="Premature-Optimizations"><a href="#Premature-Optimizations" class="headerlink" title="Premature Optimizations"></a>Premature Optimizations</h1><p>Engineers like to work on challenging problems.</p><p>They can spend days and months optimizing your product to hold the load of 1 billion customers even if you only have 10 at the moment.</p><p>Premature optimizations steal your time and the focus off of your product.</p><h1 id="Overcomplications"><a href="#Overcomplications" class="headerlink" title="Overcomplications"></a>Overcomplications</h1><p>Keep things simple and functional. Do not overcomplicate. 80% of your product will satisfy 95% of the customers. Adding complexity to satisfy the needs of 1 or 2 users, doesn’t make any sense and will only drag you down longterm.</p><h1 id="Kill-Features"><a href="#Kill-Features" class="headerlink" title="Kill Features"></a>Kill Features</h1><p>Measure the usage of your product features and kill the ones that are not or barely used.</p><p>More complexity means more maintenance means more money spent on non valuable items.</p><p>Better spend them on marketing, sales, growth etc.</p><h1 id="New-Frameworks"><a href="#New-Frameworks" class="headerlink" title="New Frameworks"></a>New Frameworks</h1><p>Developers likes to try out new stuff and can fall prey to “amazing new framework/programming language” narrative.</p><p>Settle on one stack and move on until you can launch something valuable. Nothing is set in stone, you can always change stuff at later stages.</p><h1 id="Launching-Too-Late"><a href="#Launching-Too-Late" class="headerlink" title="Launching Too Late"></a>Launching Too Late</h1><p>Launching too late is like optimizing for a customer who never saw your product.</p><p>Yes, the saying goes - “scratch your own itch” - build the product that you need but nobody can truly imagine how the product you’ve been building in your basement for the past year will be used once it’s launched.</p><p>Build something, launch, get the feedback, reiterate.</p><h1 id="Launching-Multiple-Times"><a href="#Launching-Multiple-Times" class="headerlink" title="Launching Multiple Times"></a>Launching Multiple Times</h1><p>Contrary to a popular belief, you shouldn’t be afraid of making the bad first impression. You can launch as many times as you like.</p><p>Even if you failed 10 times in a row and launched successfully on 11th - nobody will care.</p><p>If you don’t trust me here is the quote from Brian Chesky (AirBnb): “If you launch and no one notices, launch again. We launched 3 times.”</p><h1 id="Marketing"><a href="#Marketing" class="headerlink" title="Marketing"></a>Marketing</h1><p>“Build it and they will come” - they said.</p><h3 style="text-align: center;">They lied!</h3><p>Build it, shout about it, do marketing for it and only then they may come and take a look at your product.</p><p>Until then make it attractive and valuable</p><h1 id="Fire-Fast"><a href="#Fire-Fast" class="headerlink" title="Fire Fast"></a>Fire Fast</h1><p>Fire toxic people as fast as possible.</p><p>You will make hiring mistakes. Don’t judge yourself - correct them.</p><p>Having toxic people on board will harm your company.</p>]]></content>
     
@@ -41,7 +41,7 @@
     <link href="https://kostyuchenok.com/blog/2024/05/05/fintech101-crypto/"/>
     <id>https://kostyuchenok.com/blog/2024/05/05/fintech101-crypto/</id>
     <published>2024-05-05T12:19:11.000Z</published>
-    <updated>2024-05-07T14:48:48.734Z</updated>
+    <updated>2024-05-13T07:43:09.711Z</updated>
     
     <content type="html"><![CDATA[<p>The final instalment of the <code>Fintech 101</code> series deals with cryptocurrencies and blockchain.</p><span id="more"></span><div class="row">    <embed src="./FinTech101-Crypto.pdf" width="100%" height="550" type="application/pdf"></div><hr>]]></content>
     
@@ -50,8 +50,34 @@
     
     
     
+    <category term="FinTech101" scheme="https://kostyuchenok.com/categories/FinTech101/"/>
     
-    <category term="fintech, money, history, course, udemy, teaching, banks, banking, payments, suptech, regtech, insurtech" scheme="https://kostyuchenok.com/tags/fintech-money-history-course-udemy-teaching-banks-banking-payments-suptech-regtech-insurtech/"/>
+    
+    <category term="fintech" scheme="https://kostyuchenok.com/tags/fintech/"/>
+    
+    <category term="fintech101" scheme="https://kostyuchenok.com/tags/fintech101/"/>
+    
+    <category term="money" scheme="https://kostyuchenok.com/tags/money/"/>
+    
+    <category term="history" scheme="https://kostyuchenok.com/tags/history/"/>
+    
+    <category term="course" scheme="https://kostyuchenok.com/tags/course/"/>
+    
+    <category term="udemy" scheme="https://kostyuchenok.com/tags/udemy/"/>
+    
+    <category term="teaching" scheme="https://kostyuchenok.com/tags/teaching/"/>
+    
+    <category term="banks" scheme="https://kostyuchenok.com/tags/banks/"/>
+    
+    <category term="banking" scheme="https://kostyuchenok.com/tags/banking/"/>
+    
+    <category term="payments" scheme="https://kostyuchenok.com/tags/payments/"/>
+    
+    <category term="suptech" scheme="https://kostyuchenok.com/tags/suptech/"/>
+    
+    <category term="regtech" scheme="https://kostyuchenok.com/tags/regtech/"/>
+    
+    <category term="insurtech" scheme="https://kostyuchenok.com/tags/insurtech/"/>
     
   </entry>
   
@@ -60,7 +86,7 @@
     <link href="https://kostyuchenok.com/blog/2024/04/16/correspondent-bank/"/>
     <id>https://kostyuchenok.com/blog/2024/04/16/correspondent-bank/</id>
     <published>2024-04-16T13:26:20.000Z</published>
-    <updated>2024-05-07T14:48:48.730Z</updated>
+    <updated>2024-05-13T07:43:09.707Z</updated>
     
     <content type="html"><![CDATA[<p>Many Neobank founders don’t realize that they need a connection to a correspondent bank in order to offer to their customers cross-border transfer possibility.</p><span id="more"></span><div class="row">    <embed src="./FinTech101-CorrespondentBank.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
@@ -69,8 +95,34 @@
     
     
     
+    <category term="FinTech101" scheme="https://kostyuchenok.com/categories/FinTech101/"/>
     
-    <category term="fintech, money, history, course, udemy, teaching, banks, banking, payments, suptech, regtech, insurtech" scheme="https://kostyuchenok.com/tags/fintech-money-history-course-udemy-teaching-banks-banking-payments-suptech-regtech-insurtech/"/>
+    
+    <category term="fintech" scheme="https://kostyuchenok.com/tags/fintech/"/>
+    
+    <category term="fintech101" scheme="https://kostyuchenok.com/tags/fintech101/"/>
+    
+    <category term="money" scheme="https://kostyuchenok.com/tags/money/"/>
+    
+    <category term="history" scheme="https://kostyuchenok.com/tags/history/"/>
+    
+    <category term="course" scheme="https://kostyuchenok.com/tags/course/"/>
+    
+    <category term="udemy" scheme="https://kostyuchenok.com/tags/udemy/"/>
+    
+    <category term="teaching" scheme="https://kostyuchenok.com/tags/teaching/"/>
+    
+    <category term="banks" scheme="https://kostyuchenok.com/tags/banks/"/>
+    
+    <category term="banking" scheme="https://kostyuchenok.com/tags/banking/"/>
+    
+    <category term="payments" scheme="https://kostyuchenok.com/tags/payments/"/>
+    
+    <category term="suptech" scheme="https://kostyuchenok.com/tags/suptech/"/>
+    
+    <category term="regtech" scheme="https://kostyuchenok.com/tags/regtech/"/>
+    
+    <category term="insurtech" scheme="https://kostyuchenok.com/tags/insurtech/"/>
     
   </entry>
   
@@ -79,7 +131,7 @@
     <link href="https://kostyuchenok.com/blog/2024/04/04/fintech-categories/"/>
     <id>https://kostyuchenok.com/blog/2024/04/04/fintech-categories/</id>
     <published>2024-04-04T11:04:47.000Z</published>
-    <updated>2024-05-07T14:48:48.734Z</updated>
+    <updated>2024-05-13T07:43:09.711Z</updated>
     
     <content type="html"><![CDATA[<p>Third instalment Short version of the third part of the upcoming <code>FinTech 101</code> course is here. This time we’re talking about the payments.</p><span id="more"></span><div class="row">    <embed src="./FinTech101-FinTechCategories.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
@@ -88,8 +140,34 @@
     
     
     
+    <category term="FinTech101" scheme="https://kostyuchenok.com/categories/FinTech101/"/>
     
-    <category term="fintech, money, history, course, udemy, teaching, banks, banking, payments, suptech, regtech, insurtech" scheme="https://kostyuchenok.com/tags/fintech-money-history-course-udemy-teaching-banks-banking-payments-suptech-regtech-insurtech/"/>
+    
+    <category term="fintech" scheme="https://kostyuchenok.com/tags/fintech/"/>
+    
+    <category term="fintech101" scheme="https://kostyuchenok.com/tags/fintech101/"/>
+    
+    <category term="money" scheme="https://kostyuchenok.com/tags/money/"/>
+    
+    <category term="history" scheme="https://kostyuchenok.com/tags/history/"/>
+    
+    <category term="course" scheme="https://kostyuchenok.com/tags/course/"/>
+    
+    <category term="udemy" scheme="https://kostyuchenok.com/tags/udemy/"/>
+    
+    <category term="teaching" scheme="https://kostyuchenok.com/tags/teaching/"/>
+    
+    <category term="banks" scheme="https://kostyuchenok.com/tags/banks/"/>
+    
+    <category term="banking" scheme="https://kostyuchenok.com/tags/banking/"/>
+    
+    <category term="payments" scheme="https://kostyuchenok.com/tags/payments/"/>
+    
+    <category term="suptech" scheme="https://kostyuchenok.com/tags/suptech/"/>
+    
+    <category term="regtech" scheme="https://kostyuchenok.com/tags/regtech/"/>
+    
+    <category term="insurtech" scheme="https://kostyuchenok.com/tags/insurtech/"/>
     
   </entry>
   
@@ -98,7 +176,7 @@
     <link href="https://kostyuchenok.com/blog/2024/04/02/payments/"/>
     <id>https://kostyuchenok.com/blog/2024/04/02/payments/</id>
     <published>2024-04-02T10:39:22.000Z</published>
-    <updated>2024-05-07T14:48:48.746Z</updated>
+    <updated>2024-05-13T07:43:09.723Z</updated>
     
     <content type="html"><![CDATA[<p>Short version of the third part of the upcoming <code>FinTech 101</code> course is here. This time we’re talking about the payments.</p><span id="more"></span><div class="row">    <embed src="./FinTech101-Payments.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
@@ -107,8 +185,28 @@
     
     
     
+    <category term="FinTech101" scheme="https://kostyuchenok.com/categories/FinTech101/"/>
     
-    <category term="fintech, money, history, course, udemy, teaching, banks, banking, payments" scheme="https://kostyuchenok.com/tags/fintech-money-history-course-udemy-teaching-banks-banking-payments/"/>
+    
+    <category term="fintech" scheme="https://kostyuchenok.com/tags/fintech/"/>
+    
+    <category term="fintech101" scheme="https://kostyuchenok.com/tags/fintech101/"/>
+    
+    <category term="money" scheme="https://kostyuchenok.com/tags/money/"/>
+    
+    <category term="history" scheme="https://kostyuchenok.com/tags/history/"/>
+    
+    <category term="course" scheme="https://kostyuchenok.com/tags/course/"/>
+    
+    <category term="udemy" scheme="https://kostyuchenok.com/tags/udemy/"/>
+    
+    <category term="teaching" scheme="https://kostyuchenok.com/tags/teaching/"/>
+    
+    <category term="banks" scheme="https://kostyuchenok.com/tags/banks/"/>
+    
+    <category term="banking" scheme="https://kostyuchenok.com/tags/banking/"/>
+    
+    <category term="payments" scheme="https://kostyuchenok.com/tags/payments/"/>
     
   </entry>
   
@@ -117,7 +215,7 @@
     <link href="https://kostyuchenok.com/blog/2024/03/31/banks-banking/"/>
     <id>https://kostyuchenok.com/blog/2024/03/31/banks-banking/</id>
     <published>2024-03-31T12:47:37.000Z</published>
-    <updated>2024-05-07T14:48:48.730Z</updated>
+    <updated>2024-05-13T07:43:09.707Z</updated>
     
     <content type="html"><![CDATA[<p>As part of the preparation for the launch of my <code>FinTech 101</code> course here is the second lecture on “Banks and Banking”.</p><span id="more"></span><div class="row">    <embed src="./FinTech101-BanksAndBanking.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
@@ -126,8 +224,26 @@
     
     
     
+    <category term="FinTech101" scheme="https://kostyuchenok.com/categories/FinTech101/"/>
     
-    <category term="fintech, money, history, course, udemy, teaching, banks, banking" scheme="https://kostyuchenok.com/tags/fintech-money-history-course-udemy-teaching-banks-banking/"/>
+    
+    <category term="fintech" scheme="https://kostyuchenok.com/tags/fintech/"/>
+    
+    <category term="fintech101" scheme="https://kostyuchenok.com/tags/fintech101/"/>
+    
+    <category term="money" scheme="https://kostyuchenok.com/tags/money/"/>
+    
+    <category term="history" scheme="https://kostyuchenok.com/tags/history/"/>
+    
+    <category term="course" scheme="https://kostyuchenok.com/tags/course/"/>
+    
+    <category term="udemy" scheme="https://kostyuchenok.com/tags/udemy/"/>
+    
+    <category term="teaching" scheme="https://kostyuchenok.com/tags/teaching/"/>
+    
+    <category term="banks" scheme="https://kostyuchenok.com/tags/banks/"/>
+    
+    <category term="banking" scheme="https://kostyuchenok.com/tags/banking/"/>
     
   </entry>
   
@@ -136,7 +252,7 @@
     <link href="https://kostyuchenok.com/blog/2024/03/26/money-history/"/>
     <id>https://kostyuchenok.com/blog/2024/03/26/money-history/</id>
     <published>2024-03-26T20:35:24.000Z</published>
-    <updated>2024-05-07T14:48:48.742Z</updated>
+    <updated>2024-05-13T07:43:09.719Z</updated>
     
     <content type="html"><![CDATA[<p>As part of the preparation for the launch of my <code>FinTech 101</code> course I will post short versions of the curriculum in my blog post.</p><span id="more"></span><div class="row">    <embed src="./FinTech101-Money.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
@@ -145,8 +261,22 @@
     
     
     
+    <category term="FinTech101" scheme="https://kostyuchenok.com/categories/FinTech101/"/>
     
-    <category term="fintech, money, history, course, udemy, teaching" scheme="https://kostyuchenok.com/tags/fintech-money-history-course-udemy-teaching/"/>
+    
+    <category term="fintech" scheme="https://kostyuchenok.com/tags/fintech/"/>
+    
+    <category term="fintech101" scheme="https://kostyuchenok.com/tags/fintech101/"/>
+    
+    <category term="money" scheme="https://kostyuchenok.com/tags/money/"/>
+    
+    <category term="history" scheme="https://kostyuchenok.com/tags/history/"/>
+    
+    <category term="course" scheme="https://kostyuchenok.com/tags/course/"/>
+    
+    <category term="udemy" scheme="https://kostyuchenok.com/tags/udemy/"/>
+    
+    <category term="teaching" scheme="https://kostyuchenok.com/tags/teaching/"/>
     
   </entry>
   
@@ -155,7 +285,7 @@
     <link href="https://kostyuchenok.com/blog/2024/03/04/mind-traps/"/>
     <id>https://kostyuchenok.com/blog/2024/03/04/mind-traps/</id>
     <published>2024-03-04T17:53:37.000Z</published>
-    <updated>2024-05-07T14:48:48.742Z</updated>
+    <updated>2024-05-13T07:43:09.719Z</updated>
     
     <content type="html"><![CDATA[<p>We already talked about the <a href="https://kostyuchenok.com/blog/2024/02/01/self-sabotage/">Self Sabotage</a> and some ways of overcoming it. To better understand and be aware of the situations when your brain is sabotaging you, we will review some of the most common mind traps.</p><span id="more"></span><h2 id="Negative-Outlook"><a href="#Negative-Outlook" class="headerlink" title="Negative Outlook"></a>Negative Outlook</h2><p>Whenever you feel like you are fortune telling the negative outcome of an unknown situation, you are being trapped by your mind. So, whenever you hear yourself thinking:</p><ul><li>I definitely won’t get this promotion</li><li>I will probably fail</li><li>This party will be a disaster</li></ul><p>you are self sabotaging and fortune telling the outcome.</p><h2 id="Psychic"><a href="#Psychic" class="headerlink" title="Psychic"></a>Psychic</h2><p>Playing psychic is a very common trap that tricks you into predicting what other people think.<br>Don’t overestimate your ability to read people even if you constantly carry a crystal ball with you.</p><ul><li>They will think, I’m stupid</li><li>They don’t smile, so they probably don’t like me</li><li>She doesn’t look at me, she’s probably angry</li></ul><h2 id="Overgeneralization"><a href="#Overgeneralization" class="headerlink" title="Overgeneralization"></a>Overgeneralization</h2><p>Overgeneralization is a cognitive distortion in which an individual views a single event as an invariable rule, so that, for example, failure at accomplishing one task will predict an endless pattern of defeat in all tasks.</p><ul><li>Assuming the worst</li><li>Thinking one mistake indicates all future attempts will result in failure</li><li>Negative self-talk</li><li>Thinking you can never do anything right</li><li>Using language like “never,” “always,” “everybody,” or “nobody” to describe events or behaviors</li><li>Viewing one-time events as consistent patterns</li></ul><p>Self-limiting overgeneralization happens when your negative thought patterns prevent you from meeting your own potential.</p><h2 id="Labelling"><a href="#Labelling" class="headerlink" title="Labelling"></a>Labelling</h2><p>If you use judgemental words to describe yourself or other people you can get caught in labelling. Some examples of it are the following:</p><ul><li>I’m useless</li><li>She’s hopeless</li><li>They’re stupid</li></ul><h1 id="Tools-to-overcome-mind-traps"><a href="#Tools-to-overcome-mind-traps" class="headerlink" title="Tools to overcome mind traps"></a>Tools to overcome mind traps</h1><p>Fortunately most mind traps are correctable with a bit of practice. Some of the practices for overcoming the cognitive distortions are the following:</p><h2 id="Reframe"><a href="#Reframe" class="headerlink" title="Reframe"></a>Reframe</h2><p>Reframe your thinking to view the situation differently. So, instead of thinking <code>I can&#39;t do anything right</code> better reframe it as <code>I messed up, but it happens to everyone</code>.</p><p>Or an even constructive thought could be: <code>I messed up, but I know how to prepare myself better next time</code>.</p><h2 id="Prove-yourself-wrong"><a href="#Prove-yourself-wrong" class="headerlink" title="Prove yourself wrong"></a>Prove yourself wrong</h2><p>Your actions impact your feelings. What can you do to combat negative thoughts?</p><p>For instance, if you think you’re not smart enough because you don’t understand stock markets, you can learn more of something you understand and enjoy, like software engineering.</p><p>If you feel like no one cares about you, talk to a friend and that will give you evidence that these thoughts aren’t entirely true.</p><h2 id="Counter-negative-thoughts-with-positive-ones"><a href="#Counter-negative-thoughts-with-positive-ones" class="headerlink" title="Counter negative thoughts with positive ones"></a>Counter negative thoughts with positive ones</h2><p>Whenever you catch your inner dialogue that’s mean towards you, make yourself say something nice. It will balance it out.</p><p>Name things you love or like about yourself. Practicing gratitude will also help when you struggle with negative thoughts.</p><h2 id="Thoughts-aren’t-facts"><a href="#Thoughts-aren’t-facts" class="headerlink" title="Thoughts aren’t facts"></a>Thoughts aren’t facts</h2><p>Your thoughts and feelings are valid but they don’t always represent reality. If you feel ugly it doesn’t matter that you are ugly.</p><p>More often than not, we can be our worst enemies, whereas other people see us in a much nicer light.</p>]]></content>
     
@@ -174,7 +304,7 @@
     <link href="https://kostyuchenok.com/blog/2024/02/13/mentoring-questions-1/"/>
     <id>https://kostyuchenok.com/blog/2024/02/13/mentoring-questions-1/</id>
     <published>2024-02-13T17:07:19.000Z</published>
-    <updated>2024-05-07T14:48:48.742Z</updated>
+    <updated>2024-05-13T07:43:09.719Z</updated>
     
     <content type="html"><![CDATA[<p>As part of my mentoring activity I am often being asked questions regarding software development, talent growth, team management and more.</p><p>I would like to share my thoughts on some of the questions I was confronted with. It may help some of the followers of my writing.</p><span id="more"></span><ul><li>Should you train the best developers to get better or should you train the mediocre to get better?<ul><li>“A team is only as strong as its weakest link” – Mark Grey</li><li>If you can afford to train both the best and the weakest - train both</li><li>You could train the best to get even better and let them train the weak ones to get into their best shape</li><li>Not every good developer is a good trainer/coach/mentor</li><li>If you don’t train the weak links, they will fall behind even more and since A-Players want to work with A-Players, you will have hard time to grow talent internally</li></ul></li><li>Why do you put the best developers as team leads and lose them where they are most valuable? Who could do the lead work instead?<ul><li>Let’s get it out of the way: <code>Not every good developer is a good team leadi</code></li><li>Who should lead your team depends on what “leading” exactly means in your team/company<ul><li>Leading the team technically<ul><li>By teaching the team members about the technical quirks of the product?</li><li>By teaching the team the best practices of software development and helping them grow professionally (growing talent)?</li><li>All of the above and more…</li></ul></li><li>Leading the team generally<ul><li>By shielding the team from the board/VPs/C-Level to let them work on the product improvements?</li><li>By leading talks about team setup, team empowerment, team growth?</li><li>By conducting interviews, finding and hiring new team members etc.?</li><li>All of the above and more…</li></ul></li></ul></li><li>So, depending on what “leading” means in your setup, you could designate different people for the team lead role<ul><li>If you look for someone who should spread the knowledge about your architecture, you may choose the first person in the team</li><li>If you look for someone who should spread the knowledge about software architecture and design patterns in general, you may choose the best software developer on the team</li><li>If you look for someone who should help growing the talent on your team, you may choose someone who’s the best in identifying weak spots of a person and target them so that they can improve</li></ul></li><li>I guess you promote the best developers to the team lead positions because it’s an obvious choice. You don’t have to think about the exact problem you’re trying to solve.</li></ul></li><li>Estimations are a huge topic in software development, what is your estimations strategy? Which techniques work best in your setup?<ul><li>There should be NO ESTIMATIONS in man-hours - that’s just ridiculous 🙂</li><li>Story points may work for a newly assembled team that doesn’t know its velocity yet</li><li>Story points are not for the  management but for the team. Once management starts converting them into man-hours - you can STOP using them</li><li>What worked best for us is - not doing any story points based estimations. When the team works long enough together - they can pick up the work for the next sprint without putting any points on a story</li></ul></li></ul>]]></content>
     
@@ -192,7 +322,7 @@
     <link href="https://kostyuchenok.com/blog/2024/02/09/5-dysfunctions-team/"/>
     <id>https://kostyuchenok.com/blog/2024/02/09/5-dysfunctions-team/</id>
     <published>2024-02-09T18:18:26.000Z</published>
-    <updated>2024-05-07T14:48:48.730Z</updated>
+    <updated>2024-05-13T07:43:09.707Z</updated>
     
     <content type="html"><![CDATA[<p>Social interaction is hard by itself. What makes it even harder is when the survival of your company depends on it and it always does. To understand why the teams, products and ultimately companies fail, let’s take a closer look at the most severe dysfunctions of a team.</p><p><img src="/blog/2024/02/09/5-dysfunctions-team/five-dysfunctions.png" alt="Five Dysfunctions of a Team"></p><span id="more"></span><h1 id="Absence-of-Trust"><a href="#Absence-of-Trust" class="headerlink" title="Absence of Trust"></a>Absence of Trust</h1><p>Trust is the foundation of real teamwork. And so the first dysfunction is a failure on the part of team members to understand and open up to one another. It is an absolutely critical part of building a team. In fact, it’s the foundation of the team work. Where there isn’t any trust, there isn’t any team that can successfully work towards a common goal.</p><h1 id="Fear-of-Conflict"><a href="#Fear-of-Conflict" class="headerlink" title="Fear of Conflict"></a>Fear of Conflict</h1><p>The lack of trust will inevitably lead to the fear of conflict and we are afraid of the conflict we will not engage in open, constructive, ideological debate.</p><p>People who are afraid of conflict will hold back their opinions just to avoid it. Conflict is not about only getting your opinions out but it’s also about creating the best version of the product you’re building and agree on the common goal for your product, team or company.</p><h1 id="Lack-of-Commitment"><a href="#Lack-of-Commitment" class="headerlink" title="Lack of Commitment"></a>Lack of Commitment</h1><p>For the product to be successful everyone on the team should buy into the goals. If you don’t believe in the vision of your company or don’t buy in into the next goal that is to achieve, then you won’t be fully committed to it.</p><p>So, considering previous point <code>Fear of Conflict</code> - when people don’t unload their opinions and feel like they have been listened to, they won’t fully get on board.</p><p><code>Disagree and commit</code> is a method of avoiding the consensus trap, in which the lack of consensus leads to inaction. In full it sounds like following: <code>Agree and commit, disagree and commit, or get out of the way</code>.</p><h1 id="Avoidance-of-Accountability"><a href="#Avoidance-of-Accountability" class="headerlink" title="Avoidance of Accountability"></a>Avoidance of Accountability</h1><p>Once you achieve clarity and buy-in from everyone on the team, it is then that everyone has to hold each other accountable for what the team signs up to do, for high standards of performance and behavior. And as simple as that sounds, most executives hate to do it, especially when it comes to a peer’s behavior, because they want to avoid interpersonal discomfort.</p><h1 id="Inattention-to-Results"><a href="#Inattention-to-Results" class="headerlink" title="Inattention to Results"></a>Inattention to Results</h1><p><code>Inattention to Results</code> is the ultimate dysfunction. It plays directly into the human’s biggest game of <code>Status and Ego</code>. It’s much easier to seek out individual recognition and attention even if it happens at the expense of the overall result.</p><p>If everyone is focused on the collective goal, it is difficult for ego to get out of hand. What everyone has to understand is no matter how good an individual on the team might feel about his performance <code>when the team loses, everyone loses</code>.</p>]]></content>
     
@@ -212,7 +342,7 @@
     <link href="https://kostyuchenok.com/blog/2024/02/01/self-sabotage/"/>
     <id>https://kostyuchenok.com/blog/2024/02/01/self-sabotage/</id>
     <published>2024-02-01T13:31:05.000Z</published>
-    <updated>2024-05-07T14:48:48.750Z</updated>
+    <updated>2024-05-13T07:43:09.727Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>This post is a mix of the ideas taken out of the Netflix movie <a href="https://www.netflix.com/tudum/stutz">Stutz</a> and my own knowledge on psychology, evolution and creativity gathered over the years.</p></blockquote><p>The first step to overcome our brain’s intention to self sabotage important decisions is to embrace the reality. There are three aspects of the reality that no one can avoid. Those three aspects are:</p><ul><li>Pain - no matter what you do in life, no matter how good your intentions are - the pain is inevitable</li><li>Uncertainty - even if you try to thoroughly plan every step you take and every thought you think, there will always be stuff out of your control. It will have an impact on you - either positive or negative but you won’t be able to control it</li><li>Constant Work - work on yourself never stops. Whenever you think you are it means you start going backwards</li></ul><span id="more"></span><p>So, what is the origin of <code>Self Sabotage</code>. We humans have been living in a rather safe environment for the last couple of hundreds of years. Before that for thousands of year we lived in a state of constant danger, which lead to our brain developing the protection mechanism against everything that it sees as a danger.</p><p>Although the intentional idea has been very good and helped us to survive all this thousands of years as a species, we need to overcome this protection whenever we have to develop a new habit. See the <code>Self Sabotage</code> as your <code>comfort zone</code> that actively holds you back from any changes - negative or positive ones.</p><p><code>Self Sabotage</code> is coming from the primal part of our brains and cannot be avoided. There is no known way to switch it off, whenever there will be uncertainty there will be self-doubt. The greater the uncertainty and adversity the bigger the opportunity and the more your brain will try to sabotage it.</p><p>If you can learn to overcome your fears, it will change your life. Let’s examine some of the tools that can be helpful in overcoming <code>Self Sabotage</code>.</p><p>The shame and embarrassment is the glue that holds the humanity together. We were created to make mistakes. Making mistakes is the only way to accomplishing anything in life.</p><h1 id="The-Tools"><a href="#The-Tools" class="headerlink" title="The Tools"></a>The Tools</h1><p>The Tools are a set of exercises that can help you to turn an unpleasant experience into an opportunity.</p><h2 id="String-of-Pearls"><a href="#String-of-Pearls" class="headerlink" title="String of Pearls"></a>String of Pearls</h2><p>Don’t devalue the small steps you’re taking. Even the smallest ones. Doing every small thing the best as you can, will definitely yield results.</p><p>Imagine your life as a string of pearls. Every pearl is one action. Every action has the same value. It doesn’t matter where an action is a failure or a success - the most important thing is to keep going and put the next pearl on the string.</p><p>You got out of bed - you just put a pearl on your string. You brushed your teeth - boom - next pearl is on the string. You wrote one sentence of your new book - there is your next pearl etc. etc.</p><p>As we already learned <code>uncertainty</code> is one of the three aspects of reality we cannot avoid. The winner is someone, who keeps putting pearls on his string ignoring the uncertainty and pain.</p><blockquote><p>The true confidence is living in uncertainty and moving forward. – Dr. Phil Stutz</p></blockquote><p>Every pearl on the string will have an imperfection inside and that’s ok. Perfection kills productivity and can even kill the best intentions. Do the best you can right now and keep going.</p><h2 id="The-Shadow"><a href="#The-Shadow" class="headerlink" title="The Shadow"></a>The Shadow</h2><p>The Shadow represents the part of yourself you’re ashamed of - the time when you were fat or the time when you were skinny, the time when you chickened out or the time when you were extremely indecisive. But all these times in the past it was also you. This part of you won’t to be recognized as well.</p><p>As long as you will try to avoid confronting your past, imperfect self - you won’t be at peace with it and it will appear at the most inconvenient times and block you again. Recognize yourself, be at peace with yourself and the next decision you must make will fall easier.</p><h2 id="The-Snapshot"><a href="#The-Snapshot" class="headerlink" title="The Snapshot"></a>The Snapshot</h2><p>The world is not perfect and neither are we. Understanding all that our brain is still able to trick us into the illusion of the perfect experience. We are searching for it even knowing that it doesn’t exist. The perfection only exists in our mind. It’s not to be found in the real world.</p><p>No matter whether you’re looking for a perfect partner or a perfect movie - you are destined to fail. There will be nearly perfect moments in your life - no doubt about it but these will be just moments - the snapshots. The snapshot is a still picture. It has no depth - the depth is added by the imperfections. We are chasing the perfection that doesn’t exist ignoring three aspects of reality - pain, uncertainty and constant work.</p><p>Money and success won’t remove three aspects of reality. Stop chasing the phantom and start living.</p><h2 id="The-Maze"><a href="#The-Maze" class="headerlink" title="The Maze"></a>The Maze</h2><p>The Maze is the by-product of <code>Self Sabotage</code> because <code>Self Sabotage</code> wants <code>fairness</code>. A classic example of the maze is when you spend lots of time talking about someone who mistreated you in the past. You’re looking for fairness but at the same time the endless search for fairness blocks you from moving forward. It blocks you from taking the next step because you’re afraid that you will get treated unfair again.</p><blockquote><p>Request for fairness puts your life on hold. – Dr. Phil Stutz</p></blockquote><h1 id="The-Work"><a href="#The-Work" class="headerlink" title="The Work"></a>The Work</h1><p>Constant work is one of the three aspects of the reality. What is the <code>constant work</code> that we have to do to not dwell on the past, don’t get stuck on the things we cannot change and keep being creative.</p><h2 id="The-Grateful-Flow"><a href="#The-Grateful-Flow" class="headerlink" title="The Grateful Flow"></a>The Grateful Flow</h2><p>The sun is always out there above the clouds even if you don’t see it. There’s always light, love and positivity. The question is: how do you penetrate the clouds so that you can see the sun.</p><p>You can penetrate the clouds with gratefulness. Gratefulness gives you the feeling that there’s always something positive out there.</p><p>Gratitude is the way to break through the haze of negativity. The <code>Grateful Flow</code> is the process of creating the concentrated gratitude in your own mind and use it to break through the clouds of negativity until you can see the light again.</p><h2 id="Radical-Acceptance"><a href="#Radical-Acceptance" class="headerlink" title="Radical Acceptance"></a>Radical Acceptance</h2><p>The concept of <code>Radical Acceptance</code> was initially introduced by <a href="https://en.wikipedia.org/wiki/Marsha_M._Linehan">Marsha Linehan</a>.<br>She learned it first when she visited a Buddhist Monastery. The basic message is <code>to try to radically accept everything and let go of desires or what you want every single morning</code>. The example would be <code>letting go of wanting a particular job</code>.</p><p>The recognition that you don’t always have to have whatever it is you want - is very liberating.</p><p>Suppressing what you want is not the way to go. You have to radically accept that you don’t have what you want and it’s not a catastrophe.</p><p><code>Radical Acceptance</code> has to be a regular practice. Radical acceptance doesn’t mean you don’t try to change things because you only have to radically accept the moment you’re in and the past but you can try to change the next moment. You can’t change anything if you don’t accept it in the first place because you will try to change something that you think is reality.</p><p><code>Radical Acceptance</code> is about accepting the reality it is what it is.</p><h2 id="Active-Love"><a href="#Active-Love" class="headerlink" title="Active Love"></a>Active Love</h2><p><code>Active Love</code> is the love that’s independent of your immediate reaction. That’s the love that’s bigger, better and more powerful than fairness.</p><p>Imagine that you accumulate all the love in the world and use it whenever you feel an unfair treatment.</p><p>Whenever you feel that you’ve been treated unfairly you have the choice of either entering the state of deprivation or put the accumulated love out.</p><p><code>Active Love</code> helps you not to get stuck by constantly pursuing the state of ephemeral fairness.</p>]]></content>
     
@@ -239,7 +369,7 @@
     <link href="https://kostyuchenok.com/blog/2024/01/29/life-force/"/>
     <id>https://kostyuchenok.com/blog/2024/01/29/life-force/</id>
     <published>2024-01-29T08:21:51.000Z</published>
-    <updated>2024-05-07T14:48:48.742Z</updated>
+    <updated>2024-05-13T07:43:09.719Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>Each man had only one genuine vocation - to find the way to himself….His task was to discover his own destiny - not an arbitrary one - and to live it out wholly and resolutely within himself. Everything else was only a would-be existence, an attempt at evasion, a flight back to the ideals of the masses, conformity and fear of one’s own inwardness.<br>― Herman Hesse</p></blockquote><span id="more"></span><p>If you had troubles finding your vocation, it may be due to the fact that you’re out of your life force. Let’s see what the life force is and how you can get it back.</p><p>If you feel down and depressed. If you feel like you lost a sense of direction and you don’t know what to do next. You can always work on your life force.</p><p>The only way to find our what you should be doing or who you truly are is to activate your life force. Life force is the only part of you that is capable of guiding you when you’re lost.</p><p>If you imagine a life force being a pyramid, there are three levels of it:</p><ul><li>The bottom level, the foundation is <code>your relationship with your physical body</code>.</li><li>The second level is <code>your relationship with other people</code>.</li><li>The highest level is <code>your relationship with yourself</code>.</li></ul><p><img src="/blog/2024/01/29/life-force/Life-Force-Triangle.png" alt="Life Force Triangle"></p><h1 id="Body"><a href="#Body" class="headerlink" title="Body"></a>Body</h1><p>That is the bottom step of the life force.</p><p>You have to take care of your  body first. Otherwise you cannot take on any serious task in your life. Your judgments will be compromised by your health issues.</p><p>Your objective is to get your body working better and it always works. The most classic thing why your body is not at its best, is the lack of <code>exercise</code>.</p><p>The second most important thing is your <code>diet</code>. And the third one is your <code>sleep</code>.</p><p>So, when you start taking care of your body you will automatically start feeling better. In the very beginning improving your relationship with your body will give you 85% of your life force.</p><ul><li>Exercise</li><li>Diet</li><li>Sleep</li></ul><p>Your relationship with your body is only the first level. The next level is <code>your relationship with other people</code>.</p><h1 id="People"><a href="#People" class="headerlink" title="People"></a>People</h1><p>When you’re getting depressed you not necessarily end your relationship with other people but they are more and more getting pulled back from your life.</p><p>The relationships are like steps in a ladder. The more of them disappear from your life the harder it will get to climb up the ladder, cause the steps are missing. Without steps it will get harder and harder to pull yourself back into life.</p><p>They key here is - you have to take the initiative. You shouldn’t be waiting for other people to take the initiative. If you wait for them to do it, you don’t understand the problem.</p><p>You have to be proactive in meeting new people and communicate with them.</p><p>You could invite someone to lunch that you don’t find interesting. It doesn’t really matter. It will still affect you in a positive way. Every person you interact with symbolically represents the whole humanity.</p><p>That’s the middle tier. The highest tier though is <code>your relationship with yourself</code>.</p><h1 id="Yourself"><a href="#Yourself" class="headerlink" title="Yourself"></a>Yourself</h1><p>That is the highest tier in your <code>Life Force Triangle</code>.</p><p>Your relationship with yourself is to be understood as <code>your relationship with your unconscious</code>. You don’t really know what’s in your unconscious, until you activate it.</p><p>One trick that you can use is <code>writing</code>. Writing is a magical thing that activate your unconscious.</p><p>Your get to know yourself by writing. It doesn’t matter what you write. You don’t have to be a writer. If you just start writing, it will act as a mirror. Your writing will reflect, what’s going on in your unconscious and things that you didn’t that you knew, will start coming out.</p><p>These are the three pillars of your life force. If you feel lost, don’t try to figure it out - work on you life force first and things will fall into place.</p>]]></content>
     
@@ -260,7 +390,7 @@
     <link href="https://kostyuchenok.com/blog/2024/01/07/own-nothing/"/>
     <id>https://kostyuchenok.com/blog/2024/01/07/own-nothing/</id>
     <published>2024-01-07T17:21:46.000Z</published>
-    <updated>2024-05-07T14:48:48.746Z</updated>
+    <updated>2024-05-13T07:43:09.723Z</updated>
     
     <content type="html"><![CDATA[<p>We’ve been hearing the <code>declutter</code>, <code>shared economy</code> and <code>own less</code> to <code>own nothing</code> narrative for the past couple of years now but what is it all about? Why, all of a sudden, we should stop owning anything although it is against our nature. Why is this narrative being pushed upon us so vigorously by the people that are owning almost everything? Let’s find out.</p><span id="more"></span><p>Just 60-70 years ago, owning a home, a couple of cars and a business was a dream of at least 90% of the people. And that’s not a surprise really. Since forever people have been trying to get independent by building its wealth and getting a certain societal status.</p><p>We, people, are social animals and the status game is one of the few games that’s hard-coded in us. We’ve been playing it since tribal times and we’ve been loving it. It’s not a surprise, since we’re wired for hierarchy and the status game.</p><p>How did it come to be that many people have bought into the <code>own nothing</code> narrative, assuming it’s actually against people’s nature?</p><p>Let’s analyze who’s interested in the majority that does neither own a car nor a house. Whoever will rent both of those properties out to you - your landlord or a car rental company. Despite the fact that the idea is sold to you as being liberating it is actually limiting. You may think you have all the choices in the world - live anywhere you like and drive any car you want but it could also mean - <code>you can only live where you&#39;re allowed to or only drive a car that is rented out to you</code> and both those choices are not necessarily your decisions. You landlord decides whether you will be able to rent a house of a flat and the car owner will decide, whether you will be allowed to drive a rental.</p><p>On top of that you’re getting accustomed to letting go of any of your possessions. It teaches you not to protect what’s yours and be <code>ok</code> with what you already have (which is not too bad in first approximation and sounds rather stoic) but it also teaches you not to strive for anything, lower your expectations and just become more obedient than you already are.</p><p>Without owning anything you can end up on the street very easily - you’re unprotected. If a rental company or an individual want to block you from renting their stuff - they can and you cannot do anything about it - you don’t own it.</p><p>If you have already bought into the idea of owning nothing, you’re already being controlled. Someone incepted this idea into your mind against your will, against the human nature.</p><p>Always remember that people who are convincing you to get rid of all of your possessions are the ones who own multiple real estates, multiple cars and will gladly rent them out to you as long as you don’t misbehave.</p><p>If you have bought into this story telling, here is your 3 step plan for you to become a perfect citizen:</p><ul><li>Own nothing</li><li>Decide nothing</li><li>Be nothing</li></ul>]]></content>
     
@@ -279,7 +409,7 @@
     <link href="https://kostyuchenok.com/blog/2023/11/30/rich-people-economy/"/>
     <id>https://kostyuchenok.com/blog/2023/11/30/rich-people-economy/</id>
     <published>2023-11-30T16:15:22.000Z</published>
-    <updated>2024-05-07T14:48:48.750Z</updated>
+    <updated>2024-05-13T07:43:09.727Z</updated>
     
     <content type="html"><![CDATA[<p>If you have ever asked yourself why rich people get richer and poor people get poorer - this article is for you</p><p>Let’s see why it is so hard to leave the poverty land and acquire the rich people mentality.</p><p>To fully understand the problem, let’s illustrate the differences between a person being born into a wealthy family versus a person being born into a regular one.</p><span id="more"></span><p>Being born into a wealthy family comes with a lot of perks. From the very childhood you have the access to the best possible education. As a child you will have a private tutor teaching you different language and giving you history and geography lessons, so once you reach the school age you will already have a superior view on the world, as the normal kids.</p><p>Once you reach the school age, you will attend the best possible private educational institution with other smart and reach kids, making valuable connections from the very early age. Even if you are not very smart or if you are lazy, by finishing the school you will have built up a great network of high network individuals and future company executives and political leaders.</p><p>After you finished your school, you will attend one of the best universities in the world and will continue extending your network and once you will get out of the door of your high profile educational facility you are set for the rest of your life - you have the most extended connection grid consisting of your schoolmates, university mates and their parents. You will automatically land a high-paying job without the need of having any experience or the need to prove that you are worth of it.</p><p>In contrary to that, if you were born in a regular family, at the end of your school you will have received a mediocre education and surrounded yourself mainly with regular people. Only 5% of them will achieve anything in their lifetime. You are automatically excluded from the network of power and wealth.</p><p>You will attend a regular university, earning a mediocre degree and struggling to get a job because you won’t have received any valuable experience during your studies. Once you will land a job in a bigger company or a large corporation, you will start wondering: <code>why don&#39;t many of your bosses understand the business they are in and why they are never responsible for the mistakes they make</code>.</p><p>It’s a regular practice to not fire a CEO even if she made a huge mistake that caused a company huge losses. Most of the time the responsibility is pushed on to the higher management with the explanation <code>they weren&#39;t able to execute the orders of the CEO/CTO/CFO etc.</code>. Even in an unlikely event of the head of the company being fired, she will be immediately offered a new high paying position at another high profile company.</p><p>Having the largest network of high network individuals, a rich person will be offered a lot of luxury goods for free. As a regular person, you will look up to a successful person. You will try to copy her way of life thinking that by owning luxury things, you will be part of the network but don’t kid yourself you never will.</p><p>Even if you have reached high status and became truly wealthy, you will always be looked down upon by a person being born into a rich family.</p>]]></content>
     
@@ -298,7 +428,7 @@
     <link href="https://kostyuchenok.com/blog/2023/10/06/reverse-pitch/"/>
     <id>https://kostyuchenok.com/blog/2023/10/06/reverse-pitch/</id>
     <published>2023-10-06T16:37:59.000Z</published>
-    <updated>2024-05-07T14:48:48.750Z</updated>
+    <updated>2024-05-13T07:43:09.727Z</updated>
     
     <content type="html"><![CDATA[<p>Best way to get invested in is <code>not to ask for money</code>.</p><p>If you want to secure an investment from a reputable investor or a VC fund you have to use the <code>reverse pitch</code> method</p><span id="more"></span><p>What is a <code>reverse pitch</code>. As you may have already guessed it’s when an investor pitches himself to you.</p><p>How do you get an investor pitching to you though?</p><p>What you have to understand in the first place is that an investor gets thousands of pitches a year and only places 1 to 2 investments. Even if you will get 15-30 minutes to pitch your product, the most investment decisions are done in the first 2 minutes, so you have only 2 minutes to catch your potential investor’s attention.</p><p>If you will start as any other startup presenting your product and begging for money, you already lost the game even if you have an incredible product. Here where the <code>reverse pitch</code> comes into play.</p><p>Here are the steps that need to be taken in order to achieve the situation where an investor pitches herself to you:</p><ul><li>Do a thorough research on the investors and find the ones who already invested in similart startups or in the startups in similar categories.</li><li>Although you won’t really pitch your product, you have to know it really well. Know you market, know your reach. Be solid when you spit facts and be confident about your success.</li><li>Once you’ve done all the preparations, talk to the investors of your choice, briefly introduce your company or product and ask them how they can help you to reach your goals. Don’t ask for money but ask them if they have enough connections and expertise to help your company grow exponentially.</li></ul><p>They will get definitely more intrigued by your approach then by a standard pitch deck - they’ve already seen thousands of them and you will have way better chances to get to the next step.</p>]]></content>
     
@@ -316,7 +446,7 @@
     <link href="https://kostyuchenok.com/blog/2023/06/13/exaltatio/"/>
     <id>https://kostyuchenok.com/blog/2023/06/13/exaltatio/</id>
     <published>2023-06-13T20:40:22.000Z</published>
-    <updated>2024-05-07T14:48:48.734Z</updated>
+    <updated>2024-05-13T07:43:09.711Z</updated>
     
     <content type="html"><![CDATA[<p><code>Exaltatio</code> - Latin for <code>a state of being carried away by overwhelming emotion</code></p><p><code>May you live in interesting times</code> - English curse</p><span id="more"></span><p>If you are not excited about the future, then you must be deeply depressed about it.</p><p>The world is in the turmoil. It always is but now all the world starts to feel it. We are amidst of the big change that will either end the unipolar world or establish it even stronger.</p><p>In case of any outcome everyone in the world will feel it big time. If you believe in the fairy tale of evil Russia trying to rob Ukraine of its independence - stop reading right now and go and do some research finally.</p><p>The battle we’re all witnessing at the moment is the battle for keeping the West at its power. That’s the battle that US is fighting with Ukrainian hands and the European money.</p><p>The west is losing the <code>free market</code> competition. The east is on the rise and neither Europe nor USA can compete with them without the unfair advantage of having access to cheap resources.</p><p>As we all remember Josep Borrell was talking about it during the <a href="https://www.eeas.europa.eu/eeas/eu-ambassadors-annual-conference-2022-opening-speech-high-representative-josep-borrell_en">EU Ambassadors Annual Conference 2022</a>:</p><blockquote><p>Our prosperity has been based on cheap energy coming from Russia. Russian gas – cheap and supposedly affordable, secure, and stable.</p></blockquote><p>So, US made sure that Europe doesn’t have access to cheap resources anymore by blowing up the Nord-Stream-Pipelines and not leaving Europeans any chance to not participate in the currently running conflict by providing financial and military aid to Ukraine.</p><p>Europe is on the US hook and cannot say anything against its <a href="https://en.wikipedia.org/wiki/Suzerainty">suzerain</a>. If it would, then the financial decline would come way faster that it will.</p><p>Europe took the lesser of two evils with the hope of experiencing the collapse of Russian Federation as a multi national state just to later get the needed resources almost for free.</p><p>The current military conflict is the one between the weakening super power and its mignons against the <code>developing</code> and the <code>3rd</code> world that is sick and tired of being oppressed and robbed by the friendly and educated Europeans and Americans. To illustrate what the <code>golden billion</code> thinks about the rest of the world, let’s use the <a href="https://www.youtube.com/watch?v=f8SKblpc7kY">speech</a> of already mentioned in this blog post Josep Borrell:</p><blockquote><p>Europe is a garden. We have built a garden…The rest of the world – and you know this very well, Federica [Mogherini] – is not exactly a garden. Most of the rest of the world is a jungle, and the jungle could invade the garden.</p></blockquote><p>You’re not welcome in the sacred garden that was build by using cheap or even free resources probably from the  country you’re coming from.</p><p>Russian politicians are aware of that along with the Russian people, thus they will fight until the very end. It’s their battle for survival, whereas for the West it’s the battle to stay on top of the food chain.</p><p>Let’s discuss the potential outcomes of the current conflict between the West and the East. The one thing we know for sure, the world will get less global than it is right now.</p>]]></content>
     
@@ -334,7 +464,7 @@
     <link href="https://kostyuchenok.com/blog/2023/02/27/progression/"/>
     <id>https://kostyuchenok.com/blog/2023/02/27/progression/</id>
     <published>2023-02-27T09:49:10.000Z</published>
-    <updated>2024-05-07T14:48:48.750Z</updated>
+    <updated>2024-05-13T07:43:09.727Z</updated>
     
     <content type="html"><![CDATA[<p>If you want your team to be efficient, you will have to nurture and grow your own talent. It may be very seductive to hire an on- or an off-shore software development shop to quickly build out your product but it’s a slippery slope if you are planning to build a proper company and not just ride the hype wave and hope you will sell out soon.</p><span id="more"></span><p>Let’s see what are the advantages of an external team:</p><ul><li>You don’t have to deal with finding, hiring and teaching people</li><li>You don’t have to inspire and manage them</li></ul><p>What are the disadvantages:</p><ul><li>The external team will never buy in into your idea</li><li>You won’t be able to motivate them</li><li>You will never be in full control of the product that’s being built</li></ul><p>For people to progress quicker they must feel safe. In order to create a safe environment, you have to be transparent with them - transparent about the company, the product, your plans and their career path.</p><p>The career path transparency may be the most crucial part of the safety equation.</p><h2 id="Team-Dynamics"><a href="#Team-Dynamics" class="headerlink" title="Team Dynamics"></a>Team Dynamics</h2><p>A-Players don’t want to work with B-Players and may even leave your company if some B-Players will sneak in. The main problem with the B-Players is their insecurity. They will do everything to hire people who are less smart than them, what can cause a complete deterioration of the company.</p><p>A team of A-Players will work as a well-oiled machine. Adding a B-Player to it is like throwing a stone into the working engine. The engine will slow down at first, start rattling at second and break at last.</p><h2 id="Productivity"><a href="#Productivity" class="headerlink" title="Productivity"></a>Productivity</h2><p>Different people thrive in different environments. Some people work better in a totally relaxed atmosphere whereas the others are more productive under pressure.</p><p>Having different personalities on the team will help you keep your productivity high at all times.</p><h2 id="Growing-Talent"><a href="#Growing-Talent" class="headerlink" title="Growing Talent"></a>Growing Talent</h2><p>Growing your own talent may be rewarding but it’s also very costly. Sometimes it’s unavoidable though.</p><p>If you’re building your new team and bootstrapping you won’t have enough money to hire the senior people you may need. Growing your own talent is one possible way to go.</p><p>Advantages of growing your own talent:</p><ul><li>You will be able to grow talent that breathes your culture</li><li>They will grow together with your company and have an emotional bond to it</li><li>They will not just work for money but feel as part of the family</li></ul><p>Disadvantages of growing your own talent:</p><ul><li>It takes time</li><li>It’s rather expensive</li><li>The inexperienced people will inevitable <code>waste</code> the time of your more experienced team members</li><li>They won’t immediately contribute to the success of your company</li><li>Some people may leave your company immediately after they started to get some knowledge. You have to think about smart ways to incentivise them to stay</li></ul><h2 id="Progression-Framework"><a href="#Progression-Framework" class="headerlink" title="Progression Framework"></a>Progression Framework</h2><p>As we already stated above to create a safe environment, where people can grow professionally and personally, we need to establish a clear growth path that people can follow to get to new heights of their careers.</p><p>This <code>progression framework</code> has to outline the work that has to be performed and knowledge that has to be gained to get to the next steps in our career.</p><p>Your <code>progression framework</code> has to be supported by the day-to-day work and the tasks that are assigned to your junior team members by the senior ones. Their progression has to be tracked and aligned. Otherwise you will run into the misunderstandings of expectations and won’t be able to properly measure the performance of your team members.</p><p>You have to set and track both short-, mid- and long-term goals for your team members and thus perform short-, mid- and long-term performance reviews and interviews with them. Use the weekly one-on-ones, monthly and quarterly performance reviews. The weekly one-on-ones are mainly for your team member to ask questions, raise concerns and propose improvements.</p><p>During the monthly and quarterly reviews, your senior team members should not only provide the feedback on the current state of the progression but also outline the steps that has to be taken to continue to progress successfully or get back on track if the progression has been derailed. They also have to reevaluate and potentially to set new goals that have to be achieved until the next performance review.</p>]]></content>
     
@@ -353,7 +483,7 @@
     <link href="https://kostyuchenok.com/blog/2023/02/16/hire-please/"/>
     <id>https://kostyuchenok.com/blog/2023/02/16/hire-please/</id>
     <published>2023-02-16T15:21:15.000Z</published>
-    <updated>2024-05-07T14:48:48.742Z</updated>
+    <updated>2024-05-13T07:43:09.719Z</updated>
     
     <content type="html"><![CDATA[<p>Everything written below is highly influenced by my personal experience and talks that were given by the people I’m following.</p><span id="more"></span><div style="text-align: center;">  <figure>    <img width="100%" src="hire-please.jpeg"/>    <figcaption>      Teams of Startup Founders    </figcaption>  </figure></div><h2 id="Protect-Your-Team"><a href="#Protect-Your-Team" class="headerlink" title="Protect Your Team"></a>Protect Your Team</h2><p>A good leader always protects his team from other teams and other leaders (higher management).</p><ul><li>A failure of your team is your failure</li><li>A success of your team is their success</li></ul><h2 id="Support-Your-Team"><a href="#Support-Your-Team" class="headerlink" title="Support Your Team"></a>Support Your Team</h2><p>What to do when one of your teammates decided to leave - support her, even if it’s hard for you. When you see that people cannot grow further in your company or in their position, if you cannot give them the chance to grow - support them, even encourage them to leave. You’ll get a loyal person in another company/team.</p><h2 id="Loyalty"><a href="#Loyalty" class="headerlink" title="Loyalty"></a>Loyalty</h2><p>Don’t expect people to be loyal to your brand. People should be loyal to the team they belong to, not to the brand.</p><h2 id="Same-Values"><a href="#Same-Values" class="headerlink" title="Same Values"></a>Same Values</h2><p>The team and the leader should share the same values. Whenever you hire a new team member you should find out what she is ready for and what she’s not.<br>Try to hire people, not robots. The people who leave the workplace at 6pm sharp regardless of the current situation at work are as bad as the ones who put work before their kids or family.</p><h2 id="Behavioral-Patterns"><a href="#Behavioral-Patterns" class="headerlink" title="Behavioral Patterns"></a>Behavioral Patterns</h2><p>People don’t change. They also behave the same at work as they do with their family. See how your teammates behave. If your teammate treats his family badly the same will happen at work. Don’t kid yourself.</p><h2 id="Inspiration"><a href="#Inspiration" class="headerlink" title="Inspiration"></a>Inspiration</h2><p>You cannot inspire people. Your goal should be to hire inspired people. If you hire the ones who love what they do, they’ll already be inspired by themselves. The best thing you can do is to to not kill their inspiration.<br>Communicate honestly with them. They should know why do you think they shouldn’t do certain things. But bear in mind if you already tried something and failed it doesn’t necessarily mean it won’t work next time with different people.</p><h2 id="Let-Them-Make-Mistakes"><a href="#Let-Them-Make-Mistakes" class="headerlink" title="Let Them Make Mistakes"></a>Let Them Make Mistakes</h2><p>You have to let them make their own mistakes. Mistakes are the best source of learning - that’s just a nature of learing. If you make all the decisions for them they won’t grow and will leave sooner rather than later. If you let them make their own mistakes they will grow faster by order of magnitude.</p><h2 id="Let-Them-Show-Off"><a href="#Let-Them-Show-Off" class="headerlink" title="Let Them Show Off"></a>Let Them Show Off</h2><p>Let your people the chance to show their accomplishments. If you see a team where only the leader is known for the work done, it means he is afraid of growing people stronger than him. A leader has to be sure that when he quit there are two people who can take his place and work better than him.</p><h2 id="Listen"><a href="#Listen" class="headerlink" title="Listen"></a>Listen</h2><p>Whenever you have to make a decision, hear everyone’s opinion before you announce your own. If you announce your opinion/solution first and hear a better one afterwards, it might get hard for you to accept it. It can lead to an irrational decision just because your pride didn’t let you take someone else’s opinion before yours.</p><h2 id="Gossip"><a href="#Gossip" class="headerlink" title="Gossip"></a>Gossip</h2><p>Don’t allow or participate in any gossip inside of your team - it will tear your team apart. Even worse, when you have a confrontation between two strong personalities inside of your team - you’ll have to fire at least one of them.</p><h2 id="Firing"><a href="#Firing" class="headerlink" title="Firing"></a>Firing</h2><p>Contrary to a popular believe, firing people is at least if not even more important than hiring them. You will make hiring mistakes, there’s no way around it. Sometimes you will hire people because you really liked them and were enamored by them. Some of those hires will work out, others won’t.</p><p>Once you realized you made a wrong hire, do not hesitate to part ways with this person. You’re the person in charge now. Nobody else will do it for you. Yes, it sucks to bring bad news to people but the longer you hesitate the harder it will get and the more damage your company will experience.</p><p>The outperformers on your team are the ones you should take care of in the first place and they will definitely see wrong hires. If you don’t correct your mistakes you can start bleeding people that move your company forward.</p>]]></content>
     
@@ -372,7 +502,7 @@
     <link href="https://kostyuchenok.com/blog/2023/02/16/founders/"/>
     <id>https://kostyuchenok.com/blog/2023/02/16/founders/</id>
     <published>2023-02-16T14:27:45.000Z</published>
-    <updated>2024-05-07T14:48:48.734Z</updated>
+    <updated>2024-05-13T07:43:09.711Z</updated>
     
     <content type="html"><![CDATA[<p>If you’re long enough in the tech business, you should have heard a tale about 3H that every startup needs. In order for a startup to become successful it needs 3 founders:</p><ul><li>a Hacker</li><li>a Hustler</li><li>a Hippie (they call it Hipster nowadays but don’t follow the crowd)</li></ul><span id="more"></span><div style="text-align: center;">  <figure>    <img width="100%" src="founders.jpeg"/>    <figcaption>      Mbanq Founders at the Mbanq Labs Hackathon in Singapore    </figcaption>  </figure></div><p>If you think about this setup for a bit, this constellation will definitely start making sense.</p><p>Let’s see what every one of those <code>3H</code> actually entails.</p><h2 id="A-Hacker"><a href="#A-Hacker" class="headerlink" title="A Hacker"></a>A Hacker</h2><p>Let’s start with the easiest one. A Hacker is your CTO - someone who will build the product, someone who cares about building cool products, someone who understands how to spend time efficiently.</p><p>Some tend to spend too much time over optimizing the early stage product.<br>Scalability doesn’t matter when you didn’t find your product fit yet. When you over optimize too early in the process, you’re wasting at least double the time by not executing on your idea, losing time on unnecessary bells and whistles before having found your product market fit.</p><p>As you may know, startup is all about the execution. The faster you can execute, the higher are the chances of your startup to become successful.</p><p>So a hacker should know how to <code>cut corners</code> in a smart way. There is a huge difference between your <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">MVP</a> and your end product.</p><p>Building products is hard, building valuable products is even harder - that’s exactly why every <code>hacker</code> needs a counterpart - <code>a hippie</code>.</p><h2 id="A-Hippie"><a href="#A-Hippie" class="headerlink" title="A Hippie"></a>A Hippie</h2><p>Who’s a hippie you may ask. If you are too young and don’t know who <a href="https://en.wikipedia.org/wiki/Steve_Jobs">Steve<br>Jobs</a> was, I pity you and recommend you to start getting to know about him.</p><p>Up to this date, I personally consider him to be the best <code>product person</code><br>ever - you can argue, I don’t care.</p><p>So, if you haven’t seen <a href="https://vimeo.com/475108226">The Lost Interview</a> yet - do it now, you won’t regret it.</p><p>One of the questions Steve was asked is <a href="https://www.youtube.com/watch?v=uf6TzOHO_dk">Are you a hippie or a nerd</a> - so when the best <code>product person</code> of all time considered himself <code>a hippie</code>, we can assume that <code>a hippie</code> is your <code>CPO</code>.</p><h2 id="A-Hustler"><a href="#A-Hustler" class="headerlink" title="A Hustler"></a>A Hustler</h2><p>This one is almost as clear as <code>a hacker</code> position. Your hustler is your <code>Head of Sales</code>. A very important person on your team. Don’t be disillusioned - <a href="https://samuelmullen.com/articles/startup-fallacies-if-you-build-it-they-will-come/">build it and they will come</a> is a fallacy. In the world full of similar products and never ending competition, you need <code>a hustler</code> who will sell your product to your customers and your idea to the investors.</p><p>This is the person who knows and believes in your product and help <code>a hippie</code> to find the best possible <a href="https://en.wikipedia.org/wiki/Product/market_fit">Product/market fit</a>.</p>]]></content>
     
@@ -396,7 +526,7 @@
     <link href="https://kostyuchenok.com/blog/2023/02/05/sell-please/"/>
     <id>https://kostyuchenok.com/blog/2023/02/05/sell-please/</id>
     <published>2023-02-05T16:04:19.000Z</published>
-    <updated>2024-05-07T14:48:48.750Z</updated>
+    <updated>2024-05-13T07:43:09.727Z</updated>
     
     <content type="html"><![CDATA[<p>First thing you have to understand is <code>the products don&#39;t sell themselves</code>. Build it and they will come - never works.<br>You will have to do marketing for your product or service.</p><p>If you want to successfully sell your product or service, you should sell a story.</p><span id="more"></span><div style="text-align: center;">  <figure>    <img width="100%" src="sell-please.jpeg"/>    <figcaption>      Singapore Business District    </figcaption>  </figure></div><p>People are egocentric, social creatures who value their status in society. Every product that contributes to their value will get high attention. This way products can move from being used to solving problems to becoming status symbols: <code>Rolex</code>, <code>iPhone</code>, <code>Tesla</code>. The products that moved into the <code>status symbol</code> category will yield the highest earnings for the product provider.</p><p>It’s not the only <code>status symbol</code> category that needs to sell a story though. Ultimately every product should. You don’t sell flight tickets - you sell freedom to travel. You don’t sell the possibility to book an apartment or a hotel, you sell the dream of being local in a new place or to live a luxurious life for 3 days a year etc. etc.</p><p>If you think this pattern is only applicable for the consumer products, you are wrong. Absolutely the same is true for the <code>B2B</code> sector. Every company wants to be better than its competitors and they are ready to pay the premium price if you will sell your product the right way.</p><p>In order to sell your product, you have to truly know your customer and push the right buttons</p><p>Build up a loyal community of early adopters - people who trust you, will do the early tests of your product and give you an honest feedback you can use to improve your product or service. Offer your early adopters community special deals on you products or services - nurture and engage with your community.</p><p>Selling a product is as important as building it. You not only have to sell your product to your customers but you often you have to sell it to your investor as well. Thus your <code>Head of Sales</code> has to both know your product in and out and believe in your idea and support it fully.</p><h1 id="Gist"><a href="#Gist" class="headerlink" title="Gist"></a>Gist</h1><ul><li>You sell a story not a product or service</li><li>Product as a status symbol will yield more revenue</li><li>Build a loyal customer community. They will help you to grow your customer base (see <code>Apple</code>, <code>Tesla</code>)</li><li>Learn to sell your idea both to your customers and your investors</li></ul>]]></content>
     
