@@ -167,6 +167,33 @@ The RegTech startups are helping businesses navigate the complex regulatory land
 
 |Company   |HQ   |Services   |
 |:---:|:---:|:---:|
+|ComplyAdvantage |UK   | AML, KYC|
+|IdentityMind Global   |US   | AML, KYC, Fraud Prevention|
+|ClauseMatch   |UK   |  Policy Management, Compliance|
+|Behavox   |UK   | Data and Communication Analysis  |
+|AQMetrics   |Ireland   | Risk and Performance Analytics |
+
+## SupTech
+
+SupTech, short for Supervisory Technology, refers to the use of technology by regulatory authorities (supervisors) to improve their oversight and supervision of financial institutions and markets. SupTech aims to enhance regulatory effectiveness, efficiency, and transparency through the use of innovative tools, data analytics, and automation.
+
+Overall, SupTech plays a crucial role in modernizing regulatory practices, strengthening financial supervision, and promoting financial stability and integrity in global markets. As regulatory requirements continue to evolve and become more complex, the adoption of SupTech is expected to increase, driving greater efficiency, transparency, and resilience in the financial system.
+
+## Key Aspects
+
+- Data Collection and Analysis
+- Risk Monitoring and Surveillance
+- Compliance and Reporting Automation
+- Supervisory Dashboards and Analytics
+- Regulatory Sandboxes and Innovation Hubs
+- Cybersecurity and Fraud Detection
+- Regulatory Compliance and Policy Analysis
+- Capacity Building and Training
+
+## Companies
+
+|Company   |HQ   |Services   |
+|:---:|:---:|:---:|
 |Suade Labs   |UK   | Collect and Analyze Regulatory Data  |
 |Regnosys   |UK   | Regulatory Reporting and Compliance  |
 |Alyne   |Germany   |  Risk Management, Compliance and Cybersecurity |
