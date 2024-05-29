@@ -1,21 +1,19 @@
 {% fa_css %}
 <link rel="stylesheet" href="/assets/styles/style.css">
 
-I'm a `Founder and Mentor` with more than two decades of professional experience in building successful companies, teams and products.
+As a `Founder and Mentor` with over two decades of experience in building successful companies, teams, and products, I bring a wealth of knowledge and expertise to the table.
 
-I was responsible for launching the first version of the most used banking software on the German market for the Mac OS platform.
+I spearheaded the launch of the first version of the most widely used banking software on the German market for the Mac OS platform. At `Fidor Bank`, I led the development of the world’s first Open Banking API.
 
-I led the development of worldwide first Open Banking API at `Fidor Bank`.
+Currently, I **lead the product and software development** for the Cloud Banking Platform at `FinLink, Inc.`, where we are creating a highly customizable Digital Banking Platform that can be deployed within hours.
 
-I currently <span class="important">lead the product and software development</span> of the Cloud Banking Platform at `FinLink, Inc.` where we are building an easy to customize Digital Banking Platform that can be rolled out in hours.
+In my role as a `Fractional CTO`, I built and launched `Cometum`, an innovative Investment Platform for alternative assets.
 
-As an `Fractional CTO` I built and launched `Cometum` - the Investment Platform for the alternative assets.
+I also established and managed Singapore's first `FinTech Accelerator`, fostering a dynamic environment for startups to thrive.
 
-I established and managed the first `FinTech Accelerator` in Singapore.
+In my spare time I enjoy writing <a href="https://www.amazon.com/s?rh=p_27%3AIgor+Kostyuchenok" target="_blank">books</a> and <a href="/blog">blogging</a> about stuff I'm interested in.
 
-In my spare time I'm writing <a href="https://www.amazon.com/s?rh=p_27%3AIgor+Kostyuchenok" target="_blank">books</a> and <a href="/blog">blog</a> about stuff I'm interested in.
-
-If you feel stuck or would like to get to the next stage in your career, book a session with me now.
+If you're feeling stuck or looking to advance to the next stage in your career, I invite you to book a session with me. Let's unlock your potential and achieve your goals together.
 
 
 <div style="margin-top: 30px;">
